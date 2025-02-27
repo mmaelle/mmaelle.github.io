@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Maëlle Moranges</title>
-    <link>http://localhost:1313/publication_types/paper-conference/</link>
-      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:52116/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:52116/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>http://localhost:52116/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <link>http://localhost:52116/publication_types/paper-conference/</link>
     </image>
     
     <item>
       <title>Exceptional attributed subgraph mining to understand the olfactory percept</title>
-      <link>http://localhost:1313/publication/moranges-2018-exceptional/</link>
+      <link>http://localhost:52116/publication/moranges-2018-exceptional/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2018-exceptional/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:52116/publication/moranges-2018-exceptional/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article Comment | Maëlle Moranges</title>
+    <link>http://localhost:52116/tags/article-comment/</link>
+      <atom:link href="http://localhost:52116/tags/article-comment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article Comment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52116/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Article Comment</title>
+      <link>http://localhost:52116/tags/article-comment/</link>
+    </image>
+    
+    <item>
+      <title>Explicit and implicit measures of emotions: Data-science might help to account for data complexity and heterogeneity</title>
+      <link>http://localhost:52116/publication/moranges-2021-explicit/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52116/publication/moranges-2021-explicit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

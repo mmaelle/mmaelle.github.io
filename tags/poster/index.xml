@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster | Maëlle Moranges</title>
+    <link>http://localhost:52116/tags/poster/</link>
+      <atom:link href="http://localhost:52116/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poster</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52116/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Poster</title>
+      <link>http://localhost:52116/tags/poster/</link>
+    </image>
+    
+    <item>
+      <title>Decoding student learning in medical education through UNESS platform interactions</title>
+      <link>http://localhost:52116/publication/moranges-2024-poster/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52116/publication/moranges-2024-poster/</guid>
+      <description>&lt;p&gt;Poster presented at the Symposium of GDR MaDICS, May 29-30, 2024&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling the subjectivity of human olfaction and its variability</title>
+      <link>http://localhost:52116/publication/mantel-2021-poster/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52116/publication/mantel-2021-poster/</guid>
+      <description>&lt;p&gt;Poster presented at the Association for Psychological Science Virtual Convention, May 26-27, 2021&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring the relation between olfaction and affective states using artificial intelligence algorithms</title>
+      <link>http://localhost:52116/publication/moranges-2020-poster/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52116/publication/moranges-2020-poster/</guid>
+      <description>&lt;p&gt;Poster presented at the European Chemoreception Research Organization, September 16-18, 2020, Dresden, Germany&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
