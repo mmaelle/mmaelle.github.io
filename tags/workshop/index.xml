@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshop | Maëlle Moranges</title><link>https://example.com/tags/workshop/</link><atom:link href="https://example.com/tags/workshop/index.xml" rel="self" type="application/rss+xml"/><description>Workshop</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7cf38c38523103e5.png</url><title>Workshop</title><link>https://example.com/tags/workshop/</link></image><item><title>Explain’AI Workshop - EGC 2025, Strasbourg</title><link>https://example.com/responsibilities/egc_2025/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://example.com/responsibilities/egc_2025/</guid><description>&lt;p>Co-organized the AI explainability workshop: planning, speaker selection, paper review and event facilitation in Strasbourg.&lt;/p></description></item><item><title>ComSciCon 2024, Lyon – Organizing Team</title><link>https://example.com/responsibilities/comscicon_2024/</link><pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate><guid>https://example.com/responsibilities/comscicon_2024/</guid><description>&lt;p>Designed the program, selected activities and speakers, and secured funding for the science communication workshop.&lt;/p></description></item><item><title>Explain’AI Workshop - EGC 2024, Dijon</title><link>https://example.com/responsibilities/egc_2024/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://example.com/responsibilities/egc_2024/</guid><description>&lt;p>Co-organized a one-day event on AI explainability: speaker selection, paper review, and session moderation.&lt;/p></description></item><item><title>ComSciCon 2023, Nancy – Organizing Team</title><link>https://example.com/responsibilities/comscicon_2023/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><guid>https://example.com/responsibilities/comscicon_2023/</guid><description>&lt;p>Led program design, selected speakers and coordinated logistics for the 2.5-day science communication workshop.&lt;/p></description></item><item><title>ComSciCon 2022, Marseille – Organizing Team</title><link>https://example.com/responsibilities/comscicon_2022/</link><pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate><guid>https://example.com/responsibilities/comscicon_2022/</guid><description>&lt;p>Supported logistics, candidate selection, and event coordination for this science communication workshop.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Maëlle Moranges</title>
+    <link>http://localhost:55106/tags/workshop/</link>
+      <atom:link href="http://localhost:55106/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55106/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Workshop</title>
+      <link>http://localhost:55106/tags/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Explain’AI Workshop - EGC 2025, Strasbourg</title>
+      <link>http://localhost:55106/responsibilities/egc_2025/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/responsibilities/egc_2025/</guid>
+      <description>&lt;p&gt;Co-organized the AI explainability workshop: planning, speaker selection, paper review and event facilitation in Strasbourg.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ComSciCon 2024, Lyon – Organizing Team</title>
+      <link>http://localhost:55106/responsibilities/comscicon_2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/responsibilities/comscicon_2024/</guid>
+      <description>&lt;p&gt;Designed the program, selected activities and speakers, and secured funding for the science communication workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explain’AI Workshop - EGC 2024, Dijon</title>
+      <link>http://localhost:55106/responsibilities/egc_2024/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/responsibilities/egc_2024/</guid>
+      <description>&lt;p&gt;Co-organized a one-day event on AI explainability: speaker selection, paper review, and session moderation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ComSciCon 2023, Nancy – Organizing Team</title>
+      <link>http://localhost:55106/responsibilities/comscicon_2023/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/responsibilities/comscicon_2023/</guid>
+      <description>&lt;p&gt;Led program design, selected speakers and coordinated logistics for the 2.5-day science communication workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ComSciCon 2022, Marseille – Organizing Team</title>
+      <link>http://localhost:55106/responsibilities/comscicon_2022/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/responsibilities/comscicon_2022/</guid>
+      <description>&lt;p&gt;Supported logistics, candidate selection, and event coordination for this science communication workshop.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

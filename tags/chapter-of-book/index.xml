@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chapter of Book | Maëlle Moranges</title><link>https://example.com/tags/chapter-of-book/</link><atom:link href="https://example.com/tags/chapter-of-book/index.xml" rel="self" type="application/rss+xml"/><description>Chapter of Book</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7cf38c38523103e5.png</url><title>Chapter of Book</title><link>https://example.com/tags/chapter-of-book/</link></image><item><title>Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches</title><link>https://example.com/publication/moranges-2023-peripheral/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://example.com/publication/moranges-2023-peripheral/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter of Book | Maëlle Moranges</title>
+    <link>http://localhost:55106/tags/chapter-of-book/</link>
+      <atom:link href="http://localhost:55106/tags/chapter-of-book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter of Book</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55106/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Chapter of Book</title>
+      <link>http://localhost:55106/tags/chapter-of-book/</link>
+    </image>
+    
+    <item>
+      <title>Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches</title>
+      <link>http://localhost:55106/publication/moranges-2023-peripheral/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55106/publication/moranges-2023-peripheral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
