@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maëlle Moranges</title>
-    <link>http://localhost:55106/</link>
-      <atom:link href="http://localhost:55106/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Maëlle Moranges</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55106/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Maëlle Moranges</title>
-      <link>http://localhost:55106/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:55106/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,17 +35,17 @@
     
     <item>
       <title>Explain’AI Workshop - EGC 2025, Strasbourg</title>
-      <link>http://localhost:55106/responsibilities/egc_2025/</link>
+      <link>http://localhost:1313/responsibilities/egc_2025/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/egc_2025/</guid>
+      <guid>http://localhost:1313/responsibilities/egc_2025/</guid>
       <description>&lt;p&gt;Co-organized the AI explainability workshop: planning, speaker selection, paper review and event facilitation in Strasbourg.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🇫🇷 1 scientifique, 1 classe, chiche !</title>
-      <link>http://localhost:55106/mediation/chiche/</link>
+      <link>http://localhost:1313/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/chiche/</guid>
+      <guid>http://localhost:1313/mediation/chiche/</guid>
       <description>&lt;p&gt;Le programme &lt;a href=&#34;https://chiche.inria.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« 1 scientifique, 1 classe : chiche ! »&lt;/a&gt; offre aux élèves l’opportunité de rencontrer, directement en classe, des scientifiques du numérique. L’objectif est double : leur permettre de mieux comprendre les sciences et les recherches menées dans ce domaine, tout en luttant contre les stéréotypes, notamment ceux liés aux métiers de la recherche et aux représentations genrées du numérique.&lt;/p&gt;
 &lt;p&gt;Ces échanges privilégiés, mêlant témoignages, discussions et partage d’expériences, contribuent à une meilleure compréhension d’un monde façonné par le numérique. Ils jouent également un rôle clé dans l’éveil des vocations scientifiques, en particulier chez les filles.&lt;/p&gt;
 &lt;h2 id=&#34;-interventions-au-lycée-simone-weil&#34;&gt;🎓 Interventions au Lycée Simone Weil&lt;/h2&gt;
@@ -64,58 +64,58 @@
     
     <item>
       <title>Design of the Educational Framework for the Bachelor&#39;s Program in AI, Biotech and Health</title>
-      <link>http://localhost:55106/responsibilities/bachelor/</link>
+      <link>http://localhost:1313/responsibilities/bachelor/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/bachelor/</guid>
+      <guid>http://localhost:1313/responsibilities/bachelor/</guid>
       <description>&lt;p&gt;Curriculum defined through 4 ideation workshops, focusing on strategic directions and key competencies. Launch: Sept 2025.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ComSciCon 2024, Lyon – Organizing Team</title>
-      <link>http://localhost:55106/responsibilities/comscicon_2024/</link>
+      <link>http://localhost:1313/responsibilities/comscicon_2024/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/comscicon_2024/</guid>
+      <guid>http://localhost:1313/responsibilities/comscicon_2024/</guid>
       <description>&lt;p&gt;Designed the program, selected activities and speakers, and secured funding for the science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Explain’AI Workshop - EGC 2024, Dijon</title>
-      <link>http://localhost:55106/responsibilities/egc_2024/</link>
+      <link>http://localhost:1313/responsibilities/egc_2024/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/egc_2024/</guid>
+      <guid>http://localhost:1313/responsibilities/egc_2024/</guid>
       <description>&lt;p&gt;Co-organized a one-day event on AI explainability: speaker selection, paper review, and session moderation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decoding student learning in medical education through UNESS platform interactions</title>
-      <link>http://localhost:55106/publication/moranges-2024-poster/</link>
+      <link>http://localhost:1313/publication/moranges-2024-poster/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2024-poster/</guid>
+      <guid>http://localhost:1313/publication/moranges-2024-poster/</guid>
       <description>&lt;p&gt;Poster presented at the Symposium of GDR MaDICS, May 29-30, 2024&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using Exceptional Attributed Subgraph Mining to Explore Interindividual Variability in Odor Pleasantness Processing in the Piriform Cortex and Amygdala</title>
-      <link>http://localhost:55106/publication/moranges-2024-using/</link>
+      <link>http://localhost:1313/publication/moranges-2024-using/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2024-using/</guid>
+      <guid>http://localhost:1313/publication/moranges-2024-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:55106/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:55106/teaching/js/</link>
+      <link>http://localhost:1313/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/teaching/js/</guid>
+      <guid>http://localhost:1313/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -158,7 +158,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:55106/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -235,9 +235,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:55106/teaching/python/</link>
+      <link>http://localhost:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/teaching/python/</guid>
+      <guid>http://localhost:1313/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -280,7 +280,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:55106/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -357,17 +357,17 @@ data.head()
     
     <item>
       <title>ComSciCon 2023, Nancy – Organizing Team</title>
-      <link>http://localhost:55106/responsibilities/comscicon_2023/</link>
+      <link>http://localhost:1313/responsibilities/comscicon_2023/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/comscicon_2023/</guid>
+      <guid>http://localhost:1313/responsibilities/comscicon_2023/</guid>
       <description>&lt;p&gt;Led program design, selected speakers and coordinated logistics for the 2.5-day science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:55106/mediation/table_ronde/</link>
+      <link>http://localhost:1313/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/table_ronde/</guid>
+      <guid>http://localhost:1313/mediation/table_ronde/</guid>
       <description>&lt;p&gt;Dans le cadre de ma mission doctorale chez &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, j&amp;rsquo;ai animé une &lt;strong&gt;table ronde&lt;/strong&gt; sur le rôle de l’Intelligence Artificielle (IA) dans le domaine médical.&lt;/p&gt;
 &lt;p&gt;Lors de cette table ronde, deux chercheurs ont partagé leurs connaissances et perspectives sur les applications actuelles et futures de l’IA en médecine :&lt;/p&gt;
 &lt;ul&gt;
@@ -397,25 +397,25 @@ data.head()
     
     <item>
       <title>Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches</title>
-      <link>http://localhost:55106/publication/moranges-2023-peripheral/</link>
+      <link>http://localhost:1313/publication/moranges-2023-peripheral/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2023-peripheral/</guid>
+      <guid>http://localhost:1313/publication/moranges-2023-peripheral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variabilités émotionnelle et neurophysiologique dans la perception olfactive: étude par l’intelligence artificielle</title>
-      <link>http://localhost:55106/publication/moranges-2023-variabilites/</link>
+      <link>http://localhost:1313/publication/moranges-2023-variabilites/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2023-variabilites/</guid>
+      <guid>http://localhost:1313/publication/moranges-2023-variabilites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🇫🇷 Mini-série animée de Mediasens sur l&#39;olfaction</title>
-      <link>http://localhost:55106/mediation/mediasens/</link>
+      <link>http://localhost:1313/mediation/mediasens/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/mediasens/</guid>
+      <guid>http://localhost:1313/mediation/mediasens/</guid>
       <description>&lt;p&gt;Mediasens, lauréat de l&amp;rsquo;appel à projets 2021 du &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDRO3&lt;/a&gt;, a pour objectif de diffuser les connaissances scientifiques sur l&amp;rsquo;olfaction à travers une mini-série d&amp;rsquo;animation. Cette initiative vise à rendre accessibles les avancées de la recherche dans ce domaine au grand public.&lt;/p&gt;
 &lt;h2 id=&#34;épisodes-de-la-mini-série&#34;&gt;Épisodes de la mini-série&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Episode 1 – Le voyage d’Ester&lt;/strong&gt;:&lt;/p&gt;
@@ -441,17 +441,17 @@ data.head()
     
     <item>
       <title>ComSciCon 2022, Marseille – Organizing Team</title>
-      <link>http://localhost:55106/responsibilities/comscicon_2022/</link>
+      <link>http://localhost:1313/responsibilities/comscicon_2022/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/responsibilities/comscicon_2022/</guid>
+      <guid>http://localhost:1313/responsibilities/comscicon_2022/</guid>
       <description>&lt;p&gt;Supported logistics, candidate selection, and event coordination for this science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
-      <link>http://localhost:55106/mediation/m180/</link>
+      <link>http://localhost:1313/mediation/m180/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/m180/</guid>
+      <guid>http://localhost:1313/mediation/m180/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
 &lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
@@ -459,7 +459,7 @@ data.head()
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:55106/mediation/m180/photo.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
     alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;©Vincent Noclin&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -470,9 +470,9 @@ data.head()
     
     <item>
       <title>🇫🇷 Vidéo de vulgarisation réalisée avec L’Exploratoire 📽️</title>
-      <link>http://localhost:55106/mediation/99sec/</link>
+      <link>http://localhost:1313/mediation/99sec/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/99sec/</guid>
+      <guid>http://localhost:1313/mediation/99sec/</guid>
       <description>&lt;p&gt;Avec son initiative 99SEC, l’association L’Exploratoire veut briser les barrières entre producteurs et consommateurs de savoir. Son concept : un format novateur qui mise sur la concision et l’efficacité du message. En 99 secondes, les sciences – du vivant, humaines ou de l’ingénierie – se dévoilent et se démystifient.&lt;/p&gt;
 &lt;p&gt;Une dose de science plus rapide qu’une pause café. ☕&lt;/p&gt;
 &lt;h2 id=&#34;quel-est-le-lien-entre-olfaction-et-émotion-&#34;&gt;Quel est le lien entre OLFACTION et ÉMOTION ?&lt;/h2&gt;
@@ -486,17 +486,17 @@ data.head()
     
     <item>
       <title>Using subgroup discovery to relate odor pleasantness and intensity to peripheral nervous system reactions</title>
-      <link>http://localhost:55106/publication/moranges-2022-using/</link>
+      <link>http://localhost:1313/publication/moranges-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2022-using/</guid>
+      <guid>http://localhost:1313/publication/moranges-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🇫🇷 Création d&#39;un jeu vidéo lors de la Scientific Game Jam</title>
-      <link>http://localhost:55106/mediation/game_jam/</link>
+      <link>http://localhost:1313/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/game_jam/</guid>
+      <guid>http://localhost:1313/mediation/game_jam/</guid>
       <description>&lt;p&gt;La &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e. :contentReference[oaicite:0]{index=0}&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;
@@ -520,60 +520,60 @@ data.head()
     
     <item>
       <title>Contribution de l’anthropologie sensorielle à l’étude du COVID-19</title>
-      <link>http://localhost:55106/publication/pereda-2021-contribution/</link>
+      <link>http://localhost:1313/publication/pereda-2021-contribution/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/pereda-2021-contribution/</guid>
+      <guid>http://localhost:1313/publication/pereda-2021-contribution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explicit and implicit measures of emotions: Data-science might help to account for data complexity and heterogeneity</title>
-      <link>http://localhost:55106/publication/moranges-2021-explicit/</link>
+      <link>http://localhost:1313/publication/moranges-2021-explicit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2021-explicit/</guid>
+      <guid>http://localhost:1313/publication/moranges-2021-explicit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the subjectivity of human olfaction and its variability</title>
-      <link>http://localhost:55106/publication/mantel-2021-poster/</link>
+      <link>http://localhost:1313/publication/mantel-2021-poster/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/mantel-2021-poster/</guid>
+      <guid>http://localhost:1313/publication/mantel-2021-poster/</guid>
       <description>&lt;p&gt;Poster presented at the Association for Psychological Science Virtual Convention, May 26-27, 2021&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recovery from COVID-19-related olfactory disorders and quality of life: insights from an observational online study</title>
-      <link>http://localhost:55106/publication/ferdenzi-2021-recovery/</link>
+      <link>http://localhost:1313/publication/ferdenzi-2021-recovery/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/ferdenzi-2021-recovery/</guid>
+      <guid>http://localhost:1313/publication/ferdenzi-2021-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the relation between olfaction and affective states using artificial intelligence algorithms</title>
-      <link>http://localhost:55106/publication/moranges-2020-poster/</link>
+      <link>http://localhost:1313/publication/moranges-2020-poster/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2020-poster/</guid>
+      <guid>http://localhost:1313/publication/moranges-2020-poster/</guid>
       <description>&lt;p&gt;Poster presented at the European Chemoreception Research Organization, September 16-18, 2020, Dresden, Germany&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smell and taste changes are early indicators of the COVID-19 pandemic and political decision effectiveness</title>
-      <link>http://localhost:55106/publication/pierron-2020-smell/</link>
+      <link>http://localhost:1313/publication/pierron-2020-smell/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/pierron-2020-smell/</guid>
+      <guid>http://localhost:1313/publication/pierron-2020-smell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceptional attributed subgraph mining to understand the olfactory percept</title>
-      <link>http://localhost:55106/publication/moranges-2018-exceptional/</link>
+      <link>http://localhost:1313/publication/moranges-2018-exceptional/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2018-exceptional/</guid>
+      <guid>http://localhost:1313/publication/moranges-2018-exceptional/</guid>
       <description></description>
     </item>
     

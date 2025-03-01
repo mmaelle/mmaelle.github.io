@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dissemination | Maëlle Moranges</title>
-    <link>http://localhost:55106/mediation/</link>
-      <atom:link href="http://localhost:55106/mediation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/mediation/</link>
+      <atom:link href="http://localhost:1313/mediation/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissemination</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55106/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Dissemination</title>
-      <link>http://localhost:55106/mediation/</link>
+      <link>http://localhost:1313/mediation/</link>
     </image>
     
     <item>
       <title>🇫🇷 1 scientifique, 1 classe, chiche !</title>
-      <link>http://localhost:55106/mediation/chiche/</link>
+      <link>http://localhost:1313/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/chiche/</guid>
+      <guid>http://localhost:1313/mediation/chiche/</guid>
       <description>&lt;p&gt;Le programme &lt;a href=&#34;https://chiche.inria.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« 1 scientifique, 1 classe : chiche ! »&lt;/a&gt; offre aux élèves l’opportunité de rencontrer, directement en classe, des scientifiques du numérique. L’objectif est double : leur permettre de mieux comprendre les sciences et les recherches menées dans ce domaine, tout en luttant contre les stéréotypes, notamment ceux liés aux métiers de la recherche et aux représentations genrées du numérique.&lt;/p&gt;
 &lt;p&gt;Ces échanges privilégiés, mêlant témoignages, discussions et partage d’expériences, contribuent à une meilleure compréhension d’un monde façonné par le numérique. Ils jouent également un rôle clé dans l’éveil des vocations scientifiques, en particulier chez les filles.&lt;/p&gt;
 &lt;h2 id=&#34;-interventions-au-lycée-simone-weil&#34;&gt;🎓 Interventions au Lycée Simone Weil&lt;/h2&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:55106/mediation/table_ronde/</link>
+      <link>http://localhost:1313/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/table_ronde/</guid>
+      <guid>http://localhost:1313/mediation/table_ronde/</guid>
       <description>&lt;p&gt;Dans le cadre de ma mission doctorale chez &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, j&amp;rsquo;ai animé une &lt;strong&gt;table ronde&lt;/strong&gt; sur le rôle de l’Intelligence Artificielle (IA) dans le domaine médical.&lt;/p&gt;
 &lt;p&gt;Lors de cette table ronde, deux chercheurs ont partagé leurs connaissances et perspectives sur les applications actuelles et futures de l’IA en médecine :&lt;/p&gt;
 &lt;ul&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>🇫🇷 Mini-série animée de Mediasens sur l&#39;olfaction</title>
-      <link>http://localhost:55106/mediation/mediasens/</link>
+      <link>http://localhost:1313/mediation/mediasens/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/mediasens/</guid>
+      <guid>http://localhost:1313/mediation/mediasens/</guid>
       <description>&lt;p&gt;Mediasens, lauréat de l&amp;rsquo;appel à projets 2021 du &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDRO3&lt;/a&gt;, a pour objectif de diffuser les connaissances scientifiques sur l&amp;rsquo;olfaction à travers une mini-série d&amp;rsquo;animation. Cette initiative vise à rendre accessibles les avancées de la recherche dans ce domaine au grand public.&lt;/p&gt;
 &lt;h2 id=&#34;épisodes-de-la-mini-série&#34;&gt;Épisodes de la mini-série&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Episode 1 – Le voyage d’Ester&lt;/strong&gt;:&lt;/p&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
-      <link>http://localhost:55106/mediation/m180/</link>
+      <link>http://localhost:1313/mediation/m180/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/m180/</guid>
+      <guid>http://localhost:1313/mediation/m180/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
 &lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
@@ -105,7 +105,7 @@
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:55106/mediation/m180/photo.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
     alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;©Vincent Noclin&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -116,9 +116,9 @@
     
     <item>
       <title>🇫🇷 Vidéo de vulgarisation réalisée avec L’Exploratoire 📽️</title>
-      <link>http://localhost:55106/mediation/99sec/</link>
+      <link>http://localhost:1313/mediation/99sec/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/99sec/</guid>
+      <guid>http://localhost:1313/mediation/99sec/</guid>
       <description>&lt;p&gt;Avec son initiative 99SEC, l’association L’Exploratoire veut briser les barrières entre producteurs et consommateurs de savoir. Son concept : un format novateur qui mise sur la concision et l’efficacité du message. En 99 secondes, les sciences – du vivant, humaines ou de l’ingénierie – se dévoilent et se démystifient.&lt;/p&gt;
 &lt;p&gt;Une dose de science plus rapide qu’une pause café. ☕&lt;/p&gt;
 &lt;h2 id=&#34;quel-est-le-lien-entre-olfaction-et-émotion-&#34;&gt;Quel est le lien entre OLFACTION et ÉMOTION ?&lt;/h2&gt;
@@ -132,9 +132,9 @@
     
     <item>
       <title>🇫🇷 Création d&#39;un jeu vidéo lors de la Scientific Game Jam</title>
-      <link>http://localhost:55106/mediation/game_jam/</link>
+      <link>http://localhost:1313/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/mediation/game_jam/</guid>
+      <guid>http://localhost:1313/mediation/game_jam/</guid>
       <description>&lt;p&gt;La &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e. :contentReference[oaicite:0]{index=0}&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;

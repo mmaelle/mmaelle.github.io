@@ -2,231 +2,231 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55106/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/committee-member/</loc>
+    <loc>http://localhost:1313/tags/committee-member/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/egc/</loc>
+    <loc>http://localhost:1313/tags/egc/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/egc_2025/</loc>
+    <loc>http://localhost:1313/responsibilities/egc_2025/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/</loc>
+    <loc>http://localhost:1313/responsibilities/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/workshop/</loc>
+    <loc>http://localhost:1313/tags/workshop/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/chiche/</loc>
+    <loc>http://localhost:1313/mediation/chiche/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/</loc>
+    <loc>http://localhost:1313/mediation/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/mediation/</loc>
+    <loc>http://localhost:1313/tags/mediation/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/curriculum-design/</loc>
+    <loc>http://localhost:1313/tags/curriculum-design/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/bachelor/</loc>
+    <loc>http://localhost:1313/responsibilities/bachelor/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/epita/</loc>
+    <loc>http://localhost:1313/tags/epita/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/teaching/</loc>
+    <loc>http://localhost:1313/tags/teaching/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/comscicon/</loc>
+    <loc>http://localhost:1313/tags/comscicon/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/comscicon_2024/</loc>
+    <loc>http://localhost:1313/responsibilities/comscicon_2024/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/dissemination/</loc>
+    <loc>http://localhost:1313/tags/dissemination/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/egc_2024/</loc>
+    <loc>http://localhost:1313/responsibilities/egc_2024/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2024-poster/</loc>
+    <loc>http://localhost:1313/publication/moranges-2024-poster/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/poster/</loc>
+    <loc>http://localhost:1313/tags/poster/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/poster/</loc>
+    <loc>http://localhost:1313/publication_types/poster/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/research-articles/</loc>
+    <loc>http://localhost:1313/tags/research-articles/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2024-using/</loc>
+    <loc>http://localhost:1313/publication/moranges-2024-using/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/comscicon_2023/</loc>
+    <loc>http://localhost:1313/responsibilities/comscicon_2023/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/table_ronde/</loc>
+    <loc>http://localhost:1313/mediation/table_ronde/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/chapter/</loc>
+    <loc>http://localhost:1313/publication_types/chapter/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/chapter-of-book/</loc>
+    <loc>http://localhost:1313/tags/chapter-of-book/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2023-peripheral/</loc>
+    <loc>http://localhost:1313/publication/moranges-2023-peripheral/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/thesis/</loc>
+    <loc>http://localhost:1313/tags/thesis/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/thesis/</loc>
+    <loc>http://localhost:1313/publication_types/thesis/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2023-variabilites/</loc>
+    <loc>http://localhost:1313/publication/moranges-2023-variabilites/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/mediasens/</loc>
+    <loc>http://localhost:1313/mediation/mediasens/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/responsibilities/comscicon_2022/</loc>
+    <loc>http://localhost:1313/responsibilities/comscicon_2022/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/m180/</loc>
+    <loc>http://localhost:1313/mediation/m180/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/99sec/</loc>
+    <loc>http://localhost:1313/mediation/99sec/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2022-using/</loc>
+    <loc>http://localhost:1313/publication/moranges-2022-using/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/mediation/game_jam/</loc>
+    <loc>http://localhost:1313/mediation/game_jam/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/tags/article-comment/</loc>
+    <loc>http://localhost:1313/tags/article-comment/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/pereda-2021-contribution/</loc>
+    <loc>http://localhost:1313/publication/pereda-2021-contribution/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2021-explicit/</loc>
+    <loc>http://localhost:1313/publication/moranges-2021-explicit/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/mantel-2021-poster/</loc>
+    <loc>http://localhost:1313/publication/mantel-2021-poster/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/ferdenzi-2021-recovery/</loc>
+    <loc>http://localhost:1313/publication/ferdenzi-2021-recovery/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2020-poster/</loc>
+    <loc>http://localhost:1313/publication/moranges-2020-poster/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/pierron-2020-smell/</loc>
+    <loc>http://localhost:1313/publication/pierron-2020-smell/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication/moranges-2018-exceptional/</loc>
+    <loc>http://localhost:1313/publication/moranges-2018-exceptional/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55106/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

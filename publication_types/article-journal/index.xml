@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Maëlle Moranges</title>
-    <link>http://localhost:55106/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:55106/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55106/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:55106/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Using Exceptional Attributed Subgraph Mining to Explore Interindividual Variability in Odor Pleasantness Processing in the Piriform Cortex and Amygdala</title>
-      <link>http://localhost:55106/publication/moranges-2024-using/</link>
+      <link>http://localhost:1313/publication/moranges-2024-using/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2024-using/</guid>
+      <guid>http://localhost:1313/publication/moranges-2024-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using subgroup discovery to relate odor pleasantness and intensity to peripheral nervous system reactions</title>
-      <link>http://localhost:55106/publication/moranges-2022-using/</link>
+      <link>http://localhost:1313/publication/moranges-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2022-using/</guid>
+      <guid>http://localhost:1313/publication/moranges-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution de l’anthropologie sensorielle à l’étude du COVID-19</title>
-      <link>http://localhost:55106/publication/pereda-2021-contribution/</link>
+      <link>http://localhost:1313/publication/pereda-2021-contribution/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/pereda-2021-contribution/</guid>
+      <guid>http://localhost:1313/publication/pereda-2021-contribution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explicit and implicit measures of emotions: Data-science might help to account for data complexity and heterogeneity</title>
-      <link>http://localhost:55106/publication/moranges-2021-explicit/</link>
+      <link>http://localhost:1313/publication/moranges-2021-explicit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/moranges-2021-explicit/</guid>
+      <guid>http://localhost:1313/publication/moranges-2021-explicit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recovery from COVID-19-related olfactory disorders and quality of life: insights from an observational online study</title>
-      <link>http://localhost:55106/publication/ferdenzi-2021-recovery/</link>
+      <link>http://localhost:1313/publication/ferdenzi-2021-recovery/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/ferdenzi-2021-recovery/</guid>
+      <guid>http://localhost:1313/publication/ferdenzi-2021-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smell and taste changes are early indicators of the COVID-19 pandemic and political decision effectiveness</title>
-      <link>http://localhost:55106/publication/pierron-2020-smell/</link>
+      <link>http://localhost:1313/publication/pierron-2020-smell/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55106/publication/pierron-2020-smell/</guid>
+      <guid>http://localhost:1313/publication/pierron-2020-smell/</guid>
       <description></description>
     </item>
     
