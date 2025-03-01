@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Explain’AI Workshop - EGC 2025, Strasbourg</title>
+      <link>http://localhost:1313/responsibilities/egc_2025/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/egc_2025/</guid>
+      <description>&lt;p&gt;Co-organized the AI explainability workshop: planning, speaker selection, paper review and event facilitation in Strasbourg.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🇫🇷 1 scientifique, 1 classe, chiche !</title>
       <link>http://localhost:1313/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
@@ -55,11 +63,35 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <title>Design of the Educational Framework for the Bachelor&#39;s Program in AI, Biotech and Health</title>
+      <link>http://localhost:1313/responsibilities/bachelor/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/bachelor/</guid>
+      <description>&lt;p&gt;Curriculum defined through 4 ideation workshops, focusing on strategic directions and key competencies. Launch: Sept 2025.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ComSciCon 2024, Lyon – Organizing Team</title>
+      <link>http://localhost:1313/responsibilities/comscicon_2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/comscicon_2024/</guid>
+      <description>&lt;p&gt;Designed the program, selected activities and speakers, and secured funding for the science communication workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collective responsibilities</title>
+      <link>http://localhost:1313/responsibilities/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/responsibilities/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Explain’AI Workshop - EGC 2024, Dijon</title>
+      <link>http://localhost:1313/responsibilities/egc_2024/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/egc_2024/</guid>
+      <description>&lt;p&gt;Co-organized a one-day event on AI explainability: speaker selection, paper review, and session moderation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,30 +109,6 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/moranges-2024-using/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -356,6 +364,14 @@ data.head()
     </item>
     
     <item>
+      <title>ComSciCon 2023, Nancy – Organizing Team</title>
+      <link>http://localhost:1313/responsibilities/comscicon_2023/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/comscicon_2023/</guid>
+      <description>&lt;p&gt;Led program design, selected speakers and coordinated logistics for the 2.5-day science communication workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
       <link>http://localhost:1313/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
@@ -429,6 +445,14 @@ data.head()
     &lt;/div&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>ComSciCon 2022, Marseille – Organizing Team</title>
+      <link>http://localhost:1313/responsibilities/comscicon_2022/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/comscicon_2022/</guid>
+      <description>&lt;p&gt;Supported logistics, candidate selection, and event coordination for this science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
