@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Machine Learning</title>
+      <link>http://localhost:1313/teaching/iaa/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/iaa/</guid>
+      <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’apprentissage automatique&amp;rdquo; (IAA)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; 1st year of engineering (ING1) (35 students)
+&lt;strong&gt;Year:&lt;/strong&gt; 2022-2023&lt;br&gt;
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 8h CM, 2h TD, 2h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created lectures, tutorials, practical sessions, and assessments.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered supervised (classification, regression) and unsupervised (clustering) learning and model evaluation. Grading was based on a project, a written article published on Pop&amp;rsquo;Sciences, and a final exam.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>http://localhost:1313/teaching/data_mining/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/data_mining/</guid>
+      <description>&lt;h2 id=&#34;data-mining-inf2355m&#34;&gt;&amp;ldquo;Data Mining&amp;rdquo; (INF2355M)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Data Science (60 students in TD &amp;amp; TP)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 Département d&amp;rsquo;Informatique&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 8h TD, 6h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Designed a project combining TD and TP.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Students worked in groups to develop a data mining tool, using an academic paper and Git repository to create tutorials and summaries for future research applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Discovery in Data</title>
+      <link>http://localhost:1313/teaching/dcd/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/dcd/</guid>
+      <description>&lt;h2 id=&#34;découverte-de-connaissances-dans-les-données-inf2418m&#34;&gt;&amp;ldquo;Découverte de connaissances dans les données&amp;rdquo; (INF2418M)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Information Technologies and Web (TIW) &amp;amp; M2 Bioinformatics (50 students)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 Département d&amp;rsquo;Informatique&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 2h CM, 2h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created and delivered lectures and practical sessions.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; The lecture introduced machine learning, while the practical session was a tutorial on Natural Language Processing (NLP). Used interactive tools like Wooclap for in-class engagement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

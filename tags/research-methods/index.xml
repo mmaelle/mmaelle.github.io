@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Methods | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/research-methods/</link>
+      <atom:link href="http://localhost:1313/tags/research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Methods</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Research Methods</title>
+      <link>http://localhost:1313/tags/research-methods/</link>
+    </image>
+    
+    <item>
+      <title>Technology Watch</title>
+      <link>http://localhost:1313/teaching/vt/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/vt/</guid>
+      <description>&lt;h2 id=&#34;veille-technologique-vt&#34;&gt;&amp;ldquo;Veille Technologique&amp;rdquo; (VT)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING3 SCIA &amp;amp; ING3 IF (30 students)
+&lt;strong&gt;Year:&lt;/strong&gt; 2023-2024&lt;br&gt;
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 7h CM, 5h TD, 18h Project&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Designed courses, assessments, and project coaching. Assigned mentors to project groups.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered technology watch, knowledge transmission, and public speaking. Evaluated through project progress, pedagogical output, and final presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

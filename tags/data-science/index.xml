@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+      <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Graph Data Mining</title>
+      <link>http://localhost:1313/teaching/gdm/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/gdm/</guid>
+      <description>&lt;h2 id=&#34;graph-data-mining-gdm&#34;&gt;Graph Data Mining (GDM)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING2 SCIA (20 students)
+&lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 3h CM, 6h TP
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created a lecture and practical session, supervised projects.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered community detection and pattern discovery in graphs. Students participated in a one-day hackathon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>http://localhost:1313/teaching/data_mining/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/data_mining/</guid>
+      <description>&lt;h2 id=&#34;data-mining-inf2355m&#34;&gt;&amp;ldquo;Data Mining&amp;rdquo; (INF2355M)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Data Science (60 students in TD &amp;amp; TP)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 Département d&amp;rsquo;Informatique&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 8h TD, 6h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Designed a project combining TD and TP.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Students worked in groups to develop a data mining tool, using an academic paper and Git repository to create tutorials and summaries for future research applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Discovery in Data</title>
+      <link>http://localhost:1313/teaching/dcd/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/dcd/</guid>
+      <description>&lt;h2 id=&#34;découverte-de-connaissances-dans-les-données-inf2418m&#34;&gt;&amp;ldquo;Découverte de connaissances dans les données&amp;rdquo; (INF2418M)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Information Technologies and Web (TIW) &amp;amp; M2 Bioinformatics (50 students)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 Département d&amp;rsquo;Informatique&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 2h CM, 2h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created and delivered lectures and practical sessions.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; The lecture introduced machine learning, while the practical session was a tutorial on Natural Language Processing (NLP). Used interactive tools like Wooclap for in-class engagement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychophysiology of Perception</title>
+      <link>http://localhost:1313/teaching/psy/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/psy/</guid>
+      <description>&lt;h2 id=&#34;psychophysiologie-de-la-perception-bio2363m&#34;&gt;&amp;ldquo;Psychophysiologie de la perception&amp;rdquo; (BIO2363M)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Neurophysiology of Perception and Sensory Evaluation (20 students)
+&lt;strong&gt;Year:&lt;/strong&gt; 2020-2021&lt;br&gt;
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 UFR Biosciences&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 2h CM&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created and delivered the course (online).&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Introduction to data science applied to neurophysiology. Students completed a survey before and after the course to assess their perception of data science and its applications in their field. The shift in responses was encouraging.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

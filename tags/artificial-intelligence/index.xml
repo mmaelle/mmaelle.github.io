@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Machine Learning</title>
+      <link>http://localhost:1313/teaching/iaa/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/iaa/</guid>
+      <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’apprentissage automatique&amp;rdquo; (IAA)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; 1st year of engineering (ING1) (35 students)
+&lt;strong&gt;Year:&lt;/strong&gt; 2022-2023&lt;br&gt;
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 8h CM, 2h TD, 2h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Created lectures, tutorials, practical sessions, and assessments.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered supervised (classification, regression) and unsupervised (clustering) learning and model evaluation. Grading was based on a project, a written article published on Pop&amp;rsquo;Sciences, and a final exam.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

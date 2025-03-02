@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/computer-science/</link>
+      <atom:link href="http://localhost:1313/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Computer Science</title>
+      <link>http://localhost:1313/tags/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>Language Typology</title>
+      <link>http://localhost:1313/teaching/tyla/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/tyla/</guid>
+      <description>&lt;h2 id=&#34;typologie-des-langages-tyla&#34;&gt;&amp;ldquo;Typologie des langages&amp;rdquo; (TYLA)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING1 (110 students)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 12h CM&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Delivered lectures with pre-defined content.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Provided general knowledge on the history of computer science and programming languages, analyzing key aspects of different programming paradigms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Databases</title>
+      <link>http://localhost:1313/teaching/database/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/database/</guid>
+      <description>&lt;h2 id=&#34;bases-de-données-avancées-inf3048l&#34;&gt;&amp;ldquo;Bases de données avancées&amp;rdquo; (INF3048L)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; L3 Computer Science (30 students in TD, 15 in TP)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2020-2021
+&lt;strong&gt;Institution:&lt;/strong&gt; Univ. Lyon 1 Département d&amp;rsquo;Informatique&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 20h TD, 36h TP&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Led a tutorial group, supervised two TP groups, and graded exams. Exercises were predefined by the course coordinator.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered relational database design and SQL, PLSQL, and XML programming.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

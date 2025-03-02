@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Languages | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/programming-languages/</link>
+      <atom:link href="http://localhost:1313/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming Languages</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Programming Languages</title>
+      <link>http://localhost:1313/tags/programming-languages/</link>
+    </image>
+    
+    <item>
+      <title>Language Typology</title>
+      <link>http://localhost:1313/teaching/tyla/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/tyla/</guid>
+      <description>&lt;h2 id=&#34;typologie-des-langages-tyla&#34;&gt;&amp;ldquo;Typologie des langages&amp;rdquo; (TYLA)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING1 (110 students)&lt;br&gt;
+&lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
+&lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; 12h CM&lt;br&gt;
+&lt;strong&gt;Responsibilities:&lt;/strong&gt; Delivered lectures with pre-defined content.&lt;br&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Provided general knowledge on the history of computer science and programming languages, analyzing key aspects of different programming paradigms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
