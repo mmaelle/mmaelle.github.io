@@ -309,8 +309,5 @@
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/responsibilities/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>

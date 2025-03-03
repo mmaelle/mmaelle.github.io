@@ -44,7 +44,17 @@
 &lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
 &lt;strong&gt;Hours:&lt;/strong&gt; 7h CM, 5h TD, 18h Project&lt;br&gt;
 &lt;strong&gt;Responsibilities:&lt;/strong&gt; Designed courses, assessments, and project coaching. Assigned mentors to project groups.&lt;br&gt;
-&lt;strong&gt;Description:&lt;/strong&gt; Covered technology watch, knowledge transmission, and public speaking. Evaluated through project progress, pedagogical output, and final presentations.&lt;/p&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered technology watch, knowledge transmission and public speaking. Evaluated through project progress, pedagogical output, and final presentations.&lt;/p&gt;
+&lt;h3 id=&#34;student-projects&#34;&gt;Student Projects&lt;/h3&gt;
+&lt;p&gt;As part of this course, students synthesized their research into educational resources to communicate their findings effectively. Below are selected projects showcasing their work. Please note that the resources are in French:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;La Frugalité des IA&lt;/strong&gt; : &lt;a href=&#34;https://elouanv.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mindmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mirai: Le deep learning pour prédire les risques de cancer du sein&lt;/strong&gt;: &lt;a href=&#34;https://prezi.com/view/ajxcePLmL2iTuFkIL4Xc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prezi Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Les LLMs sont-ils conscients ? Explorez la théorie des modèles&lt;/strong&gt;: &lt;a href=&#34;https://www.canva.com/design/DAGcKsx4XGM/9HLIn5d0Jbd8dI7ydVzwLA/view?utm_content=DAGcKsx4XGM&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=uniquelinks&amp;amp;utlId=hc3f70f6dd5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canva Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How do games simulate water? | A non-exhaustive guide made by a bush&lt;/strong&gt;: &lt;a href=&#34;https://www.youtube.com/watch?v=Hj7YThS2eNo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L&amp;rsquo;IOT dans l&amp;rsquo;industrie&lt;/strong&gt;: &lt;a href=&#34;https://www.youtube.com/watch?v=7vXpUJR2_qA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time Statistical Analysis of Football&lt;/strong&gt;: &lt;a href=&#34;https://statlive.vercel.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -147,13 +157,13 @@
       <link>http://localhost:1313/teaching/iaa/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/iaa/</guid>
-      <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’apprentissage automatique&amp;rdquo; (IAA)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’Apprentissage Automatique&amp;rdquo; (IAA)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; 1st year of engineering (ING1) (35 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023&lt;br&gt;
 &lt;strong&gt;Institution:&lt;/strong&gt; EPITA Lyon&lt;br&gt;
 &lt;strong&gt;Hours:&lt;/strong&gt; 8h CM, 2h TD, 2h TP&lt;br&gt;
 &lt;strong&gt;Responsibilities:&lt;/strong&gt; Created lectures, tutorials, practical sessions, and assessments.&lt;br&gt;
-&lt;strong&gt;Description:&lt;/strong&gt; Covered supervised (classification, regression) and unsupervised (clustering) learning and model evaluation. Grading was based on a project, a written article published on Pop&amp;rsquo;Sciences, and a final exam.&lt;/p&gt;
+&lt;strong&gt;Description:&lt;/strong&gt; Covered supervised (classification, regression) and unsupervised (clustering) learning and model evaluation. Grading was based on a project, a written &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lia-en-faq-les-etudiants-nous-repondent-6-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article published on Pop&amp;rsquo;Sciences&lt;/a&gt; and a final exam.&lt;/p&gt;
 </description>
     </item>
     
