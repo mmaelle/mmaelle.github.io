@@ -104,6 +104,14 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explain’AI Workshop - EGC 2024, Dijon</title>
       <link>http://localhost:1313/project/egc_2024/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
@@ -126,6 +134,19 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/moranges-2024-using/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>🇫🇷 Relecture du script d&#39;une vidéo de vulgarisation scientifique sur la mémoire avec Exalta</title>
+      <link>http://localhost:1313/mediation/meandre/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/meandre/</guid>
+      <description>&lt;p&gt;Description&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/O-FfSD25drc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
     <item>
@@ -219,6 +240,14 @@
 &lt;strong&gt;Responsibilities:&lt;/strong&gt; Delivered lectures with pre-defined content.&lt;br&gt;
 &lt;strong&gt;Description:&lt;/strong&gt; Provided general knowledge on the history of computer science and programming languages, analyzing key aspects of different programming paradigms.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Scientific Game Jam 2023 – Scientific Mentor</title>
+      <link>http://localhost:1313/project/sci_game_jam/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sci_game_jam/</guid>
+      <description>&lt;p&gt;Coached team scientists to effectively pitch their projects to the jury at the 48-hour game development event.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -383,7 +412,7 @@
       <link>http://localhost:1313/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mediation/game_jam/</guid>
-      <description>&lt;p&gt;La &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e. :contentReference[oaicite:0]{index=0}&lt;/p&gt;
+      <description>&lt;p&gt;La &lt;a href=&#34;https://itch.io/jam/scientific-game-jam-lyon-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scientific Game Jam&lt;/strong&gt;&lt;/a&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e.&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;
 &lt;ul&gt;

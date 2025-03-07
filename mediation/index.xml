@@ -34,6 +34,26 @@
     </item>
     
     <item>
+      <title>🇫🇷 Relecture du script d&#39;une vidéo de vulgarisation scientifique sur la mémoire avec Exaltia</title>
+      <link>http://localhost:1313/mediation/meandre/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/meandre/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;opportunité de collaborer avec le &lt;a href=&#34;https://www.exaltia.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collectif &lt;strong&gt;Exaltia&lt;/strong&gt;&lt;/a&gt; en tant que relectrice scientifique pour le script de leur vidéo de vulgarisation sur la mémoire dans le cadre du projet &lt;a href=&#34;https://www.exaltia.info/meandres&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Méandre&lt;/a&gt;. Exaltia est un studio d&amp;rsquo;innovation culturelle dédié à la diffusion des sciences, utilisant des formats innovants mêlant musique, cinéma, art et exploration pour sensibiliser le public.&lt;/p&gt;
+&lt;h2 id=&#34;le-cerveau-face-à-la-mémoire-avec-lea_bello--méandres-1&#34;&gt;LE CERVEAU FACE À LA MÉMOIRE (avec ‪@Lea_Bello‬) | Méandres #1&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/O-FfSD25drc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;méandres-une-exploration-des-neurosciences-à-travers-lurbex&#34;&gt;Méandres : une exploration des neurosciences à travers l&amp;rsquo;urbex&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Méandres&lt;/strong&gt; est une web-série documentaire innovante qui fusionne l&amp;rsquo;exploration urbaine (urbex) et les neurosciences. Dans cette série, des vulgarisateurs et vulgarisatrices scientifiques s&amp;rsquo;aventurent dans des lieux abandonnés pour se soumettre à des expériences illustrant des recherches en laboratoire. Ces explorations servent à observer les effets des souvenirs, de la peur du noir, de l&amp;rsquo;inconnu ou encore des croyances sur nos comportements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Équipe Exaltia&lt;/strong&gt; : Terence, Renaud Pourpre, Gaël Fortin, Youenn Lerb&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Invité·es&lt;/strong&gt; : Léa Bello, Marie Treibert, Élodie Chabrol, Sébastien Carassou&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conseiller·es scientifiques&lt;/strong&gt; : Maëlle Moranges, Lucile Rey, Marion Rouault, Valentin Wyart&lt;/p&gt;
+&lt;p&gt;Cette série offre une perspective unique sur la manière dont notre environnement influence nos processus cognitifs et émotionnels. Elle est produite par le studio &lt;strong&gt;Good to Know&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
       <link>http://localhost:1313/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
@@ -135,7 +155,7 @@
       <link>http://localhost:1313/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mediation/game_jam/</guid>
-      <description>&lt;p&gt;La &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e. :contentReference[oaicite:0]{index=0}&lt;/p&gt;
+      <description>&lt;p&gt;La &lt;a href=&#34;https://itch.io/jam/scientific-game-jam-lyon-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scientific Game Jam&lt;/strong&gt;&lt;/a&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e.&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;
 &lt;ul&gt;
@@ -145,7 +165,7 @@
 &lt;li&gt;&lt;strong&gt;Sound Designer&lt;/strong&gt; : Nathan Chambrette&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;description-du-jeu&#34;&gt;Description du jeu&lt;/h3&gt;
-&lt;p&gt;Bienvenue au &lt;strong&gt;Lac des Cils&lt;/strong&gt; : le mucus qui tapisse votre épithélium olfactif au fin fond de votre cavité nasale. Dans ce jeu d&amp;rsquo;arcade éducatif, vous incarnez une protéine de transport. Votre mission est d&amp;rsquo;acheminer les molécules odorantes entrant dans le mucus jusqu&amp;rsquo;aux récepteurs appropriés situés sur les cils olfactifs. :contentReference[oaicite:1]{index=1}&lt;/p&gt;
+&lt;p&gt;Bienvenue au &lt;strong&gt;Lac des Cils&lt;/strong&gt; : le mucus qui tapisse votre épithélium olfactif au fin fond de votre cavité nasale. Dans ce jeu d&amp;rsquo;arcade éducatif, vous incarnez une protéine de transport. Votre mission est d&amp;rsquo;acheminer les molécules odorantes entrant dans le mucus jusqu&amp;rsquo;aux récepteurs appropriés situés sur les cils olfactifs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bande-annonce du jeu&lt;/strong&gt;:&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/d1ZrtG8OTFM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
