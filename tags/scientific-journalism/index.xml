@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Journalism | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/scientific-journalism/</link>
+      <atom:link href="http://localhost:1313/tags/scientific-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Journalism</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Scientific Journalism</title>
+      <link>http://localhost:1313/tags/scientific-journalism/</link>
+    </image>
+    
+    <item>
+      <title>🇫🇷</title>
+      <link>http://localhost:1313/mediation/students_articles/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/students_articles/</guid>
+      <description>&lt;p&gt;Description&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
