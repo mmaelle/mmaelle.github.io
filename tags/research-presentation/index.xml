@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/research-presentation/</link>
       <atom:link href="http://localhost:1313/tags/research-presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Presentation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Research Presentation</title>
@@ -13,17 +13,22 @@
     </image>
     
     <item>
-      <title>🇫🇷 Vidéo de vulgarisation réalisée avec L’Exploratoire 📽️</title>
-      <link>http://localhost:1313/mediation/99sec/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/99sec/</guid>
-      <description>&lt;p&gt;Avec son initiative 99SEC, l’association L’Exploratoire veut briser les barrières entre producteurs et consommateurs de savoir. Son concept : un format novateur qui mise sur la concision et l’efficacité du message. En 99 secondes, les sciences – du vivant, humaines ou de l’ingénierie – se dévoilent et se démystifient.&lt;/p&gt;
-&lt;p&gt;Une dose de science plus rapide qu’une pause café. ☕&lt;/p&gt;
-&lt;h2 id=&#34;quel-est-le-lien-entre-olfaction-et-émotion-&#34;&gt;Quel est le lien entre OLFACTION et ÉMOTION ?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+      <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
+      <link>http://localhost:1313/mediation/m180/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/m180/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
+&lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IGUyimoCo0A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
+
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
+    alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;©Vincent Noclin&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </description>
     </item>
