@@ -1,0 +1,69 @@
+---
+title: "Leveraging AI to Enhance Educational Practices: The TUPAIA Chair"
+summary: "Exploring the integration of artificial intelligence in pedagogy to personalize learning experiences and improve educational outcomes."
+date: 2023-10-01
+authors:
+  - admin
+tags:
+  - Artificial Intelligence
+  - Education
+  - Cognitive Load
+  - Reinforcement Learning
+image:
+  caption: "Image credit: [**MIAI Grenoble Alpes**](https://miai.univ-grenoble-alpes.fr/)"
+---
+
+## 🎓 Leveraging AI to Enhance Educational Practices: The TUPAIA Chair
+
+### 🔬 **Role:**
+Researcher collaborating with LaRAC under the TUPAIA Chair at MIAI Grenoble Alpes
+
+### 💰 **Funding:**
+This project is supported by the **MIAI Grenoble Alpes Institute** under the TUPAIA Chair (Technologies Used in Pedagogy with Artificial Intelligence Adaptations). :contentReference[oaicite:0]{index=0}
+
+## 🎯 **Scientific and Technological Objectives**
+
+The **TUPAIA Chair** aims to integrate artificial intelligence into educational practices to:
+
+1. **Enhance Personalized Learning:** Adapt educational content to individual learner characteristics by considering cognitive variables such as motivation, cognitive load, and satisfaction.
+2. **Improve Acceptability of AI-Powered Tools:** Investigate factors influencing the acceptance of AI-driven educational tools among users, including teachers and students, to ensure effective implementation. :contentReference[oaicite:1]{index=1}
+
+## 🔍 **Research Projects**
+
+### **1. Impact of Note-Taking and Breaks on Cognitive Load**
+
+**Collaborator:** *Mathieu Pinelli*
+
+**Objective:** Examine how note-taking strategies and scheduled breaks affect learners' cognitive load during video-based learning sessions.
+
+**Methodology:**
+
+- **Subgroup Discovery (SD):** Identify patterns in how different note-taking methods influence cognitive load.
+- **Gradual Pattern Analysis:** Analyze the progressive impact of breaks on learning efficiency.
+
+**Outcomes:** Insights into optimizing instructional designs to manage cognitive load effectively.
+
+### **2. Personalized Video Recommendations Using Reinforcement Learning**
+
+**Collaborator:** *Nassim Bouarour*
+
+**Objective:** Develop a system that provides personalized video content recommendations based on individual learner profiles, focusing on cognitive load and skill levels.
+
+**Methodology:**
+
+- **Deep Q-Networks (DQN):** Implement reinforcement learning techniques to tailor video recommendations that align with learners' cognitive states and competencies.
+
+**Outcomes:** Creation of adaptive learning environments that enhance engagement and knowledge retention.
+
+## 🧩 **Collaborations**
+
+- **LaRAC (Laboratoire de Recherche sur les Apprentissages en Contexte):** A multidisciplinary research laboratory specializing in educational sciences, focusing on understanding learning processes in various contexts. :contentReference[oaicite:2]{index=2}
+
+## 📢 **Dissemination**
+
+- **Ongoing Experiments:** Conducting student experiments to gather data for assessing the impact of AI-driven educational tools.
+- **Publications:** Preparing research articles detailing methodologies and findings for submission to peer-reviewed educational and AI journals.
+
+---
+
+The **TUPAIA Chair** represents a significant advancement in integrating artificial intelligence into education, aiming to personalize learning experiences and improve the effectiveness of educational practices. 🚀

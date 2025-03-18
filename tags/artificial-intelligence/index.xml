@@ -5,12 +5,169 @@
     <link>http://localhost:1313/tags/artificial-intelligence/</link>
       <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Artificial Intelligence</title>
       <link>http://localhost:1313/tags/artificial-intelligence/</link>
     </image>
+    
+    <item>
+      <title>AI for Stroke Outcome Prediction</title>
+      <link>http://localhost:1313/project/avc/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/avc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;The early inflammatory response after an acute ischemic stroke (AIS) plays a crucial role in patient recovery. This research aims to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identify immune system signatures&lt;/strong&gt; in patients experiencing &lt;strong&gt;loss of autonomy&lt;/strong&gt; post-thrombectomy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyze gender-based recovery differences&lt;/strong&gt; to improve personalized stroke care.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-approach&#34;&gt;Research Approach&lt;/h2&gt;
+&lt;h3 id=&#34;1-statistical--graphical-analysis-for-clinical-interpretation&#34;&gt;1. Statistical &amp;amp; Graphical Analysis for Clinical Interpretation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Replicated key statistical from a &lt;a href=&#34;https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.121.036806&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior study&lt;/a&gt; (originally focused on age) to examine gender differences in stroke recovery.&lt;/li&gt;
+&lt;li&gt;Applied Subgroup Discovery on biomarkers to identify patient-specific risk intervals.&lt;/li&gt;
+&lt;li&gt;Developed a manual interpretation framework with clear thresholds, similar to standard blood test markers, enabling physicians to make quick prognoses without requiring computational tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-machine-learning-for-predicting-loss-of-autonomy&#34;&gt;2. Machine Learning for Predicting Loss of Autonomy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Expanded the dataset to include medical history, MRI report descriptions and additional features.&lt;/li&gt;
+&lt;li&gt;Implemented supervised learning models to predict functional outcomes post-stroke.&lt;/li&gt;
+&lt;li&gt;Assessed explainability techniques (SHAP, LIME, counterfactual) to:
+&lt;ul&gt;
+&lt;li&gt;Identify gender impact in stroke recovery predictions.&lt;/li&gt;
+&lt;li&gt;Evaluate the consistency of different explanation methods for medical decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;public-science-communication&#34;&gt;Public Science Communication&lt;/h3&gt;
+&lt;p&gt;🎥 &lt;strong&gt;Infographic from the &amp;ldquo;AI and Health&amp;rdquo; project&lt;/strong&gt; → &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Pop&amp;rsquo;Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Excerpts from the roundtable discussion on AI in health&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=mQDB4cK6EVo&amp;amp;list=PL5N3iQUGVo5Kd5nj-Y1WTxoCtxcBMU7nz&amp;amp;index=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎓 &lt;strong&gt;Digital Sciences Outreach at Lycée Simone Weil&lt;/strong&gt; → &lt;a href=&#34;https://mmaelle.github.io/mediation/chiche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis and Enhancement of a Medical E-Learning Database</title>
+      <link>http://localhost:1313/project/uness/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/uness/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Olivier Palombi&lt;/strong&gt; – Physician and Vice-President of UNESS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noha Ibrahim&lt;/strong&gt; – Researcher in Computer Science at LIG&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sihem Amer-Yahia&lt;/strong&gt; – Researcher in Computer Science at LIG&lt;/li&gt;
+&lt;li&gt;3 interns : &lt;strong&gt;Cyprien Michel-Deletie&lt;/strong&gt;, &lt;strong&gt;Ayman Lmimouni&lt;/strong&gt; and &lt;strong&gt;Guilherme Piffer Christo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;UNESS provides medical students with access to educational materials and assessments to prepare for national exams such as &lt;strong&gt;ECN (Épreuves Classantes Nationales)&lt;/strong&gt; and &lt;strong&gt;EDN (Épreuves Dématérialisées Nationales)&lt;/strong&gt;.&lt;br&gt;
+This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/strong&gt; to improve medical education, with two main research areas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Large Language Models (LLMs) for E-Learning&lt;/strong&gt; : Leveraging LLMs to automate the generation, classification, and refinement of multiple-choice questions (MCQs), reducing instructor workload and improving content relevance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning Pattern Analysis&lt;/strong&gt; : Using data science techniques to analyze how student learning behaviors vary across universities, gender, and performance levels.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-llms-for-e-learning&#34;&gt;1. LLMs for E-Learning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Supervisor of 3 interns&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; Evaluating LLM-generated MCQs without standardized assessment methods, requiring the development of validation techniques to ensure question quality and pedagogical relevance.&lt;/p&gt;
+&lt;h3 id=&#34;i-automatic-mcq-generation-from-course-materials&#34;&gt;i. Automatic MCQ Generation from Course Materials&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Cyprien Michel-Deletie&lt;/strong&gt; (Fourth-year student, ENS de Lyon – equivalent to M2)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Large Language Models (LLM) for Automated Question Generation and Evaluation in Medical Education&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Developed an AI-based pipeline to generate isolated MCQs from LISA educational sheets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted an literature review on LLMs for question generation and evaluation.&lt;/li&gt;
+&lt;li&gt;Developed a question generation pipeline, integrating self-refinement strategy.&lt;/li&gt;
+&lt;li&gt;Development of  evaluation criteria closely reflecting human judgment.&lt;/li&gt;
+&lt;li&gt;Compared LLaMA3, GPT 3.5 Turbo, and GPT 4o, assessing question quality and self-evaluation accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ii-mcq-classification-and-alignment-with-course-content&#34;&gt;ii. MCQ Classification and Alignment with Course Content&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Ayman Lmimouni&lt;/strong&gt; (Second-year student, ENSIMAG, Grenoble INP – equivalent to M1)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Classification of UNESS Questions Using LLMs&amp;rdquo;
+&lt;strong&gt;Objective:&lt;/strong&gt; Automatically classify e-learning questions by linking them to the correct LISA educational sheets (among 4,800) to enhance medical exam preparation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed an automatic classification pipeline while handling token limitations in LLMs.&lt;/li&gt;
+&lt;li&gt;Creation of an ensemble learning technique on the same instance to improve the prediction accuracy.&lt;/li&gt;
+&lt;li&gt;Evaluated and comparison of LLaMA 3-8b, LLaMA 3.1-70b, Phi-3-mini, and TinyLlama, with 93% accuracy for LLaMA 3-8b.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iii-generation-of-critical-article-review-questions&#34;&gt;iii. Generation of Critical Article Review Questions&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Guilherme Piffer Christo&lt;/strong&gt; (Second-year student, Ense3, Grenoble INP – equivalent to M1)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Generation of Critical Article Reading Questions Using LLMs&amp;rdquo;
+&lt;strong&gt;Objective:&lt;/strong&gt; Develop automated Critical Article Reading (LCA) questions from scientific publications to aid medical students in exam preparation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed existing LCA structures to understand their design principles.&lt;/li&gt;
+&lt;li&gt;Implemented a question generation pipeline, adapting Cyprien’s approach by integrating document summarization, key-point extraction, and multi-step question synthesis to enhance the quality and relevance of generated critical article review questions.&lt;/li&gt;
+&lt;li&gt;Optimized question diversity using a cosine similarity measure to reduce redundancy in generated questions..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-data-analysis-on-gender-university-and-learning-behaviors&#34;&gt;2. Data Analysis on Gender, University and Learning Behaviors&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral researcher in Computer Science at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; To explore disparities in online medical learning through data-driven analysis of UNESS platform usage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenges:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring data complexity management while maintaining representative models across diverse student cohorts.&lt;/li&gt;
+&lt;li&gt;Accounting for temporal and geographical differences that may influence gender-related learning behaviors.&lt;/li&gt;
+&lt;li&gt;Addressing individual variability within genders to avoid overgeneralized conclusions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt; Subgroup Discovery and Shapley Value analysis to identify learning behavior patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Gender disparities were observed in engagement and performance, confirming prior studies suggesting MCQ formats tend to favor male students.&lt;/p&gt;
+&lt;p&gt;These insights contribute to rethinking medical assessment strategies to promote inclusive education.&lt;/p&gt;
+&lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
+&lt;p&gt;📄 Moranges, M., Ibrahim, N., Amer-Yahia, S., &amp;amp; Palombi, O. (2025). &lt;a href=&#34;https://www.researchsquare.com/article/rs-5914240/v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Study of Gender-Specific Learning Patterns in Online Medical Education.&lt;/a&gt; &lt;em&gt;Under review&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging AI to Enhance Educational Practices</title>
+      <link>http://localhost:1313/project/tupaia/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tupaia/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Postdoctoral researcher in artificial intelligence at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Pinelli and Salomé Cojean – Researchers at LaRAC (Laboratoire de Recherche sur les Apprentissages en Contexte)&lt;/li&gt;
+&lt;li&gt;Nassim Bouarour and Sihem Amer-Yahia– Researchers at LIG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;This project is supported by the MIAI Grenoble Alpes Institute under the &lt;a href=&#34;https://miai.univ-grenoble-alpes.fr/research/chairs/technologies-used-in-pedagogy-with-artificial-intelligence-adaptations-tupaia--1362682.kjsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUPAIA Chair (Technologies Used in Pedagogy with Artificial Intelligence Adaptations)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;TUPAIA Chair&lt;/strong&gt; aims to integrate artificial intelligence into educational practices to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Enhance Personalized Learning:&lt;/strong&gt; Adapt educational content to individual learner characteristics by considering cognitive variables such as motivation, cognitive load, and satisfaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve Acceptability of AI-Powered Tools:&lt;/strong&gt; Investigate factors influencing the acceptance of AI-driven educational tools among users, including teachers and students, to ensure effective implementation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h2&gt;
+&lt;h3 id=&#34;1-impact-of-note-taking-and-breaks-on-cognitive-load-and-performance&#34;&gt;1. Impact of Note-Taking and Breaks on Cognitive Load and Performance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Main collaborator:&lt;/strong&gt; Mathieu Pinelli&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Examine how note-taking strategies and breaks affect learners&amp;rsquo; cognitive load and performance during video-based learning sessions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Subgroup Discovery (SD):&lt;/strong&gt; dentifying patterns to determine which factors influence cognitive load, learning performance, and learning strategies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gradual Pattern Analysis:&lt;/strong&gt; Analysis of the covariances of variables with different types of cognitive load to identify those that significantly influence cognitive processing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; This study provided deeper insights into learning strategies by identifying key variables affecting cognitive load.
+One key finding was that pauses mediate the effect of note-taking on learning performance – more notes led to increased pauses, which in turn improved learning outcomes.&lt;/p&gt;
+&lt;h3 id=&#34;2-personalized-video-recommendations-using-reinforcement-learning&#34;&gt;2. Personalized Video Recommendations Using Reinforcement Learning&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Main collaborator:&lt;/strong&gt; Nassim Bouarour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Develop a system that provides personalized video content recommendations based on individual learner profiles, focusing on cognitive load and skill levels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Q-Networks (DQN):&lt;/strong&gt; Implement reinforcement learning techniques to tailor video recommendations that align with learners&amp;rsquo; cognitive states and competencies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Outcomes:&lt;/strong&gt; Creation of adaptive learning environments that enhance engagement and knowledge retention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Status:&lt;/strong&gt; Data collection is ongoing to refine the model and assess its effectiveness in improving learning engagement.&lt;/p&gt;
+&lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publication&#34;&gt;Journal Publication&lt;/h3&gt;
+&lt;p&gt;📄 Pinelli. M., Moranges. M. &amp;amp; Cojean. S. Take a break, take notes? Effect of pauses and note-taking on performance learning in instructional videos. &lt;em&gt;Submitted Journal paper&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🇫🇷 Rédaction d&#39;articles par mes étudiants sur l&#39;Intelligence Artificielle</title>
@@ -138,6 +295,51 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
+      <link>http://localhost:1313/project/chemosim/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/chemosim/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marc Plantevit&lt;/strong&gt; – Professor in Computer Science at EPITA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Moustafa Bensafi&lt;/strong&gt; – Research Director in Neurosciences at CRNL (Centre de Recherche en Neurosciences de Lyon)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arnaud Fournel&lt;/strong&gt; – Postdoctoral Researcher in Neuroscience at CRNL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
+&lt;p&gt;Approach and avoidance behaviors related to odors play a key role in human survival, from detecting dangers to choosing food or engaging in social interactions. This study aims to understand the neurophysiological mechanisms underlying these behaviors by exploring interindividual variability in olfactory perception and associated emotions using AI-based methodologies.&lt;/p&gt;
+&lt;p&gt;Three experimental studies were conducted to analyze how emotional reactions to odors are reflected at different levels of the nervous system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Peripheral level&lt;/strong&gt; : Analysis of the autonomic nervous system (heart rate, skin conductance etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Central level&lt;/strong&gt; : Neuroimaging techniques such as &lt;strong&gt;fMRI&lt;/strong&gt; and &lt;strong&gt;EEG&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;p&gt;Traditional studies on odor-emotion relationships typically use statistical tests, correlations or classification models to establish general trends. However, these approaches fail to capture individual differences in olfactory perception due to numerous influencing factors.&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;This research introduced Exceptional Model Mining (EMM), Subgroup Discovery and Game Theory techniques to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide descriptive models that account for individual variability&lt;/li&gt;
+&lt;li&gt;Provide a comprehensive perspective on odor-related emotions by revealing unexplored neurophysiological responses, such as the greater variability in pleasant odor reactions compared to unpleasant odors, likely influenced by evolutionary constraints ensuring a uniform response to potential dangers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;thesis&#34;&gt;Thesis&lt;/h3&gt;
+&lt;p&gt;📖 Maelle Moranges (2023). &lt;a href=&#34;https://mmaelle.github.io/publication/moranges-2023-variabilites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Variabilités émotionnelle et neurophysiologique dans la perception olfactive: étude par l’intelligence artificielle.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
+&lt;p&gt;📄 Maëlle Moranges, Arnaud Fournel, Marc Thévenet, Marc Plantevit, Moustafa Bensafi (2024). &lt;a href=&#34;https://spj.science.org/doi/10.34133/icomputing.0086&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Exceptional Attributed Subgraph Mining to Explore Interindividual Variability in Odor Pleasantness Processing in the Piriform Cortex and Amygdala.&lt;/a&gt; Intelligent Computing.&lt;/p&gt;
+&lt;p&gt;📄 Maelle Moranges, Marc Plantevit, Moustafa Bensafi (2023). &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-1-0716-2934-5_18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches.&lt;/a&gt; Basic Protocols on Emotions, Senses, and Foods.&lt;/p&gt;
+&lt;p&gt;📄 Maëlle Moranges, Marc Plantevit, Moustafa Bensafi (2022). &lt;a href=&#34;https://ieeexplore.ieee.org/document/9772372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using subgroup discovery to relate odor pleasantness and intensity to peripheral nervous system reactions.&lt;/a&gt; IEEE Transactions on Affective Computing.&lt;/p&gt;
+&lt;h3 id=&#34;scientific-presentations&#34;&gt;Scientific Presentations&lt;/h3&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Invited Talk&lt;/strong&gt; at &lt;a href=&#34;https://www.madics.fr/event/symposium-madics-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MaDICS 2023 Symposium&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+🎤 &lt;a href=&#34;https://mmaelle.github.io/uploads/Poster_Moranges_2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Poster Presentation&lt;/strong&gt;&lt;/a&gt; at &lt;strong&gt;European Chemoreception Research Organization (ECRO) 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dissemination-of-scientific-knowledge&#34;&gt;Dissemination of Scientific Knowledge&lt;/h3&gt;
+&lt;p&gt;🎥 Featured in the &lt;strong&gt;MT180 2022 Lyon final&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=uEzYulfrQ5g&amp;amp;list=PLleLO21NXvotYus4w9yvg8FUVR33qrD44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;br&gt;
+🎥 Presented in a &lt;strong&gt;99SEC video&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=IGUyimoCo0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;br&gt;
+🎮 Developed an &lt;strong&gt;educational game&lt;/strong&gt; in the &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; → &lt;a href=&#34;https://marlynastre.itch.io/le-lac-des-cils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

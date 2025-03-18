@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Education | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/medical-education/</link>
+      <atom:link href="http://localhost:1313/tags/medical-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Education</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Medical Education</title>
+      <link>http://localhost:1313/tags/medical-education/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and Enhancement of a Medical E-Learning Database</title>
+      <link>http://localhost:1313/project/uness/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/uness/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Olivier Palombi&lt;/strong&gt; – Physician and Vice-President of UNESS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noha Ibrahim&lt;/strong&gt; – Researcher in Computer Science at LIG&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sihem Amer-Yahia&lt;/strong&gt; – Researcher in Computer Science at LIG&lt;/li&gt;
+&lt;li&gt;3 interns : &lt;strong&gt;Cyprien Michel-Deletie&lt;/strong&gt;, &lt;strong&gt;Ayman Lmimouni&lt;/strong&gt; and &lt;strong&gt;Guilherme Piffer Christo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;UNESS provides medical students with access to educational materials and assessments to prepare for national exams such as &lt;strong&gt;ECN (Épreuves Classantes Nationales)&lt;/strong&gt; and &lt;strong&gt;EDN (Épreuves Dématérialisées Nationales)&lt;/strong&gt;.&lt;br&gt;
+This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/strong&gt; to improve medical education, with two main research areas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Large Language Models (LLMs) for E-Learning&lt;/strong&gt; : Leveraging LLMs to automate the generation, classification, and refinement of multiple-choice questions (MCQs), reducing instructor workload and improving content relevance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning Pattern Analysis&lt;/strong&gt; : Using data science techniques to analyze how student learning behaviors vary across universities, gender, and performance levels.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-llms-for-e-learning&#34;&gt;1. LLMs for E-Learning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Supervisor of 3 interns&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; Evaluating LLM-generated MCQs without standardized assessment methods, requiring the development of validation techniques to ensure question quality and pedagogical relevance.&lt;/p&gt;
+&lt;h3 id=&#34;i-automatic-mcq-generation-from-course-materials&#34;&gt;i. Automatic MCQ Generation from Course Materials&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Cyprien Michel-Deletie&lt;/strong&gt; (Fourth-year student, ENS de Lyon – equivalent to M2)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Large Language Models (LLM) for Automated Question Generation and Evaluation in Medical Education&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Developed an AI-based pipeline to generate isolated MCQs from LISA educational sheets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted an literature review on LLMs for question generation and evaluation.&lt;/li&gt;
+&lt;li&gt;Developed a question generation pipeline, integrating self-refinement strategy.&lt;/li&gt;
+&lt;li&gt;Development of  evaluation criteria closely reflecting human judgment.&lt;/li&gt;
+&lt;li&gt;Compared LLaMA3, GPT 3.5 Turbo, and GPT 4o, assessing question quality and self-evaluation accuracy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ii-mcq-classification-and-alignment-with-course-content&#34;&gt;ii. MCQ Classification and Alignment with Course Content&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Ayman Lmimouni&lt;/strong&gt; (Second-year student, ENSIMAG, Grenoble INP – equivalent to M1)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Classification of UNESS Questions Using LLMs&amp;rdquo;
+&lt;strong&gt;Objective:&lt;/strong&gt; Automatically classify e-learning questions by linking them to the correct LISA educational sheets (among 4,800) to enhance medical exam preparation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed an automatic classification pipeline while handling token limitations in LLMs.&lt;/li&gt;
+&lt;li&gt;Creation of an ensemble learning technique on the same instance to improve the prediction accuracy.&lt;/li&gt;
+&lt;li&gt;Evaluated and comparison of LLaMA 3-8b, LLaMA 3.1-70b, Phi-3-mini, and TinyLlama, with 93% accuracy for LLaMA 3-8b.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iii-generation-of-critical-article-review-questions&#34;&gt;iii. Generation of Critical Article Review Questions&lt;/h3&gt;
+&lt;p&gt;🧑‍🎓 &lt;strong&gt;Intern: Guilherme Piffer Christo&lt;/strong&gt; (Second-year student, Ense3, Grenoble INP – equivalent to M1)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &amp;ldquo;Generation of Critical Article Reading Questions Using LLMs&amp;rdquo;
+&lt;strong&gt;Objective:&lt;/strong&gt; Develop automated Critical Article Reading (LCA) questions from scientific publications to aid medical students in exam preparation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realization:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed existing LCA structures to understand their design principles.&lt;/li&gt;
+&lt;li&gt;Implemented a question generation pipeline, adapting Cyprien’s approach by integrating document summarization, key-point extraction, and multi-step question synthesis to enhance the quality and relevance of generated critical article review questions.&lt;/li&gt;
+&lt;li&gt;Optimized question diversity using a cosine similarity measure to reduce redundancy in generated questions..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-data-analysis-on-gender-university-and-learning-behaviors&#34;&gt;2. Data Analysis on Gender, University and Learning Behaviors&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral researcher in Computer Science at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; To explore disparities in online medical learning through data-driven analysis of UNESS platform usage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenges:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring data complexity management while maintaining representative models across diverse student cohorts.&lt;/li&gt;
+&lt;li&gt;Accounting for temporal and geographical differences that may influence gender-related learning behaviors.&lt;/li&gt;
+&lt;li&gt;Addressing individual variability within genders to avoid overgeneralized conclusions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt; Subgroup Discovery and Shapley Value analysis to identify learning behavior patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Gender disparities were observed in engagement and performance, confirming prior studies suggesting MCQ formats tend to favor male students.&lt;/p&gt;
+&lt;p&gt;These insights contribute to rethinking medical assessment strategies to promote inclusive education.&lt;/p&gt;
+&lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
+&lt;p&gt;📄 Moranges, M., Ibrahim, N., Amer-Yahia, S., &amp;amp; Palombi, O. (2025). &lt;a href=&#34;https://www.researchsquare.com/article/rs-5914240/v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Study of Gender-Specific Learning Patterns in Online Medical Education.&lt;/a&gt; &lt;em&gt;Under review&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

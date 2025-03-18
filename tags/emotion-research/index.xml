@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion Research | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/emotion-research/</link>
+      <atom:link href="http://localhost:1313/tags/emotion-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emotion Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Emotion Research</title>
+      <link>http://localhost:1313/tags/emotion-research/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
+      <link>http://localhost:1313/project/chemosim/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/chemosim/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marc Plantevit&lt;/strong&gt; – Professor in Computer Science at EPITA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Moustafa Bensafi&lt;/strong&gt; – Research Director in Neurosciences at CRNL (Centre de Recherche en Neurosciences de Lyon)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arnaud Fournel&lt;/strong&gt; – Postdoctoral Researcher in Neuroscience at CRNL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
+&lt;p&gt;Approach and avoidance behaviors related to odors play a key role in human survival, from detecting dangers to choosing food or engaging in social interactions. This study aims to understand the neurophysiological mechanisms underlying these behaviors by exploring interindividual variability in olfactory perception and associated emotions using AI-based methodologies.&lt;/p&gt;
+&lt;p&gt;Three experimental studies were conducted to analyze how emotional reactions to odors are reflected at different levels of the nervous system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Peripheral level&lt;/strong&gt; : Analysis of the autonomic nervous system (heart rate, skin conductance etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Central level&lt;/strong&gt; : Neuroimaging techniques such as &lt;strong&gt;fMRI&lt;/strong&gt; and &lt;strong&gt;EEG&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;p&gt;Traditional studies on odor-emotion relationships typically use statistical tests, correlations or classification models to establish general trends. However, these approaches fail to capture individual differences in olfactory perception due to numerous influencing factors.&lt;/p&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;This research introduced Exceptional Model Mining (EMM), Subgroup Discovery and Game Theory techniques to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide descriptive models that account for individual variability&lt;/li&gt;
+&lt;li&gt;Provide a comprehensive perspective on odor-related emotions by revealing unexplored neurophysiological responses, such as the greater variability in pleasant odor reactions compared to unpleasant odors, likely influenced by evolutionary constraints ensuring a uniform response to potential dangers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;thesis&#34;&gt;Thesis&lt;/h3&gt;
+&lt;p&gt;📖 Maelle Moranges (2023). &lt;a href=&#34;https://mmaelle.github.io/publication/moranges-2023-variabilites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Variabilités émotionnelle et neurophysiologique dans la perception olfactive: étude par l’intelligence artificielle.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
+&lt;p&gt;📄 Maëlle Moranges, Arnaud Fournel, Marc Thévenet, Marc Plantevit, Moustafa Bensafi (2024). &lt;a href=&#34;https://spj.science.org/doi/10.34133/icomputing.0086&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using Exceptional Attributed Subgraph Mining to Explore Interindividual Variability in Odor Pleasantness Processing in the Piriform Cortex and Amygdala.&lt;/a&gt; Intelligent Computing.&lt;/p&gt;
+&lt;p&gt;📄 Maelle Moranges, Marc Plantevit, Moustafa Bensafi (2023). &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-1-0716-2934-5_18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches.&lt;/a&gt; Basic Protocols on Emotions, Senses, and Foods.&lt;/p&gt;
+&lt;p&gt;📄 Maëlle Moranges, Marc Plantevit, Moustafa Bensafi (2022). &lt;a href=&#34;https://ieeexplore.ieee.org/document/9772372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using subgroup discovery to relate odor pleasantness and intensity to peripheral nervous system reactions.&lt;/a&gt; IEEE Transactions on Affective Computing.&lt;/p&gt;
+&lt;h3 id=&#34;scientific-presentations&#34;&gt;Scientific Presentations&lt;/h3&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Invited Talk&lt;/strong&gt; at &lt;a href=&#34;https://www.madics.fr/event/symposium-madics-5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MaDICS 2023 Symposium&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+🎤 &lt;a href=&#34;https://mmaelle.github.io/uploads/Poster_Moranges_2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Poster Presentation&lt;/strong&gt;&lt;/a&gt; at &lt;strong&gt;European Chemoreception Research Organization (ECRO) 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dissemination-of-scientific-knowledge&#34;&gt;Dissemination of Scientific Knowledge&lt;/h3&gt;
+&lt;p&gt;🎥 Featured in the &lt;strong&gt;MT180 2022 Lyon final&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=uEzYulfrQ5g&amp;amp;list=PLleLO21NXvotYus4w9yvg8FUVR33qrD44&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;br&gt;
+🎥 Presented in a &lt;strong&gt;99SEC video&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=IGUyimoCo0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;br&gt;
+🎮 Developed an &lt;strong&gt;educational game&lt;/strong&gt; in the &lt;strong&gt;Scientific Game Jam&lt;/strong&gt; → &lt;a href=&#34;https://marlynastre.itch.io/le-lac-des-cils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

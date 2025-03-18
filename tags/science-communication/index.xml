@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Communication | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/science-communication/</link>
+      <atom:link href="http://localhost:1313/tags/science-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science Communication</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Science Communication</title>
+      <link>http://localhost:1313/tags/science-communication/</link>
+    </image>
+    
+    <item>
+      <title> Exploring the Impact of COVID-19-Related Smell Disorders</title>
+      <link>http://localhost:1313/project/covid-neuropop/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/covid-neuropop/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis and science communication&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This project was conducted within the &lt;a href=&#34;https://www.crnl.fr/fr/equipe/neuropop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEUROPOP team&lt;/a&gt; at CRNL.&lt;/p&gt;
+&lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
+&lt;p&gt;The loss of smell due to COVID-19 was a key symptom, but its broader consequences remained understudied. This research aimed to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze the consequences of smell loss on daily life and well-being.&lt;/li&gt;
+&lt;li&gt;Determine symptom onset sequences and their relationship to recovery duration.&lt;/li&gt;
+&lt;li&gt;Investigate the long-term effects of olfactory dysfunction on eating behavior and safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;p&gt;Research on the loss of smell due to COVID-19 presented several challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Urgency of the pandemic&lt;/strong&gt; : The need for rapid data collection and analysis required efficient coordination and real-time collaboration among international researchers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variability in self-reported data&lt;/strong&gt; : Differences in symptom descriptions across individuals and languages made standardization a key challenge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multidisciplinary approach&lt;/strong&gt; : Combining expertise from neuroscience, epidemiology, and data science was essential but required integrating diverse methodologies and perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;p&gt;Our research introduced several novel approaches to studying COVID-19-related smell disorders:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impact on quality of life&lt;/strong&gt; : The study revealed gender and age-related disparities in prolonged anosmia recovery, linking it to changes in eating habits and potential safety concerns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data-driven symptom progression analysis&lt;/strong&gt; : By leveraging sequence mining techniques, we identified patterns in symptom onset and recovery, providing insights for targeted medical interventions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publication&#34;&gt;Journal Publication&lt;/h3&gt;
+&lt;p&gt;📄 Camille Ferdenzi, Christophe Bousquet, Pierre-Emmanuel Aguera, Morgane Dantec, Christelle Daudé, Lesly Fornoni, Arnaud Fournel, Aurélien Kassan, Marylou Mantel, Maëlle Moranges, et al (2021). &lt;a href=&#34;https://doi.org/https://doi.org/10.1093/chemse/bjab028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recovery from COVID-19-related olfactory disorders and quality of life: insights from an observational online study&lt;/a&gt;. Chemical Senses.&lt;/p&gt;
+&lt;h3 id=&#34;public-science-communication&#34;&gt;Public Science Communication&lt;/h3&gt;
+&lt;p&gt;🎥 &lt;strong&gt;Animated Video Series&lt;/strong&gt;, published on the &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/2022/06/20/sortie-video-equipe-mediasens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GDRO3 website&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

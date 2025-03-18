@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/education/</link>
+      <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging AI to Enhance Educational Practices</title>
+      <link>http://localhost:1313/project/tupaia/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tupaia/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Postdoctoral researcher in artificial intelligence at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Pinelli and Salomé Cojean – Researchers at LaRAC (Laboratoire de Recherche sur les Apprentissages en Contexte)&lt;/li&gt;
+&lt;li&gt;Nassim Bouarour and Sihem Amer-Yahia– Researchers at LIG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;This project is supported by the MIAI Grenoble Alpes Institute under the &lt;a href=&#34;https://miai.univ-grenoble-alpes.fr/research/chairs/technologies-used-in-pedagogy-with-artificial-intelligence-adaptations-tupaia--1362682.kjsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUPAIA Chair (Technologies Used in Pedagogy with Artificial Intelligence Adaptations)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;TUPAIA Chair&lt;/strong&gt; aims to integrate artificial intelligence into educational practices to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Enhance Personalized Learning:&lt;/strong&gt; Adapt educational content to individual learner characteristics by considering cognitive variables such as motivation, cognitive load, and satisfaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve Acceptability of AI-Powered Tools:&lt;/strong&gt; Investigate factors influencing the acceptance of AI-driven educational tools among users, including teachers and students, to ensure effective implementation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h2&gt;
+&lt;h3 id=&#34;1-impact-of-note-taking-and-breaks-on-cognitive-load-and-performance&#34;&gt;1. Impact of Note-Taking and Breaks on Cognitive Load and Performance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Main collaborator:&lt;/strong&gt; Mathieu Pinelli&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Examine how note-taking strategies and breaks affect learners&amp;rsquo; cognitive load and performance during video-based learning sessions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Subgroup Discovery (SD):&lt;/strong&gt; dentifying patterns to determine which factors influence cognitive load, learning performance, and learning strategies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gradual Pattern Analysis:&lt;/strong&gt; Analysis of the covariances of variables with different types of cognitive load to identify those that significantly influence cognitive processing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; This study provided deeper insights into learning strategies by identifying key variables affecting cognitive load.
+One key finding was that pauses mediate the effect of note-taking on learning performance – more notes led to increased pauses, which in turn improved learning outcomes.&lt;/p&gt;
+&lt;h3 id=&#34;2-personalized-video-recommendations-using-reinforcement-learning&#34;&gt;2. Personalized Video Recommendations Using Reinforcement Learning&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Main collaborator:&lt;/strong&gt; Nassim Bouarour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Develop a system that provides personalized video content recommendations based on individual learner profiles, focusing on cognitive load and skill levels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Q-Networks (DQN):&lt;/strong&gt; Implement reinforcement learning techniques to tailor video recommendations that align with learners&amp;rsquo; cognitive states and competencies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Outcomes:&lt;/strong&gt; Creation of adaptive learning environments that enhance engagement and knowledge retention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Status:&lt;/strong&gt; Data collection is ongoing to refine the model and assess its effectiveness in improving learning engagement.&lt;/p&gt;
+&lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publication&#34;&gt;Journal Publication&lt;/h3&gt;
+&lt;p&gt;📄 Pinelli. M., Moranges. M. &amp;amp; Cojean. S. Take a break, take notes? Effect of pauses and note-taking on performance learning in instructional videos. &lt;em&gt;Submitted Journal paper&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

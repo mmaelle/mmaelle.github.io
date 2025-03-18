@@ -5,12 +5,51 @@
     <link>http://localhost:1313/tags/machine-learning/</link>
       <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Machine Learning</title>
       <link>http://localhost:1313/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>AI for Stroke Outcome Prediction</title>
+      <link>http://localhost:1313/project/avc/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/avc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;The early inflammatory response after an acute ischemic stroke (AIS) plays a crucial role in patient recovery. This research aims to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identify immune system signatures&lt;/strong&gt; in patients experiencing &lt;strong&gt;loss of autonomy&lt;/strong&gt; post-thrombectomy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyze gender-based recovery differences&lt;/strong&gt; to improve personalized stroke care.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-approach&#34;&gt;Research Approach&lt;/h2&gt;
+&lt;h3 id=&#34;1-statistical--graphical-analysis-for-clinical-interpretation&#34;&gt;1. Statistical &amp;amp; Graphical Analysis for Clinical Interpretation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Replicated key statistical from a &lt;a href=&#34;https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.121.036806&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prior study&lt;/a&gt; (originally focused on age) to examine gender differences in stroke recovery.&lt;/li&gt;
+&lt;li&gt;Applied Subgroup Discovery on biomarkers to identify patient-specific risk intervals.&lt;/li&gt;
+&lt;li&gt;Developed a manual interpretation framework with clear thresholds, similar to standard blood test markers, enabling physicians to make quick prognoses without requiring computational tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-machine-learning-for-predicting-loss-of-autonomy&#34;&gt;2. Machine Learning for Predicting Loss of Autonomy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Expanded the dataset to include medical history, MRI report descriptions and additional features.&lt;/li&gt;
+&lt;li&gt;Implemented supervised learning models to predict functional outcomes post-stroke.&lt;/li&gt;
+&lt;li&gt;Assessed explainability techniques (SHAP, LIME, counterfactual) to:
+&lt;ul&gt;
+&lt;li&gt;Identify gender impact in stroke recovery predictions.&lt;/li&gt;
+&lt;li&gt;Evaluate the consistency of different explanation methods for medical decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;public-science-communication&#34;&gt;Public Science Communication&lt;/h3&gt;
+&lt;p&gt;🎥 &lt;strong&gt;Infographic from the &amp;ldquo;AI and Health&amp;rdquo; project&lt;/strong&gt; → &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Pop&amp;rsquo;Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Excerpts from the roundtable discussion on AI in health&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=mQDB4cK6EVo&amp;amp;list=PL5N3iQUGVo5Kd5nj-Y1WTxoCtxcBMU7nz&amp;amp;index=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎓 &lt;strong&gt;Digital Sciences Outreach at Lycée Simone Weil&lt;/strong&gt; → &lt;a href=&#34;https://mmaelle.github.io/mediation/chiche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction to Machine Learning</title>

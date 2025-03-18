@@ -72,5 +72,39 @@
 </description>
     </item>
     
+    <item>
+      <title>Tracking Olfactory Disorders as Early COVID-19 Indicators</title>
+      <link>http://localhost:1313/project/covid-gccr/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/covid-gccr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This study was conducted under the international collaboration of the &lt;a href=&#34;https://gcchemosensr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Global Consortium for Chemosensory Research&lt;/strong&gt; (GCCR)&lt;/a&gt;, which includes researchers from multiple institutions such as Université Côte d’Azur, University of Florence, Yale University, University of California Irvine and The Pennsylvania State University.&lt;/p&gt;
+&lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
+&lt;p&gt;During the COVID-19 pandemic, the loss of smell emerged as a key symptom of infection. Our research focused on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigating the link between self-reported olfactory dysfunction and hospital overload.&lt;/li&gt;
+&lt;li&gt;Evaluating whether sudden smell and taste loss could serve as early markers of COVID-19 spread.&lt;/li&gt;
+&lt;li&gt;Analyzing the effectiveness of government measures by tracking smell and taste disorder trends before and after lockdowns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crowdsourced Data Quality&lt;/strong&gt;: Ensuring the reliability of self-reported symptoms across diverse populations required careful validation and filtering of survey responses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Government Policy Variability&lt;/strong&gt;: Comparing the impact of lockdowns and public health measures on olfactory disorder trends involved addressing significant differences in policy enforcement and healthcare infrastructure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrated that self-reported smell and taste changes correlated more strongly with hospital admissions than official government indicators.&lt;/li&gt;
+&lt;li&gt;Showed that an increase in smell loss reports preceded peaks in COVID-19 cases, suggesting its utility as an early pandemic marker.&lt;/li&gt;
+&lt;li&gt;Highlighted that stricter lockdown measures resulted in faster declines in reported olfactory dysfunction, indicating their effectiveness.&lt;/li&gt;
+&lt;li&gt;Developed R scripts for data analysis, available on &lt;a href=&#34;https://osf.io/gew7p&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;OSF (Open Science Framework)&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
+&lt;p&gt;📄 Denis Pierron, Veronica Pereda-Loth, Marylou Mantel, Maëlle Moranges, Emmanuelle Bignon, Omar Alva, Julie Kabous, Margit Heiske, Jody Pacalon, Renaud David, et al (2020). &lt;a href=&#34;https://www.nature.com/articles/s41467-020-18963-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smell and taste changes are early indicators of the COVID-19 pandemic and political decision effectiveness.&lt;/a&gt; Nature communications.&lt;/p&gt;
+&lt;h3 id=&#34;scientific-presentations&#34;&gt;Scientific Presentations&lt;/h3&gt;
+&lt;p&gt;🎤 Veronica Pereda-Loth, Aldair Martinez, Lenka Tisseyre, Oscar Alva, Julie Kabous, Marylou Mantel, Maëlle Moranges, Emmanuelle Bignon, Margit Heiske, Monique Courtade-Saı̈di, et al (2021). &lt;a href=&#34;https://journals.openedition.org/bmsap/7157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contribution de l’anthropologie sensorielle à l’étude du COVID-19.&lt;/a&gt; Bulletins et mémoires de la Société d’Anthropologie de Paris. BMSAP.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
