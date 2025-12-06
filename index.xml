@@ -34,6 +34,36 @@
     </item>
     
     <item>
+      <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
+      <link>http://localhost:1313/mediation/article_inria/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par l&amp;rsquo;&lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
+Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIstroSight&lt;/strong&gt;, récemment installée à l’&lt;strong&gt;Hôpital Neurologique de Lyon Est&lt;/strong&gt; (HCL), ainsi que notre collaboration étroite avec les praticiennes et praticiens hospitaliers.&lt;/p&gt;
+&lt;h2 id=&#34;-lire-larticle-sur-le-site-dinria&#34;&gt;📌 Lire l’article sur le site d’Inria&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;strong&gt;L’équipe AIstroSight mise sur la coopération avec les praticiennes et praticiens hospitaliers :&lt;/strong&gt;  &lt;a href=&#34;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🇫🇷 Intervention dans une table ronde sur l&#39;utilisation des IA génératives en éducation</title>
+      <link>http://localhost:1313/mediation/education/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/education/</guid>
+      <description>&lt;p&gt;Le 25 juin 2025, j’ai participé à la table ronde organisée par le &lt;strong&gt;Réseau Canopé&lt;/strong&gt; intitulée &lt;strong&gt;« Vers des critères de choix partagés et pérennes dans les usages des IA génératives en éducation »&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Mon intervention a consisté à offrir un éclairage technique et éthique sur les IA génératives, en expliquant leur fonctionnement, les risques associés, tels que les biais, les hallucinations ou l’impact environnemental, ainsi que leurs limites et les perspectives actuelles concernant leur usage en contexte scolaire.&lt;/p&gt;
+&lt;h2 id=&#34;-revoir-la-table-ronde&#34;&gt;🎥 Revoir la table ronde&lt;/h2&gt;
+&lt;p&gt;Vous pouvez consulter l’enregistrement complet de la table ronde ci-dessous :&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34;
+        src=&#34;https://tube.reseau-canope.fr/videos/embed/r1ibk1Tk4XzzXjTN4z885f&#34;
+        frameborder=&#34;0&#34;
+        allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Les échanges ont été nourris par la récente publication du &lt;a href=&#34;https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cadre d’usage de l’IA en éducation&lt;/a&gt; par le ministère, qui vise à fournir des repères clairs à l’ensemble de la communauté éducative sur l’usage responsable de l’IA à l’école.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Technology Watch</title>
       <link>http://localhost:1313/teaching/vt/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
@@ -125,7 +155,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;scientific-presentations&#34;&gt;Scientific Presentations&lt;/h3&gt;
+&lt;p&gt;📄 &lt;strong&gt;Poster (upcoming) – EGC 2026: &lt;em&gt;“Enhancing SHAP Explanation Interpretability Using Subgroup Discovery”&lt;/em&gt;&lt;/strong&gt; → &lt;a href=&#34;https://conferences.sigappfr.org/egc2026/papiers-acceptes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference website&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;public-science-communication&#34;&gt;Public Science Communication&lt;/h3&gt;
+&lt;p&gt;🎙️ &lt;strong&gt;Interview for Inria on AIstroSight and hospital collaboration&lt;/strong&gt; → &lt;a href=&#34;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🎥 &lt;strong&gt;Infographic from the &amp;ldquo;AI and Health&amp;rdquo; project&lt;/strong&gt; → &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Pop&amp;rsquo;Sciences&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🎤 &lt;strong&gt;Excerpts from the roundtable discussion on AI in health&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=mQDB4cK6EVo&amp;amp;list=PL5N3iQUGVo5Kd5nj-Y1WTxoCtxcBMU7nz&amp;amp;index=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🎓 &lt;strong&gt;Digital Sciences Outreach at Lycée Simone Weil&lt;/strong&gt; → &lt;a href=&#34;https://mmaelle.github.io/mediation/chiche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
@@ -277,9 +310,11 @@ This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/stro
 &lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt; Subgroup Discovery and Shapley Value analysis to identify learning behavior patterns.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Gender disparities were observed in engagement and performance, confirming prior studies suggesting MCQ formats tend to favor male students.&lt;/p&gt;
 &lt;p&gt;These insights contribute to rethinking medical assessment strategies to promote inclusive education.&lt;/p&gt;
-&lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
 &lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;
-&lt;p&gt;📄 Moranges, M., Ibrahim, N., Amer-Yahia, S., &amp;amp; Palombi, O. (2025). &lt;a href=&#34;https://www.researchsquare.com/article/rs-5914240/v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Study of Gender-Specific Learning Patterns in Online Medical Education.&lt;/a&gt; &lt;em&gt;Under review&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;📄 Moranges, M., Ibrahim, N., Amer-Yahia, S., &amp;amp; Palombi, O. &lt;a href=&#34;https://www.researchsquare.com/article/rs-5914240/v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Study of Gender-Specific Learning Patterns in Online Medical Education.&lt;/a&gt; &lt;em&gt;Under review&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dissemination-of-scientific-knowledge&#34;&gt;Dissemination of Scientific Knowledge&lt;/h3&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Roundtable on generative AI in education – A collective challenge (Canopé)&lt;/strong&gt; → &lt;a href=&#34;https://tube.reseau-canope.fr/w/r1ibk1Tk4XzzXjTN4z885f?start=2s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch the discussion&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -324,6 +359,31 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
 &lt;h2 id=&#34;dissemination&#34;&gt;Dissemination&lt;/h2&gt;
 &lt;h3 id=&#34;journal-publication&#34;&gt;Journal Publication&lt;/h3&gt;
 &lt;p&gt;📄 Pinelli. M., Moranges. M. &amp;amp; Cojean. S. Take a break, take notes? Effect of pauses and note-taking on performance learning in instructional videos. &lt;em&gt;Submitted Journal paper&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🇫🇷 Illustration animée sur l’Intelligence Artificielle en santé</title>
+      <link>http://localhost:1313/mediation/illustration/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/illustration/</guid>
+      <description>&lt;p&gt;Dans le cadre du dossier &lt;strong&gt;« Diagnostic 2.0 : Quand l’IA intervient »&lt;/strong&gt; de &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, une illustration animée présente, en parallèle, les différentes étapes du &lt;strong&gt;diagnostic médical réalisé par un médecin&lt;/strong&gt; et du &lt;strong&gt;développement d’un modèle d’intelligence artificielle appliqué à la santé&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cette ressource de vulgarisation permet de mieux comprendre :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;comment le médecin interroge, examine et raisonne pour poser un diagnostic ;&lt;/li&gt;
+&lt;li&gt;comment, de leur côté, les données cliniques sont collectées, préparées, utilisées pour entraîner, évaluer puis déployer un modèle d’IA d’aide au diagnostic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lillustration-animée&#34;&gt;L’illustration animée&lt;/h2&gt;
+&lt;p&gt;L’illustration ci-dessous est interactive : cliquez sur les lettres pour découvrir le détail de chaque étape.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;2100&#34;
+        src=&#34;https://exolab.servadmin.fr/pop_anim/&#34;
+        frameborder=&#34;0&#34;
+        style=&#34;border:none;&#34;&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;le-dossier-en-ligne-associé&#34;&gt;Le dossier en ligne associé&lt;/h2&gt;
+&lt;p&gt;📌 Pour replacer cette illustration dans son contexte, vous pouvez consulter l’article associé sur le site de Pop’Sciences :&lt;br&gt;
+&lt;strong&gt;L’Intelligence Artificielle en santé : du médecin à l’algorithme&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

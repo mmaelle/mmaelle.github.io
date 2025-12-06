@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explainable AI | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/explainable-ai/</link>
+      <atom:link href="http://localhost:1313/tags/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explainable AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Explainable AI</title>
+      <link>http://localhost:1313/tags/explainable-ai/</link>
+    </image>
+    
+    <item>
+      <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
+      <link>http://localhost:1313/mediation/article_inria/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par l&amp;rsquo;&lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
+Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIstroSight&lt;/strong&gt;, récemment installée à l’&lt;strong&gt;Hôpital Neurologique de Lyon Est&lt;/strong&gt; (HCL), ainsi que notre collaboration étroite avec les praticiennes et praticiens hospitaliers.&lt;/p&gt;
+&lt;h2 id=&#34;-lire-larticle-sur-le-site-dinria&#34;&gt;📌 Lire l’article sur le site d’Inria&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;strong&gt;L’équipe AIstroSight mise sur la coopération avec les praticiennes et praticiens hospitaliers :&lt;/strong&gt;  &lt;a href=&#34;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

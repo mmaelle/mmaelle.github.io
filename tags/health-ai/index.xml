@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health AI | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/health-ai/</link>
+      <atom:link href="http://localhost:1313/tags/health-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Health AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Health AI</title>
+      <link>http://localhost:1313/tags/health-ai/</link>
+    </image>
+    
+    <item>
+      <title>🇫🇷 Interview pour Inria sur les travaux de recherche menés au sein d’AIStroSight</title>
+      <link>http://localhost:1313/mediation/article_inria/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par &lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
+Cet entretien visait à mettre en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIStroSight&lt;/strong&gt;, récemment relocalisée au sein des &lt;strong&gt;Hospices Civils de Lyon (HCL)&lt;/strong&gt; afin de renforcer la collaboration entre recherche académique et pratique clinique.&lt;/p&gt;
+&lt;h2 id=&#34;-une-recherche-au-cœur-de-lhôpital&#34;&gt;🧠 Une recherche au cœur de l’hôpital&lt;/h2&gt;
+&lt;p&gt;L’équipe &lt;strong&gt;AIStroSight&lt;/strong&gt; explore et développe des méthodes d’&lt;strong&gt;intelligence artificielle pour l’aide au diagnostic&lt;/strong&gt;, en particulier dans le domaine de la santé.&lt;br&gt;
+Ce rapprochement avec les HCL permet :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;une interaction directe avec les clinicien·nes,&lt;/li&gt;
+&lt;li&gt;un accès facilité aux données médicales,&lt;/li&gt;
+&lt;li&gt;une compréhension fine des besoins du terrain,&lt;/li&gt;
+&lt;li&gt;une intégration plus rapide des innovations IA dans la pratique médicale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dans l’interview, j’ai présenté les objectifs de mes recherches ainsi que le rôle de l’IA pour améliorer l’interprétation des signaux physiologiques et neuroscientifiques.&lt;/p&gt;
+&lt;h2 id=&#34;-une-mise-en-avant-du-travail-scientifique&#34;&gt;🎤 Une mise en avant du travail scientifique&lt;/h2&gt;
+&lt;p&gt;L’article propose un regard croisé entre chercheurs et médecins sur :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les &lt;strong&gt;défis technologiques&lt;/strong&gt; liés au développement d’algorithmes robustes,&lt;/li&gt;
+&lt;li&gt;les &lt;strong&gt;enjeux éthiques&lt;/strong&gt; associés à l’IA en santé,&lt;/li&gt;
+&lt;li&gt;l’importance d’une &lt;strong&gt;coopération continue&lt;/strong&gt; entre science informatique, ingénierie et médecine,&lt;/li&gt;
+&lt;li&gt;la mission d’AIStroSight dans la &lt;strong&gt;transformation numérique des pratiques hospitalières&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cet échange met en lumière le rôle clé de la recherche interdisciplinaire pour construire des outils fiables et utiles en milieu clinique.&lt;/p&gt;
+&lt;h2 id=&#34;-lire-larticle-complet&#34;&gt;📌 Lire l’article complet&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;strong&gt;AIStroSight : une coopération recherche–hôpital pour développer des IA d’aide au diagnostic&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://inria.fr/fr/aistrosight-cooperation-recherche-hopital-ia-aide-diagnostic&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IA en Santé | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/ia-en-sante/</link>
+      <atom:link href="http://localhost:1313/tags/ia-en-sante/index.xml" rel="self" type="application/rss+xml" />
+    <description>IA en Santé</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>IA en Santé</title>
+      <link>http://localhost:1313/tags/ia-en-sante/</link>
+    </image>
+    
+    <item>
+      <title>🇫🇷 Illustration animée sur l’Intelligence Artificielle en santé</title>
+      <link>http://localhost:1313/mediation/illustration/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/illustration/</guid>
+      <description>&lt;p&gt;Dans le cadre du dossier &lt;strong&gt;« Diagnostic 2.0 : Quand l’IA intervient »&lt;/strong&gt; de &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, une illustration animée présente, en parallèle, les différentes étapes du &lt;strong&gt;diagnostic médical réalisé par un médecin&lt;/strong&gt; et du &lt;strong&gt;développement d’un modèle d’intelligence artificielle appliqué à la santé&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cette ressource de vulgarisation permet de mieux comprendre :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;comment le médecin interroge, examine et raisonne pour poser un diagnostic ;&lt;/li&gt;
+&lt;li&gt;comment, de leur côté, les données cliniques sont collectées, préparées, utilisées pour entraîner, évaluer puis déployer un modèle d’IA d’aide au diagnostic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-explorer-lillustration-animée&#34;&gt;🩺 Explorer l’illustration animée&lt;/h2&gt;
+&lt;p&gt;Vous pouvez explorer directement l’illustration animée ci-dessous :&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34;
+        src=&#34;https://exolab.servadmin.fr/pop_anim/&#34;
+        frameborder=&#34;0&#34;
+        allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;📌 Pour replacer cette illustration dans son contexte, vous pouvez consulter l’article associé sur le site de Pop’Sciences :&lt;br&gt;
+&lt;strong&gt;L’Intelligence Artificielle en santé : du médecin à l’algorithme&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

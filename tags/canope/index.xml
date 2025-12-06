@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canopé | Maëlle Moranges</title>
+    <link>http://localhost:1313/tags/canope/</link>
+      <atom:link href="http://localhost:1313/tags/canope/index.xml" rel="self" type="application/rss+xml" />
+    <description>Canopé</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <title>Canopé</title>
+      <link>http://localhost:1313/tags/canope/</link>
+    </image>
+    
+    <item>
+      <title>🇫🇷 Intervention dans une table ronde sur l&#39;utilisation des IA génératives en éducation</title>
+      <link>http://localhost:1313/mediation/education/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/education/</guid>
+      <description>&lt;p&gt;Le 25 juin 2025, j’ai participé à la table ronde organisée par le &lt;strong&gt;Réseau Canopé&lt;/strong&gt; intitulée &lt;strong&gt;« Vers des critères de choix partagés et pérennes dans les usages des IA génératives en éducation »&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Mon intervention a consisté à offrir un éclairage technique et éthique sur les IA génératives, en expliquant leur fonctionnement, les risques associés, tels que les biais, les hallucinations ou l’impact environnemental, ainsi que leurs limites et les perspectives actuelles concernant leur usage en contexte scolaire.&lt;/p&gt;
+&lt;h2 id=&#34;-revoir-la-table-ronde&#34;&gt;🎥 Revoir la table ronde&lt;/h2&gt;
+&lt;p&gt;Vous pouvez consulter l’enregistrement complet de la table ronde ci-dessous :&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34;
+        src=&#34;https://tube.reseau-canope.fr/videos/embed/r1ibk1Tk4XzzXjTN4z885f&#34;
+        frameborder=&#34;0&#34;
+        allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Les échanges ont été nourris par la récente publication du &lt;a href=&#34;https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cadre d’usage de l’IA en éducation&lt;/a&gt; par le ministère, qui vise à fournir des repères clairs à l’ensemble de la communauté éducative sur l’usage responsable de l’IA à l’école.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
