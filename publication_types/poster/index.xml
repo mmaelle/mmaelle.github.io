@@ -5,12 +5,21 @@
     <link>http://localhost:1313/publication_types/poster/</link>
       <atom:link href="http://localhost:1313/publication_types/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Poster</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Poster</title>
       <link>http://localhost:1313/publication_types/poster/</link>
     </image>
+    
+    <item>
+      <title>Decoding student learning in medical education through UNESS platform interactions</title>
+      <link>http://localhost:1313/publication/moranges-2026-poster/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moranges-2026-poster/</guid>
+      <description>&lt;p&gt;Poster presented at EGC, Jan 28, 2026&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Decoding student learning in medical education through UNESS platform interactions</title>

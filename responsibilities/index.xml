@@ -5,12 +5,20 @@
     <link>http://localhost:1313/responsibilities/</link>
       <atom:link href="http://localhost:1313/responsibilities/index.xml" rel="self" type="application/rss+xml" />
     <description>Responsabilities</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Responsabilities</title>
       <link>http://localhost:1313/responsibilities/</link>
     </image>
+    
+    <item>
+      <title>Scientific Game Jam 2023 – Jury Member</title>
+      <link>http://localhost:1313/responsibilities/sci_game_jam_jury/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/responsibilities/sci_game_jam_jury/</guid>
+      <description>&lt;p&gt;Evaluation of projects during this 48-hour video game development event and selection of winners.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Explain’AI Workshop - EGC 2025, Strasbourg</title>
