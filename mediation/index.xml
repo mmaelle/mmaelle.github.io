@@ -5,12 +5,83 @@
     <link>http://localhost:1313/mediation/</link>
       <atom:link href="http://localhost:1313/mediation/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissemination of Scientific Knowledge</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Dissemination of Scientific Knowledge</title>
       <link>http://localhost:1313/mediation/</link>
     </image>
+    
+    <item>
+      <title>🇫🇷 Création d’un jeu de société sur l’IA en santé présenté à la Fête de la Science</title>
+      <link>http://localhost:1313/mediation/jeu_ia_sante/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediation/jeu_ia_sante/</guid>
+      <description>&lt;p&gt;Dans le cadre de la &lt;strong&gt;Fête de la Science&lt;/strong&gt;, j’ai participé à la création d’un jeu de société dédié à l’intelligence artificielle en santé, conçu pour sensibiliser le grand public et les publics scolaires aux principes, aux usages et aux enjeux de l’IA appliquée au domaine médical.&lt;/p&gt;
+&lt;p&gt;Ce projet a été développé en collaboration avec &lt;strong&gt;Thomas Guyet&lt;/strong&gt; et &lt;strong&gt;Manuel Jasse&lt;/strong&gt;.&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;&#34;&gt;
+  &lt;img src=&#34;carte1.png&#34; alt=&#34;Carte du jeu IA en santé&#34; style=&#34;max-width: 30%; height: auto;&#34;&gt;
+  &lt;img src=&#34;carte2.png&#34; alt=&#34;Carte du jeu IA en santé&#34; style=&#34;max-width: 30%; height: auto;&#34;&gt;
+  &lt;img src=&#34;carte3.png&#34; alt=&#34;Carte du jeu IA en santé&#34; style=&#34;max-width: 30%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;-un-jeu-de-rôle-en-cartes-pour-comprendre-lia-en-santé&#34;&gt;🎴 Un jeu de rôle en cartes pour comprendre l’IA en santé&lt;/h2&gt;
+&lt;p&gt;Le jeu prend la forme d’un jeu de rôle en cartes, inspiré de mécaniques proches de &lt;em&gt;Magic: The Gathering&lt;/em&gt;.&lt;br&gt;
+Il permet aux joueurs de simuler la conception et l’exploitation d’un système d’intelligence artificielle en santé :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;collaborer avec des médecins,&lt;/li&gt;
+&lt;li&gt;recruter des stagiaires,&lt;/li&gt;
+&lt;li&gt;collecter et préparer des données,&lt;/li&gt;
+&lt;li&gt;entraîner et améliorer un modèle d’IA,&lt;/li&gt;
+&lt;li&gt;faire face à des contraintes techniques, environnementales et sociales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’objectif est de rendre accessibles les principes de l’apprentissage automatique, tout en encourageant une réflexion critique sur les usages de l’IA, en particulier dans un contexte médical.&lt;/p&gt;
+&lt;h2 id=&#34;-un-jeu-pédagogique-et-ludique&#34;&gt;🎯 Un jeu pédagogique… et ludique&lt;/h2&gt;
+&lt;p&gt;Ce jeu vise à transmettre des connaissances :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;directement aux joueurs,&lt;/li&gt;
+&lt;li&gt;mais aussi par l’intermédiaire des animateurs, qui peuvent enrichir les parties par des commentaires et des explications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Il se veut également ludique et engageant, afin de favoriser l’appropriation des concepts.&lt;br&gt;
+Certaines mécaniques intègrent volontairement des éléments moins réalistes, pensés comme des facéties pédagogiques, pour garantir une expérience de jeu agréable et stimulante.&lt;/p&gt;
+&lt;h2 id=&#34;-deux-modes-de-jeu&#34;&gt;⏱️ Deux modes de jeu&lt;/h2&gt;
+&lt;p&gt;Deux formats sont proposés afin de s’adapter aux publics et aux contraintes de temps :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mode rapide&lt;/strong&gt; :  une partie de moins d’une heure, pour découvrir les principaux concepts de l’IA en santé.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mode long&lt;/strong&gt; : une expérience plus approfondie et plus réaliste, d’une durée d’environ 2 heures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-un-jeu-hybride--cartes--logiciel&#34;&gt;🧩 Un jeu hybride : cartes + logiciel&lt;/h2&gt;
+&lt;p&gt;Le jeu est hybride et se compose de :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;un &lt;strong&gt;jeu de cartes physique&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;une &lt;strong&gt;application web&lt;/strong&gt; qui accompagne les parties.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;L’ensemble des ressources est mis à disposition pour permettre au jeu d’être utilisé de manière autonome.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;strong&gt;Cartes et logiciel disponibles ici&lt;/strong&gt; :  &lt;a href=&#34;https://gitlab.inria.fr/tguyet/jeu_sante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/tguyet/jeu_sante&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La mise en place du jeu nécessite :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;l’impression d’un jeu de cartes,&lt;/li&gt;
+&lt;li&gt;l’exécution de l’application web associée&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-licence-et-crédits&#34;&gt;📜 Licence et crédits&lt;/h2&gt;
+&lt;p&gt;Les ressources matérielles (images, textes, composition des cartes, etc.) sont sous licence &lt;strong&gt;CC BY-NC-ND&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La partie logicielle est sous licence &lt;strong&gt;AGPLv3&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ces licences autorisent la diffusion libre du jeu, &lt;strong&gt;sans usage commercial&lt;/strong&gt;, total ou partiel.&lt;br&gt;
+Les textes complets des licences sont disponibles à la racine du dépôt.&lt;/p&gt;
+&lt;h2 id=&#34;-contributeurs&#34;&gt;👥 Contributeurs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Thomas Guyet&lt;/strong&gt; : conception du jeu et du logiciel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Maëlle Moranges&lt;/strong&gt; : conception des cartes et des illustrations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manuel Jasse&lt;/strong&gt; : conception des cartes et des illustrations, motivation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Andréa Ducos&lt;/strong&gt; : animation des premiers essais du jeu à la fête de la Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-crédits-des-images-médicales&#34;&gt;🩻 Crédits des images médicales&lt;/h2&gt;
+&lt;p&gt;Les images médicales utilisées comme cas d’exemple proviennent du jeu de données &lt;strong&gt;NIH ChestX-ray&lt;/strong&gt; : &lt;a href=&#34;https://nihcc.app.box.com/v/ChestXray-NIHCC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nihcc.app.box.com/v/ChestXray-NIHCC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wang, X., Peng, Y., Lu, L., Lu, Z., Bagheri, M., &amp;amp; Summers, R. M. (2017).  &lt;em&gt;ChestX-ray8: Hospital-scale chest X-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases.&lt;/em&gt;  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2097–2106.&lt;/p&gt;
+&lt;h2 id=&#34;-extensions-possibles&#34;&gt;🔧 Extensions possibles&lt;/h2&gt;
+&lt;p&gt;Le jeu est encore en cours de construction.&lt;br&gt;
+Plusieurs extensions et améliorations sont actuellement à l’étude afin d’enrichir les mécaniques et les usages pédagogiques.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
