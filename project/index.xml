@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Scientific projects</title>
@@ -13,9 +13,52 @@
     </image>
     
     <item>
+      <title>Improving SHAP Interpretability via Subgroup Discovery</title>
+      <link>http://localhost:1313/project/xai/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/xai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Thomas Guyet&lt;/p&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;Predictive models in medicine often achieve high performance but remain &lt;strong&gt;opaque&lt;/strong&gt;, limiting their clinical adoption. This research aims to produce explanations that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model‑agnostic&lt;/li&gt;
+&lt;li&gt;Clinically interpretable&lt;/li&gt;
+&lt;li&gt;Capable of integrating interactions between variables&lt;/li&gt;
+&lt;li&gt;Sensitive to individual variability&lt;/li&gt;
+&lt;li&gt;Both global and local&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To achieve this, we propose a post hoc, model‑agnostic approach that combines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SHAP (SHapley Additive exPlanations)&lt;/strong&gt; for explanation of internal model reasoning (local &amp;amp; global)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subgroup Discovery&lt;/strong&gt; for extracting explicit IF–THEN rules that describe patterns present in the data that actually contribute to model predictions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is to generate &lt;strong&gt;explicit rule‑based explanations&lt;/strong&gt; that go beyond standard importance scores and offer richer insights into variable interactions and decision logic.&lt;/p&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Faithful Explanations:&lt;/strong&gt; Ensuring generated explanations accurately reflect the model’s internal behavior.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beyond Importance Scores:&lt;/strong&gt; Providing explanations more precise and informative than simple feature importance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clinical Alignment:&lt;/strong&gt; Aligning explainability outputs with clinical reasoning to support decision making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a hybrid XAI + Data Mining framework that synthesizes SHAP values and Subgroup Discovery rules to produce comprehensible IF–THEN explanations.&lt;/li&gt;
+&lt;li&gt;Demonstrated that the approach yields both global summaries and local explanations with high fidelity to the predictive model.&lt;/li&gt;
+&lt;li&gt;Validated the method on multiple medical datasets, illustrating broader applicability beyond the clinical domain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;scientific-presentations&#34;&gt;Scientific Presentations&lt;/h3&gt;
+&lt;p&gt;📄 &lt;strong&gt;&lt;a href=&#34;https://mmaelle.github.io/uploads/Poster_Moranges_2026.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster&lt;/a&gt; – EGC 2026: &lt;em&gt;“Enhancing SHAP Explanation Interpretability Using Subgroup Discovery”&lt;/em&gt;&lt;/strong&gt; → &lt;a href=&#34;https://conferences.sigappfr.org/egc2026/papiers-acceptes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎤 &lt;strong&gt;Workshop – EXPLAIN AI 2026 : &lt;em&gt;“Amélioration de l’interprétabilité des explications de SHAP grâce à la découverte de sous-groupes.”&lt;/em&gt;&lt;/strong&gt; → &lt;a href=&#34;https://exai26.lifat.fr/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;science-communication&#34;&gt;Science Communication&lt;/h3&gt;
+&lt;p&gt;Facilitated a roundtable animation on explainability with Victoria Bourgeais, featuring interviews with Luis Galarraga and Olivier Teste.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AI for Stroke Outcome Prediction</title>
       <link>http://localhost:1313/project/avc/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/avc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
@@ -51,6 +94,53 @@
 &lt;p&gt;🎥 &lt;strong&gt;Infographic from the &amp;ldquo;AI and Health&amp;rdquo; project&lt;/strong&gt; → &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lintelligence-artificielle-en-sante-du-medecin-a-lalgorithme-1-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Pop&amp;rsquo;Sciences&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🎤 &lt;strong&gt;Excerpts from the roundtable discussion on AI in health&lt;/strong&gt; → &lt;a href=&#34;https://www.youtube.com/watch?v=mQDB4cK6EVo&amp;amp;list=PL5N3iQUGVo5Kd5nj-Y1WTxoCtxcBMU7nz&amp;amp;index=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;🎓 &lt;strong&gt;Digital Sciences Outreach at Lycée Simone Weil&lt;/strong&gt; → &lt;a href=&#34;https://mmaelle.github.io/mediation/chiche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Targeted discovery of pharmacological targets using language models</title>
+      <link>http://localhost:1313/project/theranexus/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/theranexus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Supervisor of research internship with William Peoc’h, in collaboration with Hugues Berry&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;William Peoc’h&lt;/strong&gt; — Research Intern&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugues Berry&lt;/strong&gt; — Co‑supervisor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan-Michael Rye&lt;/strong&gt; — Research engineer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theranexus members&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
+&lt;p&gt;Theranexus develops technology that modulates the expression of specific genes by targeting their RNA with antisense oligonucleotides. To accelerate drug discovery, this project aimed to &lt;strong&gt;harness language models to explore biomedical literature&lt;/strong&gt; and &lt;strong&gt;identify candidate gene targets&lt;/strong&gt; associated with beneficial or deleterious effects.&lt;/p&gt;
+&lt;p&gt;Specifically, the project sought to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use language models to predict relevant gene targets from the titles and abstracts of PubMed articles.&lt;/li&gt;
+&lt;li&gt;Distinguish genes withbeneficial, detrimental, or irrelevant (“off‑topic”) associations for therapeutic development.&lt;/li&gt;
+&lt;li&gt;Facilitate the discovery of novel targets for neurological diseases to support pharmacological research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biomedical text complexity:&lt;/strong&gt; PubMed abstracts contain domain‑specific terminology and abbreviations that require robust language understanding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Label ambiguity:&lt;/strong&gt; Articles may not clearly categorize a gene’s effect; models must infer subtle contextual signals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class imbalance:&lt;/strong&gt; Beneficial and deleterious cases may be unevenly represented, complicating classifier training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed fine‑tuned classifiers based on BERT architectures and large language models (LLMs) to differentiate beneficial vs. deleterious gene associations from PubMed texts.&lt;/li&gt;
+&lt;li&gt;Built named‑entity recognition (NER) pipelines to extract gene mentions and contextual information from biomedical literature.&lt;/li&gt;
+&lt;li&gt;Scraped and curated biomedical databases to assemble a labeled dataset of PubMed articles linked to gene outcomes.&lt;/li&gt;
+&lt;li&gt;Created &lt;strong&gt;Gene Explorer PubMed&lt;/strong&gt;, an interactive web application enabling:
+&lt;ul&gt;
+&lt;li&gt;Interactive visualization of gene–article associations.&lt;/li&gt;
+&lt;li&gt;Gene‑centric exploration with direct links to PubMed records.&lt;/li&gt;
+&lt;li&gt;Dynamic charts showing beneficial vs. deleterious ratios.&lt;/li&gt;
+&lt;li&gt;Custom filtering by disease type and article count.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissemination-and-publications&#34;&gt;Dissemination and Publications&lt;/h2&gt;
+&lt;h3 id=&#34;software-and-tools&#34;&gt;Software and Tools&lt;/h3&gt;
+&lt;p&gt;🛠 &lt;strong&gt;Gene Explorer PubMed&lt;/strong&gt; — Interactive web application for browsing PubMed genetic data and exploring candidate gene targets.&lt;/p&gt;
 </description>
     </item>
     
