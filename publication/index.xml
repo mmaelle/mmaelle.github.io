@@ -5,12 +5,28 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Take a Break, Take Notes? The Relationship Between Pauses, Note-Taking, and Learning Performance in Instructional Videos</title>
+      <link>http://localhost:1313/publication/pinelli-2026-break-note/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pinelli-2026-break-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of gender-specific differences in online platform in medical education</title>
+      <link>http://localhost:1313/publication/moranges-2026-medical-education/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moranges-2026-medical-education/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing SHAP explanation interpretability using Subgroup Discovery</title>
