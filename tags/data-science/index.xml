@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/data-science/</link>
-      <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/data-science/</link>
+      <atom:link href="https://mmaelle.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Data Science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
+      <link>https://mmaelle.github.io/tags/data-science/</link>
     </image>
     
     <item>
       <title>Graph Data Mining</title>
-      <link>http://localhost:1313/teaching/gdm/</link>
+      <link>https://mmaelle.github.io/teaching/gdm/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/gdm/</guid>
+      <guid>https://mmaelle.github.io/teaching/gdm/</guid>
       <description>&lt;h2 id=&#34;graph-data-mining-gdm&#34;&gt;Graph Data Mining (GDM)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING2 SCIA (20 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
@@ -29,9 +29,9 @@
     
     <item>
       <title>Data Mining</title>
-      <link>http://localhost:1313/teaching/data_mining/</link>
+      <link>https://mmaelle.github.io/teaching/data_mining/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/data_mining/</guid>
+      <guid>https://mmaelle.github.io/teaching/data_mining/</guid>
       <description>&lt;h2 id=&#34;data-mining-inf2355m&#34;&gt;&amp;ldquo;Data Mining&amp;rdquo; (INF2355M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Data Science (60 students in TD &amp;amp; TP)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
@@ -44,9 +44,9 @@
     
     <item>
       <title>Knowledge Discovery in Data</title>
-      <link>http://localhost:1313/teaching/dcd/</link>
+      <link>https://mmaelle.github.io/teaching/dcd/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/dcd/</guid>
+      <guid>https://mmaelle.github.io/teaching/dcd/</guid>
       <description>&lt;h2 id=&#34;découverte-de-connaissances-dans-les-données-inf2418m&#34;&gt;&amp;ldquo;Découverte de connaissances dans les données&amp;rdquo; (INF2418M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Information Technologies and Web (TIW) &amp;amp; M2 Bioinformatics (50 students)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
@@ -59,9 +59,9 @@
     
     <item>
       <title>Psychophysiology of Perception</title>
-      <link>http://localhost:1313/teaching/psy/</link>
+      <link>https://mmaelle.github.io/teaching/psy/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/psy/</guid>
+      <guid>https://mmaelle.github.io/teaching/psy/</guid>
       <description>&lt;h2 id=&#34;psychophysiologie-de-la-perception-bio2363m&#34;&gt;&amp;ldquo;Psychophysiologie de la perception&amp;rdquo; (BIO2363M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Neurophysiology of Perception and Sensory Evaluation (20 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2020-2021&lt;br&gt;
@@ -74,9 +74,9 @@
     
     <item>
       <title>Tracking Olfactory Disorders as Early COVID-19 Indicators</title>
-      <link>http://localhost:1313/project/covid-gccr/</link>
+      <link>https://mmaelle.github.io/project/covid-gccr/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-gccr/</guid>
+      <guid>https://mmaelle.github.io/project/covid-gccr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This study was conducted under the international collaboration of the &lt;a href=&#34;https://gcchemosensr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Global Consortium for Chemosensory Research&lt;/strong&gt; (GCCR)&lt;/a&gt;, which includes researchers from multiple institutions such as Université Côte d’Azur, University of Florence, Yale University, University of California Irvine and The Pennsylvania State University.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;

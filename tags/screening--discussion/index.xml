@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screening &amp; Discussion | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/screening--discussion/</link>
-      <atom:link href="http://localhost:1313/tags/screening--discussion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/screening--discussion/</link>
+      <atom:link href="https://mmaelle.github.io/tags/screening--discussion/index.xml" rel="self" type="application/rss+xml" />
     <description>Screening &amp; Discussion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Screening &amp; Discussion</title>
-      <link>http://localhost:1313/tags/screening--discussion/</link>
+      <link>https://mmaelle.github.io/tags/screening--discussion/</link>
     </image>
     
     <item>
       <title>🇫🇷 Participation à un Cinéma-Débat sur l&#39;Intelligence Artificielle à Belleville-en-Beaujolais</title>
-      <link>http://localhost:1313/mediation/cine-debat/</link>
+      <link>https://mmaelle.github.io/mediation/cine-debat/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/cine-debat/</guid>
+      <guid>https://mmaelle.github.io/mediation/cine-debat/</guid>
       <description>&lt;p&gt;Le &lt;strong&gt;13 mai 2022&lt;/strong&gt;, j&amp;rsquo;ai eu l&amp;rsquo;opportunité de participer à un &lt;strong&gt;cinéma-débat&lt;/strong&gt; organisé par le &lt;strong&gt;cinéma Le Singulier(s)&lt;/strong&gt; à Belleville-en-Beaujolais.&lt;br&gt;
 Cet événement portait sur le thème :&lt;br&gt;
 &lt;strong&gt;&amp;ldquo;Du cerveau humain à l&amp;rsquo;intelligence artificielle, entre progrès et dangers. Quels enjeux et quelles limites ?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/artificial-intelligence/</link>
-      <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/artificial-intelligence/</link>
+      <atom:link href="https://mmaelle.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <link>https://mmaelle.github.io/tags/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>Improving SHAP Interpretability via Subgroup Discovery</title>
-      <link>http://localhost:1313/project/xai/</link>
+      <link>https://mmaelle.github.io/project/xai/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xai/</guid>
+      <guid>https://mmaelle.github.io/project/xai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Thomas Guyet&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>🇫🇷 Création d’un jeu de société sur l’IA en santé présenté à la Fête de la Science</title>
-      <link>http://localhost:1313/mediation/jeu_ia_sante/</link>
+      <link>https://mmaelle.github.io/mediation/jeu_ia_sante/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/jeu_ia_sante/</guid>
+      <guid>https://mmaelle.github.io/mediation/jeu_ia_sante/</guid>
       <description>&lt;p&gt;Dans le cadre de la &lt;strong&gt;Fête de la Science&lt;/strong&gt;, j’ai participé à la création d’un jeu de société dédié à l’intelligence artificielle en santé, conçu pour sensibiliser le grand public et les publics scolaires aux principes, aux usages et aux enjeux de l’IA appliquée au domaine médical.&lt;/p&gt;
 &lt;p&gt;Ce projet a été développé en collaboration avec &lt;strong&gt;Thomas Guyet&lt;/strong&gt; et &lt;strong&gt;Manuel Jasse&lt;/strong&gt;.&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;&#34;&gt;
@@ -128,9 +128,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
-      <link>http://localhost:1313/mediation/article_inria/</link>
+      <link>https://mmaelle.github.io/mediation/article_inria/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <guid>https://mmaelle.github.io/mediation/article_inria/</guid>
       <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par l&amp;rsquo;&lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
 Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIstroSight&lt;/strong&gt;, récemment installée à l’&lt;strong&gt;Hôpital Neurologique de Lyon Est&lt;/strong&gt; (HCL), ainsi que notre collaboration étroite avec les praticiennes et praticiens hospitaliers.&lt;/p&gt;
 &lt;h2 id=&#34;-lire-larticle-sur-le-site-dinria&#34;&gt;📌 Lire l’article sur le site d’Inria&lt;/h2&gt;
@@ -140,9 +140,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>AI for Stroke Outcome Prediction</title>
-      <link>http://localhost:1313/project/avc/</link>
+      <link>https://mmaelle.github.io/project/avc/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/avc/</guid>
+      <guid>https://mmaelle.github.io/project/avc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -182,9 +182,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Targeted discovery of pharmacological targets using language models</title>
-      <link>http://localhost:1313/project/theranexus/</link>
+      <link>https://mmaelle.github.io/project/theranexus/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theranexus/</guid>
+      <guid>https://mmaelle.github.io/project/theranexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Supervisor of research internship with William Peoc’h, in collaboration with Hugues Berry&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -229,9 +229,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Analysis and Enhancement of a Medical E-Learning Database</title>
-      <link>http://localhost:1313/project/uness/</link>
+      <link>https://mmaelle.github.io/project/uness/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/uness/</guid>
+      <guid>https://mmaelle.github.io/project/uness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;
@@ -305,9 +305,9 @@ This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/stro
     
     <item>
       <title>Leveraging AI to Enhance Educational Practices</title>
-      <link>http://localhost:1313/project/tupaia/</link>
+      <link>https://mmaelle.github.io/project/tupaia/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tupaia/</guid>
+      <guid>https://mmaelle.github.io/project/tupaia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Postdoctoral researcher in artificial intelligence at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -349,9 +349,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Rédaction d&#39;articles par mes étudiants sur l&#39;Intelligence Artificielle</title>
-      <link>http://localhost:1313/mediation/students_articles/</link>
+      <link>https://mmaelle.github.io/mediation/students_articles/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/students_articles/</guid>
+      <guid>https://mmaelle.github.io/mediation/students_articles/</guid>
       <description>&lt;p&gt;Dans le cadre du cours d&amp;rsquo;&lt;a href=&#34;https://mmaelle.github.io/teaching/iaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction à l&amp;rsquo;apprentissage automatique&lt;/strong&gt;&lt;/a&gt; que j&amp;rsquo;ai dispensé aux étudiants de deuxième année du cycle d&amp;rsquo;ingénieur à l&amp;rsquo;&lt;a href=&#34;https://www.epita.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EPITA&lt;/strong&gt;&lt;/a&gt;, ces derniers ont rédigé une série d&amp;rsquo;articles abordant diverses questions liées à l&amp;rsquo;Intelligence Artificielle (IA). J&amp;rsquo;ai eu le plaisir de relire et de corriger leurs travaux, qui ont été publiés dans le dossier Pop&amp;rsquo;Sciences intitulé &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lia-en-faq-les-etudiants-nous-repondent-6-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« Diagnostic 2.0 : Quand l&amp;rsquo;IA intervient »&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;lia-en-faq--les-étudiants-répondent&#34;&gt;L&amp;rsquo;IA en FAQ : Les étudiants répondent&lt;/h2&gt;
 &lt;p&gt;Les articles rédigés par les étudiants prennent la forme de questions-réponses, abordant des thématiques variées autour de l&amp;rsquo;IA. Voici les questions traitées :&lt;/p&gt;
@@ -372,9 +372,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Introduction to Machine Learning</title>
-      <link>http://localhost:1313/teaching/iaa/</link>
+      <link>https://mmaelle.github.io/teaching/iaa/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/iaa/</guid>
+      <guid>https://mmaelle.github.io/teaching/iaa/</guid>
       <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’Apprentissage Automatique&amp;rdquo; (IAA)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; 1st year of engineering (ING1) (35 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023&lt;br&gt;
@@ -387,9 +387,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/table_ronde/</link>
+      <link>https://mmaelle.github.io/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/table_ronde/</guid>
+      <guid>https://mmaelle.github.io/mediation/table_ronde/</guid>
       <description>&lt;p&gt;Dans le cadre de ma mission doctorale chez &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, j&amp;rsquo;ai animé une &lt;strong&gt;table ronde&lt;/strong&gt; sur le rôle de l’Intelligence Artificielle (IA) dans le domaine médical.&lt;/p&gt;
 &lt;p&gt;Lors de cette table ronde, deux chercheurs ont partagé leurs connaissances et perspectives sur les applications actuelles et futures de l’IA en médecine :&lt;/p&gt;
 &lt;ul&gt;
@@ -419,9 +419,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Participation à un Cinéma-Débat sur l&#39;Intelligence Artificielle à Belleville-en-Beaujolais</title>
-      <link>http://localhost:1313/mediation/cine-debat/</link>
+      <link>https://mmaelle.github.io/mediation/cine-debat/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/cine-debat/</guid>
+      <guid>https://mmaelle.github.io/mediation/cine-debat/</guid>
       <description>&lt;p&gt;Le &lt;strong&gt;13 mai 2022&lt;/strong&gt;, j&amp;rsquo;ai eu l&amp;rsquo;opportunité de participer à un &lt;strong&gt;cinéma-débat&lt;/strong&gt; organisé par le &lt;strong&gt;cinéma Le Singulier(s)&lt;/strong&gt; à Belleville-en-Beaujolais.&lt;br&gt;
 Cet événement portait sur le thème :&lt;br&gt;
 &lt;strong&gt;&amp;ldquo;Du cerveau humain à l&amp;rsquo;intelligence artificielle, entre progrès et dangers. Quels enjeux et quelles limites ?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
@@ -457,9 +457,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
-      <link>http://localhost:1313/mediation/m180/</link>
+      <link>https://mmaelle.github.io/mediation/m180/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/m180/</guid>
+      <guid>https://mmaelle.github.io/mediation/m180/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
 &lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
@@ -467,7 +467,7 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/m180/photo.jpg&#34;
     alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;©Vincent Noclin&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -478,9 +478,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
-      <link>http://localhost:1313/project/chemosim/</link>
+      <link>https://mmaelle.github.io/project/chemosim/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/chemosim/</guid>
+      <guid>https://mmaelle.github.io/project/chemosim/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;

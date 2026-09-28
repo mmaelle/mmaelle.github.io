@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animated Series | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/animated-series/</link>
-      <atom:link href="http://localhost:1313/tags/animated-series/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/animated-series/</link>
+      <atom:link href="https://mmaelle.github.io/tags/animated-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Animated Series</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Animated Series</title>
-      <link>http://localhost:1313/tags/animated-series/</link>
+      <link>https://mmaelle.github.io/tags/animated-series/</link>
     </image>
     
     <item>
       <title>🇫🇷 Mini-série animée de Mediasens sur l&#39;olfaction</title>
-      <link>http://localhost:1313/mediation/mediasens/</link>
+      <link>https://mmaelle.github.io/mediation/mediasens/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/mediasens/</guid>
+      <guid>https://mmaelle.github.io/mediation/mediasens/</guid>
       <description>&lt;p&gt;Mediasens, lauréat de l&amp;rsquo;appel à projets 2021 du &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDRO3&lt;/a&gt;, a pour objectif de diffuser les connaissances scientifiques sur l&amp;rsquo;olfaction à travers une mini-série d&amp;rsquo;animation. Cette initiative vise à rendre accessibles les avancées de la recherche dans ce domaine au grand public.&lt;/p&gt;
 &lt;h2 id=&#34;épisodes-de-la-mini-série&#34;&gt;Épisodes de la mini-série&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Episode 1 – Le voyage d’Ester&lt;/strong&gt;:&lt;/p&gt;

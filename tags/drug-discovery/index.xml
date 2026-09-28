@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drug Discovery | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/drug-discovery/</link>
-      <atom:link href="http://localhost:1313/tags/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/drug-discovery/</link>
+      <atom:link href="https://mmaelle.github.io/tags/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug Discovery</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Drug Discovery</title>
-      <link>http://localhost:1313/tags/drug-discovery/</link>
+      <link>https://mmaelle.github.io/tags/drug-discovery/</link>
     </image>
     
     <item>
       <title>Targeted discovery of pharmacological targets using language models</title>
-      <link>http://localhost:1313/project/theranexus/</link>
+      <link>https://mmaelle.github.io/project/theranexus/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theranexus/</guid>
+      <guid>https://mmaelle.github.io/project/theranexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Supervisor of research internship with William Peoc’h, in collaboration with Hugues Berry&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

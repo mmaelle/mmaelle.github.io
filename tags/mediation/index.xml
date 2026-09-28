@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mediation | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/mediation/</link>
-      <atom:link href="http://localhost:1313/tags/mediation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/mediation/</link>
+      <atom:link href="https://mmaelle.github.io/tags/mediation/index.xml" rel="self" type="application/rss+xml" />
     <description>Mediation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Mediation</title>
-      <link>http://localhost:1313/tags/mediation/</link>
+      <link>https://mmaelle.github.io/tags/mediation/</link>
     </image>
     
     <item>
       <title>🇫🇷 Création d’un jeu de société sur l’IA en santé présenté à la Fête de la Science</title>
-      <link>http://localhost:1313/mediation/jeu_ia_sante/</link>
+      <link>https://mmaelle.github.io/mediation/jeu_ia_sante/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/jeu_ia_sante/</guid>
+      <guid>https://mmaelle.github.io/mediation/jeu_ia_sante/</guid>
       <description>&lt;p&gt;Dans le cadre de la &lt;strong&gt;Fête de la Science&lt;/strong&gt;, j’ai participé à la création d’un jeu de société dédié à l’intelligence artificielle en santé, conçu pour sensibiliser le grand public et les publics scolaires aux principes, aux usages et aux enjeux de l’IA appliquée au domaine médical.&lt;/p&gt;
 &lt;p&gt;Ce projet a été développé en collaboration avec &lt;strong&gt;Thomas Guyet&lt;/strong&gt; et &lt;strong&gt;Manuel Jasse&lt;/strong&gt;.&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;&#34;&gt;
@@ -85,9 +85,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Intervention dans une table ronde sur l&#39;utilisation des IA génératives en éducation</title>
-      <link>http://localhost:1313/mediation/education/</link>
+      <link>https://mmaelle.github.io/mediation/education/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/education/</guid>
+      <guid>https://mmaelle.github.io/mediation/education/</guid>
       <description>&lt;p&gt;Le 25 juin 2025, j’ai participé à la table ronde organisée par le &lt;strong&gt;Réseau Canopé&lt;/strong&gt; intitulée &lt;strong&gt;« Vers des critères de choix partagés et pérennes dans les usages des IA génératives en éducation »&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Mon intervention a consisté à offrir un éclairage technique et éthique sur les IA génératives, en expliquant leur fonctionnement, les risques associés, tels que les biais, les hallucinations ou l’impact environnemental, ainsi que leurs limites et les perspectives actuelles concernant leur usage en contexte scolaire.&lt;/p&gt;
 &lt;h2 id=&#34;-revoir-la-table-ronde&#34;&gt;🎥 Revoir la table ronde&lt;/h2&gt;
@@ -103,12 +103,12 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Sensibilisation aux sciences du numérique au Lycée Simone Weil</title>
-      <link>http://localhost:1313/mediation/chiche/</link>
+      <link>https://mmaelle.github.io/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/chiche/</guid>
+      <guid>https://mmaelle.github.io/mediation/chiche/</guid>
       <description>&lt;p&gt;Le programme &lt;a href=&#34;https://chiche.inria.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« 1 scientifique, 1 classe : chiche ! »&lt;/a&gt; offre aux élèves l’opportunité de rencontrer, directement en classe, des scientifiques du numérique. L’objectif est double : leur permettre de mieux comprendre les sciences et les recherches menées dans ce domaine, tout en luttant contre les stéréotypes, notamment ceux liés aux métiers de la recherche et aux représentations genrées du numérique.&lt;/p&gt;
 &lt;p&gt;Ces échanges privilégiés, mêlant témoignages, discussions et partage d’expériences, contribuent à une meilleure compréhension d’un monde façonné par le numérique. Ils jouent également un rôle clé dans l’éveil des vocations scientifiques, en particulier chez les filles.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/chiche/lycee.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/chiche/lycee.jpg&#34;
     alt=&#34;Lycée Simone WEIL&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Lycée Simone WEIL&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -130,9 +130,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Relecture du script d&#39;une vidéo de vulgarisation scientifique sur la mémoire avec Exaltia</title>
-      <link>http://localhost:1313/mediation/meandre/</link>
+      <link>https://mmaelle.github.io/mediation/meandre/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/meandre/</guid>
+      <guid>https://mmaelle.github.io/mediation/meandre/</guid>
       <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;opportunité de collaborer avec le &lt;a href=&#34;https://www.exaltia.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collectif &lt;strong&gt;Exaltia&lt;/strong&gt;&lt;/a&gt; en tant que relectrice scientifique pour le script de leur vidéo de vulgarisation sur la mémoire dans le cadre du projet &lt;a href=&#34;https://www.exaltia.info/meandres&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Méandre&lt;/a&gt;. Exaltia est un studio d&amp;rsquo;innovation culturelle dédié à la diffusion des sciences, utilisant des formats innovants mêlant musique, cinéma, art et exploration pour sensibiliser le public.&lt;/p&gt;
 &lt;h2 id=&#34;le-cerveau-face-à-la-mémoire-avec-lea_bello--méandres-1&#34;&gt;LE CERVEAU FACE À LA MÉMOIRE (avec ‪@Lea_Bello‬) | Méandres #1&lt;/h2&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -150,9 +150,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Illustration animée sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/illustration/</link>
+      <link>https://mmaelle.github.io/mediation/illustration/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/illustration/</guid>
+      <guid>https://mmaelle.github.io/mediation/illustration/</guid>
       <description>&lt;p&gt;Dans le cadre du dossier &lt;strong&gt;« Diagnostic 2.0 : Quand l’IA intervient »&lt;/strong&gt; de &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, une illustration animée présente, en parallèle, les différentes étapes du &lt;strong&gt;diagnostic médical réalisé par un médecin&lt;/strong&gt; et du &lt;strong&gt;développement d’un modèle d’intelligence artificielle appliqué à la santé&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Cette ressource de vulgarisation permet de mieux comprendre :&lt;/p&gt;
 &lt;ul&gt;
@@ -175,9 +175,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Animation de la gazette du festival Pop&#39;Sciences</title>
-      <link>http://localhost:1313/mediation/gazette/</link>
+      <link>https://mmaelle.github.io/mediation/gazette/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/gazette/</guid>
+      <guid>https://mmaelle.github.io/mediation/gazette/</guid>
       <description>&lt;p&gt;Dans le cadre du &lt;a href=&#34;https://popsciences.universite-lyon.fr/les-editions-precedentes-du-festival-popsciences/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Festival Pop&amp;rsquo;Sciences 2023&lt;/strong&gt;&lt;/a&gt;, qui s&amp;rsquo;est tenu du 12 au 14 mai à Villeurbanne autour du thème « Un monde en transition », j&amp;rsquo;ai eu le plaisir de participer à l&amp;rsquo;animation de la &lt;a href=&#34;https://lysieres.univ-lyon2.fr/des-rencontres-entre-mondes-mediatiques-et-mondes-scientifiques/retour-sur-la-gazette-du-festival&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gazette du Festival&lt;/strong&gt;&lt;/a&gt; en tant que relectrice scientifique. Cet atelier immersif a offert au grand public l&amp;rsquo;opportunité de s&amp;rsquo;initier au journalisme scientifique en couvrant les diverses activités du festival.&lt;/p&gt;
 &lt;h2 id=&#34;la-gazette-du-festival&#34;&gt;La Gazette du Festival&lt;/h2&gt;
 &lt;p&gt;Proposée par Pop&amp;rsquo;Sciences en partenariat avec des journalistes professionnelles, la Gazette a permis aux participants de se glisser dans la peau de journalistes scientifiques. Après une présentation des bases du journalisme et de l&amp;rsquo;écriture d&amp;rsquo;articles, les participants ont enquêté sur le terrain du festival, réalisant interviews, portraits et reportages photos. Leurs productions ont été compilées dans une version papier et numérique de la Gazette, disponible ci-dessous.&lt;/p&gt;
@@ -188,9 +188,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Rédaction d&#39;articles par mes étudiants sur l&#39;Intelligence Artificielle</title>
-      <link>http://localhost:1313/mediation/students_articles/</link>
+      <link>https://mmaelle.github.io/mediation/students_articles/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/students_articles/</guid>
+      <guid>https://mmaelle.github.io/mediation/students_articles/</guid>
       <description>&lt;p&gt;Dans le cadre du cours d&amp;rsquo;&lt;a href=&#34;https://mmaelle.github.io/teaching/iaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction à l&amp;rsquo;apprentissage automatique&lt;/strong&gt;&lt;/a&gt; que j&amp;rsquo;ai dispensé aux étudiants de deuxième année du cycle d&amp;rsquo;ingénieur à l&amp;rsquo;&lt;a href=&#34;https://www.epita.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EPITA&lt;/strong&gt;&lt;/a&gt;, ces derniers ont rédigé une série d&amp;rsquo;articles abordant diverses questions liées à l&amp;rsquo;Intelligence Artificielle (IA). J&amp;rsquo;ai eu le plaisir de relire et de corriger leurs travaux, qui ont été publiés dans le dossier Pop&amp;rsquo;Sciences intitulé &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lia-en-faq-les-etudiants-nous-repondent-6-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« Diagnostic 2.0 : Quand l&amp;rsquo;IA intervient »&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;lia-en-faq--les-étudiants-répondent&#34;&gt;L&amp;rsquo;IA en FAQ : Les étudiants répondent&lt;/h2&gt;
 &lt;p&gt;Les articles rédigés par les étudiants prennent la forme de questions-réponses, abordant des thématiques variées autour de l&amp;rsquo;IA. Voici les questions traitées :&lt;/p&gt;
@@ -211,9 +211,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/table_ronde/</link>
+      <link>https://mmaelle.github.io/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/table_ronde/</guid>
+      <guid>https://mmaelle.github.io/mediation/table_ronde/</guid>
       <description>&lt;p&gt;Dans le cadre de ma mission doctorale chez &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, j&amp;rsquo;ai animé une &lt;strong&gt;table ronde&lt;/strong&gt; sur le rôle de l’Intelligence Artificielle (IA) dans le domaine médical.&lt;/p&gt;
 &lt;p&gt;Lors de cette table ronde, deux chercheurs ont partagé leurs connaissances et perspectives sur les applications actuelles et futures de l’IA en médecine :&lt;/p&gt;
 &lt;ul&gt;
@@ -243,9 +243,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Mini-série animée de Mediasens sur l&#39;olfaction</title>
-      <link>http://localhost:1313/mediation/mediasens/</link>
+      <link>https://mmaelle.github.io/mediation/mediasens/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/mediasens/</guid>
+      <guid>https://mmaelle.github.io/mediation/mediasens/</guid>
       <description>&lt;p&gt;Mediasens, lauréat de l&amp;rsquo;appel à projets 2021 du &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDRO3&lt;/a&gt;, a pour objectif de diffuser les connaissances scientifiques sur l&amp;rsquo;olfaction à travers une mini-série d&amp;rsquo;animation. Cette initiative vise à rendre accessibles les avancées de la recherche dans ce domaine au grand public.&lt;/p&gt;
 &lt;h2 id=&#34;épisodes-de-la-mini-série&#34;&gt;Épisodes de la mini-série&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Episode 1 – Le voyage d’Ester&lt;/strong&gt;:&lt;/p&gt;
@@ -271,9 +271,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Participation à un Cinéma-Débat sur l&#39;Intelligence Artificielle à Belleville-en-Beaujolais</title>
-      <link>http://localhost:1313/mediation/cine-debat/</link>
+      <link>https://mmaelle.github.io/mediation/cine-debat/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/cine-debat/</guid>
+      <guid>https://mmaelle.github.io/mediation/cine-debat/</guid>
       <description>&lt;p&gt;Le &lt;strong&gt;13 mai 2022&lt;/strong&gt;, j&amp;rsquo;ai eu l&amp;rsquo;opportunité de participer à un &lt;strong&gt;cinéma-débat&lt;/strong&gt; organisé par le &lt;strong&gt;cinéma Le Singulier(s)&lt;/strong&gt; à Belleville-en-Beaujolais.&lt;br&gt;
 Cet événement portait sur le thème :&lt;br&gt;
 &lt;strong&gt;&amp;ldquo;Du cerveau humain à l&amp;rsquo;intelligence artificielle, entre progrès et dangers. Quels enjeux et quelles limites ?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
@@ -309,9 +309,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
-      <link>http://localhost:1313/mediation/m180/</link>
+      <link>https://mmaelle.github.io/mediation/m180/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/m180/</guid>
+      <guid>https://mmaelle.github.io/mediation/m180/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
 &lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
@@ -319,7 +319,7 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/m180/photo.jpg&#34;
     alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;©Vincent Noclin&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -330,9 +330,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Vidéo de vulgarisation réalisée avec L’Exploratoire 📽️</title>
-      <link>http://localhost:1313/mediation/99sec/</link>
+      <link>https://mmaelle.github.io/mediation/99sec/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/99sec/</guid>
+      <guid>https://mmaelle.github.io/mediation/99sec/</guid>
       <description>&lt;p&gt;Avec son initiative 99SEC, l’association L’Exploratoire veut briser les barrières entre producteurs et consommateurs de savoir. Son concept : un format novateur qui mise sur la concision et l’efficacité du message. En 99 secondes, les sciences – du vivant, humaines ou de l’ingénierie – se dévoilent et se démystifient.&lt;/p&gt;
 &lt;p&gt;Une dose de science plus rapide qu’une pause café. ☕&lt;/p&gt;
 &lt;h2 id=&#34;quel-est-le-lien-entre-olfaction-et-émotion-&#34;&gt;Quel est le lien entre OLFACTION et ÉMOTION ?&lt;/h2&gt;
@@ -345,9 +345,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Création d&#39;un jeu vidéo lors de la Scientific Game Jam</title>
-      <link>http://localhost:1313/mediation/game_jam/</link>
+      <link>https://mmaelle.github.io/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/game_jam/</guid>
+      <guid>https://mmaelle.github.io/mediation/game_jam/</guid>
       <description>&lt;p&gt;La &lt;a href=&#34;https://itch.io/jam/scientific-game-jam-lyon-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scientific Game Jam&lt;/strong&gt;&lt;/a&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e.&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/covid-19/</link>
-      <atom:link href="http://localhost:1313/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/covid-19/</link>
+      <atom:link href="https://mmaelle.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID-19</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>COVID-19</title>
-      <link>http://localhost:1313/tags/covid-19/</link>
+      <link>https://mmaelle.github.io/tags/covid-19/</link>
     </image>
     
     <item>
       <title> Exploring the Impact of COVID-19-Related Smell Disorders</title>
-      <link>http://localhost:1313/project/covid-neuropop/</link>
+      <link>https://mmaelle.github.io/project/covid-neuropop/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-neuropop/</guid>
+      <guid>https://mmaelle.github.io/project/covid-neuropop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis and science communication&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This project was conducted within the &lt;a href=&#34;https://www.crnl.fr/fr/equipe/neuropop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEUROPOP team&lt;/a&gt; at CRNL.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Tracking Olfactory Disorders as Early COVID-19 Indicators</title>
-      <link>http://localhost:1313/project/covid-gccr/</link>
+      <link>https://mmaelle.github.io/project/covid-gccr/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-gccr/</guid>
+      <guid>https://mmaelle.github.io/project/covid-gccr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This study was conducted under the international collaboration of the &lt;a href=&#34;https://gcchemosensr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Global Consortium for Chemosensory Research&lt;/strong&gt; (GCCR)&lt;/a&gt;, which includes researchers from multiple institutions such as Université Côte d’Azur, University of Florence, Yale University, University of California Irvine and The Pennsylvania State University.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;

@@ -2,631 +2,631 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>https://mmaelle.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://mmaelle.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://mmaelle.github.io/publication_types/article-journal/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://mmaelle.github.io/publication_types/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://mmaelle.github.io/publication/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/research-articles/</loc>
+    <loc>https://mmaelle.github.io/tags/research-articles/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mmaelle.github.io/tags/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/pinelli-2026-break-note/</loc>
+    <loc>https://mmaelle.github.io/publication/pinelli-2026-break-note/</loc>
     <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2026-medical-education/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2026-medical-education/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2026-poster/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2026-poster/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/poster/</loc>
+    <loc>https://mmaelle.github.io/tags/poster/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/poster/</loc>
+    <loc>https://mmaelle.github.io/publication_types/poster/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/committee-member/</loc>
+    <loc>https://mmaelle.github.io/tags/committee-member/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/egc/</loc>
+    <loc>https://mmaelle.github.io/tags/egc/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/egc2026/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/egc2026/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/workshop/</loc>
+    <loc>https://mmaelle.github.io/tags/workshop/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2026-xai/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2026-xai/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>https://mmaelle.github.io/publication_types/paper-conference/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <loc>https://mmaelle.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/explainability/</loc>
+    <loc>https://mmaelle.github.io/tags/explainability/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/xai/</loc>
+    <loc>https://mmaelle.github.io/project/xai/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>https://mmaelle.github.io/tags/machine-learning/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://mmaelle.github.io/project/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/subgroup-discovery/</loc>
+    <loc>https://mmaelle.github.io/tags/subgroup-discovery/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/jeu_ia_sante/</loc>
+    <loc>https://mmaelle.github.io/mediation/jeu_ia_sante/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/board-game/</loc>
+    <loc>https://mmaelle.github.io/tags/board-game/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/</loc>
+    <loc>https://mmaelle.github.io/mediation/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/educational-game/</loc>
+    <loc>https://mmaelle.github.io/tags/educational-game/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fete-de-la-science/</loc>
+    <loc>https://mmaelle.github.io/tags/fete-de-la-science/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mediation/</loc>
+    <loc>https://mmaelle.github.io/tags/mediation/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/medicine/</loc>
+    <loc>https://mmaelle.github.io/tags/medicine/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/article_inria/</loc>
+    <loc>https://mmaelle.github.io/mediation/article_inria/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/explainable-ai/</loc>
+    <loc>https://mmaelle.github.io/tags/explainable-ai/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/health/</loc>
+    <loc>https://mmaelle.github.io/tags/health/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/inria/</loc>
+    <loc>https://mmaelle.github.io/tags/inria/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/interview/</loc>
+    <loc>https://mmaelle.github.io/tags/interview/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/neurology/</loc>
+    <loc>https://mmaelle.github.io/tags/neurology/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/education/</loc>
+    <loc>https://mmaelle.github.io/mediation/education/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/canope/</loc>
+    <loc>https://mmaelle.github.io/tags/canope/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>https://mmaelle.github.io/tags/education/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ia-generative/</loc>
+    <loc>https://mmaelle.github.io/tags/ia-generative/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>https://mmaelle.github.io/tags/llm/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/table-ronde/</loc>
+    <loc>https://mmaelle.github.io/tags/table-ronde/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/avc/</loc>
+    <loc>https://mmaelle.github.io/project/avc/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/stroke/</loc>
+    <loc>https://mmaelle.github.io/tags/stroke/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dissemination/</loc>
+    <loc>https://mmaelle.github.io/tags/dissemination/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/doctoral-education/</loc>
+    <loc>https://mmaelle.github.io/tags/doctoral-education/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/pitch/</loc>
+    <loc>https://mmaelle.github.io/tags/pitch/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/sci_game_jam_jury/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/sci_game_jam_jury/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/biomedical-text-mining/</loc>
+    <loc>https://mmaelle.github.io/tags/biomedical-text-mining/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/drug-discovery/</loc>
+    <loc>https://mmaelle.github.io/tags/drug-discovery/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/natural-language-processing/</loc>
+    <loc>https://mmaelle.github.io/tags/natural-language-processing/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/theranexus/</loc>
+    <loc>https://mmaelle.github.io/project/theranexus/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/communication/</loc>
+    <loc>https://mmaelle.github.io/tags/communication/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/research-methods/</loc>
+    <loc>https://mmaelle.github.io/tags/research-methods/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://mmaelle.github.io/teaching/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/vt/</loc>
+    <loc>https://mmaelle.github.io/teaching/vt/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/egc2025/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/egc2025/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/chiche/</loc>
+    <loc>https://mmaelle.github.io/mediation/chiche/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/career-guidance/</loc>
+    <loc>https://mmaelle.github.io/tags/career-guidance/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/science-education/</loc>
+    <loc>https://mmaelle.github.io/tags/science-education/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/curriculum-design/</loc>
+    <loc>https://mmaelle.github.io/tags/curriculum-design/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/bachelor_epita/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/bachelor_epita/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/epita/</loc>
+    <loc>https://mmaelle.github.io/tags/epita/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/teaching/</loc>
+    <loc>https://mmaelle.github.io/tags/teaching/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/comscicon/</loc>
+    <loc>https://mmaelle.github.io/tags/comscicon/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/comscicon2024/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/comscicon2024/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://mmaelle.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/egc2024/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/egc2024/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2024-poster/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2024-poster/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2024-using/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2024-using/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/meandre/</loc>
+    <loc>https://mmaelle.github.io/mediation/meandre/</loc>
     <lastmod>2023-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/science-outreach-video/</loc>
+    <loc>https://mmaelle.github.io/tags/science-outreach-video/</loc>
     <lastmod>2023-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://mmaelle.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/uness/</loc>
+    <loc>https://mmaelle.github.io/project/uness/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/e-learning/</loc>
+    <loc>https://mmaelle.github.io/tags/e-learning/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/learning-analytics/</loc>
+    <loc>https://mmaelle.github.io/tags/learning-analytics/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-education/</loc>
+    <loc>https://mmaelle.github.io/tags/medical-education/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cognitive-load/</loc>
+    <loc>https://mmaelle.github.io/tags/cognitive-load/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>https://mmaelle.github.io/tags/education/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/tupaia/</loc>
+    <loc>https://mmaelle.github.io/project/tupaia/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
+    <loc>https://mmaelle.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/illustration/</loc>
+    <loc>https://mmaelle.github.io/mediation/illustration/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/diagnostic-medical/</loc>
+    <loc>https://mmaelle.github.io/tags/diagnostic-medical/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ia-en-sante/</loc>
+    <loc>https://mmaelle.github.io/tags/ia-en-sante/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/illustration-animee/</loc>
+    <loc>https://mmaelle.github.io/tags/illustration-animee/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/popsciences/</loc>
+    <loc>https://mmaelle.github.io/tags/popsciences/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/gazette/</loc>
+    <loc>https://mmaelle.github.io/mediation/gazette/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/science-journalism/</loc>
+    <loc>https://mmaelle.github.io/tags/science-journalism/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/students_articles/</loc>
+    <loc>https://mmaelle.github.io/mediation/students_articles/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/scientific-journalism/</loc>
+    <loc>https://mmaelle.github.io/tags/scientific-journalism/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/comscicon2023/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/comscicon2023/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/iaa/</loc>
+    <loc>https://mmaelle.github.io/teaching/iaa/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/table_ronde/</loc>
+    <loc>https://mmaelle.github.io/mediation/table_ronde/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/healthcare/</loc>
+    <loc>https://mmaelle.github.io/tags/healthcare/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/panel-discussion/</loc>
+    <loc>https://mmaelle.github.io/tags/panel-discussion/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
+    <loc>https://mmaelle.github.io/tags/data-science/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/gdm/</loc>
+    <loc>https://mmaelle.github.io/teaching/gdm/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/graph-theory/</loc>
+    <loc>https://mmaelle.github.io/tags/graph-theory/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-science/</loc>
+    <loc>https://mmaelle.github.io/tags/computer-science/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/tyla/</loc>
+    <loc>https://mmaelle.github.io/teaching/tyla/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/programming-languages/</loc>
+    <loc>https://mmaelle.github.io/tags/programming-languages/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/sci_game_jam/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/sci_game_jam/</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/chapter/</loc>
+    <loc>https://mmaelle.github.io/publication_types/chapter/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/chapter-of-book/</loc>
+    <loc>https://mmaelle.github.io/tags/chapter-of-book/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2023-peripheral/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2023-peripheral/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/thesis/</loc>
+    <loc>https://mmaelle.github.io/tags/thesis/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/thesis/</loc>
+    <loc>https://mmaelle.github.io/publication_types/thesis/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2023-variabilites/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2023-variabilites/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mmaelle.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/mediasens/</loc>
+    <loc>https://mmaelle.github.io/mediation/mediasens/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/animated-series/</loc>
+    <loc>https://mmaelle.github.io/tags/animated-series/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/neurosciences/</loc>
+    <loc>https://mmaelle.github.io/tags/neurosciences/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/olfaction/</loc>
+    <loc>https://mmaelle.github.io/tags/olfaction/</loc>
     <lastmod>2022-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/responsibilities/comscicon2022/</loc>
+    <loc>https://mmaelle.github.io/responsibilities/comscicon2022/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/bioinformatics/</loc>
+    <loc>https://mmaelle.github.io/tags/bioinformatics/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/biostatistics/</loc>
+    <loc>https://mmaelle.github.io/tags/biostatistics/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/bioinfo/</loc>
+    <loc>https://mmaelle.github.io/teaching/bioinfo/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/cine-debat/</loc>
+    <loc>https://mmaelle.github.io/mediation/cine-debat/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/screening--discussion/</loc>
+    <loc>https://mmaelle.github.io/tags/screening--discussion/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/m180/</loc>
+    <loc>https://mmaelle.github.io/mediation/m180/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic-competition/</loc>
+    <loc>https://mmaelle.github.io/tags/academic-competition/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/research-presentation/</loc>
+    <loc>https://mmaelle.github.io/tags/research-presentation/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/99sec/</loc>
+    <loc>https://mmaelle.github.io/mediation/99sec/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/data_mining/</loc>
+    <loc>https://mmaelle.github.io/teaching/data_mining/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/dcd/</loc>
+    <loc>https://mmaelle.github.io/teaching/dcd/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2022-using/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2022-using/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/database/</loc>
+    <loc>https://mmaelle.github.io/teaching/database/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/databases/</loc>
+    <loc>https://mmaelle.github.io/tags/databases/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mediation/game_jam/</loc>
+    <loc>https://mmaelle.github.io/mediation/game_jam/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/educational-video-game/</loc>
+    <loc>https://mmaelle.github.io/tags/educational-video-game/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/game-jam/</loc>
+    <loc>https://mmaelle.github.io/tags/game-jam/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/article-comment/</loc>
+    <loc>https://mmaelle.github.io/tags/article-comment/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/pereda-2021-contribution/</loc>
+    <loc>https://mmaelle.github.io/publication/pereda-2021-contribution/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2021-explicit/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2021-explicit/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/mantel-2021-poster/</loc>
+    <loc>https://mmaelle.github.io/publication/mantel-2021-poster/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ferdenzi-2021-recovery/</loc>
+    <loc>https://mmaelle.github.io/publication/ferdenzi-2021-recovery/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/neuroinformatics/</loc>
+    <loc>https://mmaelle.github.io/tags/neuroinformatics/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/psy/</loc>
+    <loc>https://mmaelle.github.io/teaching/psy/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/covid-neuropop/</loc>
+    <loc>https://mmaelle.github.io/project/covid-neuropop/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/covid-19/</loc>
+    <loc>https://mmaelle.github.io/tags/covid-19/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/olfactory-disorders/</loc>
+    <loc>https://mmaelle.github.io/tags/olfactory-disorders/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/public-health/</loc>
+    <loc>https://mmaelle.github.io/tags/public-health/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/science-communication/</loc>
+    <loc>https://mmaelle.github.io/tags/science-communication/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-sciences/</loc>
+    <loc>https://mmaelle.github.io/tags/data-sciences/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/neuroconferences/</loc>
+    <loc>https://mmaelle.github.io/teaching/neuroconferences/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/epidemiology/</loc>
+    <loc>https://mmaelle.github.io/tags/epidemiology/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/olfactory-research/</loc>
+    <loc>https://mmaelle.github.io/tags/olfactory-research/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/covid-gccr/</loc>
+    <loc>https://mmaelle.github.io/project/covid-gccr/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/emotion-research/</loc>
+    <loc>https://mmaelle.github.io/tags/emotion-research/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/neuroscience/</loc>
+    <loc>https://mmaelle.github.io/tags/neuroscience/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/olfactory-perception/</loc>
+    <loc>https://mmaelle.github.io/tags/olfactory-perception/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/chemosim/</loc>
+    <loc>https://mmaelle.github.io/project/chemosim/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2020-poster/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2020-poster/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/pierron-2020-smell/</loc>
+    <loc>https://mmaelle.github.io/publication/pierron-2020-smell/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/moranges-2018-exceptional/</loc>
+    <loc>https://mmaelle.github.io/publication/moranges-2018-exceptional/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

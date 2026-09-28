@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science Education | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/science-education/</link>
-      <atom:link href="http://localhost:1313/tags/science-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/science-education/</link>
+      <atom:link href="https://mmaelle.github.io/tags/science-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Science Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Science Education</title>
-      <link>http://localhost:1313/tags/science-education/</link>
+      <link>https://mmaelle.github.io/tags/science-education/</link>
     </image>
     
     <item>
       <title>🇫🇷 Sensibilisation aux sciences du numérique au Lycée Simone Weil</title>
-      <link>http://localhost:1313/mediation/chiche/</link>
+      <link>https://mmaelle.github.io/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/chiche/</guid>
+      <guid>https://mmaelle.github.io/mediation/chiche/</guid>
       <description>&lt;p&gt;Le programme &lt;a href=&#34;https://chiche.inria.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« 1 scientifique, 1 classe : chiche ! »&lt;/a&gt; offre aux élèves l’opportunité de rencontrer, directement en classe, des scientifiques du numérique. L’objectif est double : leur permettre de mieux comprendre les sciences et les recherches menées dans ce domaine, tout en luttant contre les stéréotypes, notamment ceux liés aux métiers de la recherche et aux représentations genrées du numérique.&lt;/p&gt;
 &lt;p&gt;Ces échanges privilégiés, mêlant témoignages, discussions et partage d’expériences, contribuent à une meilleure compréhension d’un monde façonné par le numérique. Ils jouent également un rôle clé dans l’éveil des vocations scientifiques, en particulier chez les filles.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/chiche/lycee.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/chiche/lycee.jpg&#34;
     alt=&#34;Lycée Simone WEIL&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Lycée Simone WEIL&lt;/p&gt;
     &lt;/figcaption&gt;

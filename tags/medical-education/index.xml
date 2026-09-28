@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medical Education | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/medical-education/</link>
-      <atom:link href="http://localhost:1313/tags/medical-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/medical-education/</link>
+      <atom:link href="https://mmaelle.github.io/tags/medical-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Medical Education</title>
-      <link>http://localhost:1313/tags/medical-education/</link>
+      <link>https://mmaelle.github.io/tags/medical-education/</link>
     </image>
     
     <item>
       <title>Analysis and Enhancement of a Medical E-Learning Database</title>
-      <link>http://localhost:1313/project/uness/</link>
+      <link>https://mmaelle.github.io/project/uness/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/uness/</guid>
+      <guid>https://mmaelle.github.io/project/uness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;

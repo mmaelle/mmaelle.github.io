@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop&#39;Sciences | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/popsciences/</link>
-      <atom:link href="http://localhost:1313/tags/popsciences/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/popsciences/</link>
+      <atom:link href="https://mmaelle.github.io/tags/popsciences/index.xml" rel="self" type="application/rss+xml" />
     <description>Pop&#39;Sciences</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Pop&#39;Sciences</title>
-      <link>http://localhost:1313/tags/popsciences/</link>
+      <link>https://mmaelle.github.io/tags/popsciences/</link>
     </image>
     
     <item>
       <title>🇫🇷 Illustration animée sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/illustration/</link>
+      <link>https://mmaelle.github.io/mediation/illustration/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/illustration/</guid>
+      <guid>https://mmaelle.github.io/mediation/illustration/</guid>
       <description>&lt;p&gt;Dans le cadre du dossier &lt;strong&gt;« Diagnostic 2.0 : Quand l’IA intervient »&lt;/strong&gt; de &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, une illustration animée présente, en parallèle, les différentes étapes du &lt;strong&gt;diagnostic médical réalisé par un médecin&lt;/strong&gt; et du &lt;strong&gt;développement d’un modèle d’intelligence artificielle appliqué à la santé&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Cette ressource de vulgarisation permet de mieux comprendre :&lt;/p&gt;
 &lt;ul&gt;

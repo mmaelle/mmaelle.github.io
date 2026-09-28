@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Board Game | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/board-game/</link>
-      <atom:link href="http://localhost:1313/tags/board-game/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/board-game/</link>
+      <atom:link href="https://mmaelle.github.io/tags/board-game/index.xml" rel="self" type="application/rss+xml" />
     <description>Board Game</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Board Game</title>
-      <link>http://localhost:1313/tags/board-game/</link>
+      <link>https://mmaelle.github.io/tags/board-game/</link>
     </image>
     
     <item>
       <title>🇫🇷 Création d’un jeu de société sur l’IA en santé présenté à la Fête de la Science</title>
-      <link>http://localhost:1313/mediation/jeu_ia_sante/</link>
+      <link>https://mmaelle.github.io/mediation/jeu_ia_sante/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/jeu_ia_sante/</guid>
+      <guid>https://mmaelle.github.io/mediation/jeu_ia_sante/</guid>
       <description>&lt;p&gt;Dans le cadre de la &lt;strong&gt;Fête de la Science&lt;/strong&gt;, j’ai participé à la création d’un jeu de société dédié à l’intelligence artificielle en santé, conçu pour sensibiliser le grand public et les publics scolaires aux principes, aux usages et aux enjeux de l’IA appliquée au domaine médical.&lt;/p&gt;
 &lt;p&gt;Ce projet a été développé en collaboration avec &lt;strong&gt;Thomas Guyet&lt;/strong&gt; et &lt;strong&gt;Manuel Jasse&lt;/strong&gt;.&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;&#34;&gt;

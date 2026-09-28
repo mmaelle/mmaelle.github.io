@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Health | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/public-health/</link>
-      <atom:link href="http://localhost:1313/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/public-health/</link>
+      <atom:link href="https://mmaelle.github.io/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Public Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Public Health</title>
-      <link>http://localhost:1313/tags/public-health/</link>
+      <link>https://mmaelle.github.io/tags/public-health/</link>
     </image>
     
     <item>
       <title> Exploring the Impact of COVID-19-Related Smell Disorders</title>
-      <link>http://localhost:1313/project/covid-neuropop/</link>
+      <link>https://mmaelle.github.io/project/covid-neuropop/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-neuropop/</guid>
+      <guid>https://mmaelle.github.io/project/covid-neuropop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis and science communication&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This project was conducted within the &lt;a href=&#34;https://www.crnl.fr/fr/equipe/neuropop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEUROPOP team&lt;/a&gt; at CRNL.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;

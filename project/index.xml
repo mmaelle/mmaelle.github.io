@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific projects | Maëlle Moranges</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/project/</link>
+      <atom:link href="https://mmaelle.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Scientific projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://mmaelle.github.io/project/</link>
     </image>
     
     <item>
       <title>Improving SHAP Interpretability via Subgroup Discovery</title>
-      <link>http://localhost:1313/project/xai/</link>
+      <link>https://mmaelle.github.io/project/xai/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xai/</guid>
+      <guid>https://mmaelle.github.io/project/xai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Thomas Guyet&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>AI for Stroke Outcome Prediction</title>
-      <link>http://localhost:1313/project/avc/</link>
+      <link>https://mmaelle.github.io/project/avc/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/avc/</guid>
+      <guid>https://mmaelle.github.io/project/avc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Targeted discovery of pharmacological targets using language models</title>
-      <link>http://localhost:1313/project/theranexus/</link>
+      <link>https://mmaelle.github.io/project/theranexus/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theranexus/</guid>
+      <guid>https://mmaelle.github.io/project/theranexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Supervisor of research internship with William Peoc’h, in collaboration with Hugues Berry&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -146,9 +146,9 @@
     
     <item>
       <title>Analysis and Enhancement of a Medical E-Learning Database</title>
-      <link>http://localhost:1313/project/uness/</link>
+      <link>https://mmaelle.github.io/project/uness/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/uness/</guid>
+      <guid>https://mmaelle.github.io/project/uness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;
@@ -222,9 +222,9 @@ This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/stro
     
     <item>
       <title>Leveraging AI to Enhance Educational Practices</title>
-      <link>http://localhost:1313/project/tupaia/</link>
+      <link>https://mmaelle.github.io/project/tupaia/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tupaia/</guid>
+      <guid>https://mmaelle.github.io/project/tupaia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Postdoctoral researcher in artificial intelligence at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -266,9 +266,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title> Exploring the Impact of COVID-19-Related Smell Disorders</title>
-      <link>http://localhost:1313/project/covid-neuropop/</link>
+      <link>https://mmaelle.github.io/project/covid-neuropop/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-neuropop/</guid>
+      <guid>https://mmaelle.github.io/project/covid-neuropop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis and science communication&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This project was conducted within the &lt;a href=&#34;https://www.crnl.fr/fr/equipe/neuropop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEUROPOP team&lt;/a&gt; at CRNL.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
@@ -301,9 +301,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Tracking Olfactory Disorders as Early COVID-19 Indicators</title>
-      <link>http://localhost:1313/project/covid-gccr/</link>
+      <link>https://mmaelle.github.io/project/covid-gccr/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-gccr/</guid>
+      <guid>https://mmaelle.github.io/project/covid-gccr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This study was conducted under the international collaboration of the &lt;a href=&#34;https://gcchemosensr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Global Consortium for Chemosensory Research&lt;/strong&gt; (GCCR)&lt;/a&gt;, which includes researchers from multiple institutions such as Université Côte d’Azur, University of Florence, Yale University, University of California Irvine and The Pennsylvania State University.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
@@ -335,9 +335,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
-      <link>http://localhost:1313/project/chemosim/</link>
+      <link>https://mmaelle.github.io/project/chemosim/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/chemosim/</guid>
+      <guid>https://mmaelle.github.io/project/chemosim/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;

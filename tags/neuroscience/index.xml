@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuroscience | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/neuroscience/</link>
-      <atom:link href="http://localhost:1313/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/neuroscience/</link>
+      <atom:link href="https://mmaelle.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     <description>Neuroscience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Neuroscience</title>
-      <link>http://localhost:1313/tags/neuroscience/</link>
+      <link>https://mmaelle.github.io/tags/neuroscience/</link>
     </image>
     
     <item>
       <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
-      <link>http://localhost:1313/project/chemosim/</link>
+      <link>https://mmaelle.github.io/project/chemosim/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/chemosim/</guid>
+      <guid>https://mmaelle.github.io/project/chemosim/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;

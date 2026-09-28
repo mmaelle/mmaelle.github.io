@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/teaching/</link>
-      <atom:link href="http://localhost:1313/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/teaching/</link>
+      <atom:link href="https://mmaelle.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
+      <link>https://mmaelle.github.io/tags/teaching/</link>
     </image>
     
     <item>
       <title>Design of the Educational Framework for the Bachelor&#39;s Program in AI, Biotech and Health</title>
-      <link>http://localhost:1313/responsibilities/bachelor_epita/</link>
+      <link>https://mmaelle.github.io/responsibilities/bachelor_epita/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/bachelor_epita/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/bachelor_epita/</guid>
       <description>&lt;p&gt;Curriculum defined through 4 ideation workshops, focusing on strategic directions and key competencies. Launch: Sept 2025.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🇫🇷 Rédaction d&#39;articles par mes étudiants sur l&#39;Intelligence Artificielle</title>
-      <link>http://localhost:1313/mediation/students_articles/</link>
+      <link>https://mmaelle.github.io/mediation/students_articles/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/students_articles/</guid>
+      <guid>https://mmaelle.github.io/mediation/students_articles/</guid>
       <description>&lt;p&gt;Dans le cadre du cours d&amp;rsquo;&lt;a href=&#34;https://mmaelle.github.io/teaching/iaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction à l&amp;rsquo;apprentissage automatique&lt;/strong&gt;&lt;/a&gt; que j&amp;rsquo;ai dispensé aux étudiants de deuxième année du cycle d&amp;rsquo;ingénieur à l&amp;rsquo;&lt;a href=&#34;https://www.epita.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EPITA&lt;/strong&gt;&lt;/a&gt;, ces derniers ont rédigé une série d&amp;rsquo;articles abordant diverses questions liées à l&amp;rsquo;Intelligence Artificielle (IA). J&amp;rsquo;ai eu le plaisir de relire et de corriger leurs travaux, qui ont été publiés dans le dossier Pop&amp;rsquo;Sciences intitulé &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lia-en-faq-les-etudiants-nous-repondent-6-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« Diagnostic 2.0 : Quand l&amp;rsquo;IA intervient »&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;lia-en-faq--les-étudiants-répondent&#34;&gt;L&amp;rsquo;IA en FAQ : Les étudiants répondent&lt;/h2&gt;
 &lt;p&gt;Les articles rédigés par les étudiants prennent la forme de questions-réponses, abordant des thématiques variées autour de l&amp;rsquo;IA. Voici les questions traitées :&lt;/p&gt;

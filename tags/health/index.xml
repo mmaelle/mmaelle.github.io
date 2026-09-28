@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/health/</link>
-      <atom:link href="http://localhost:1313/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/health/</link>
+      <atom:link href="https://mmaelle.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <description>Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
+      <link>https://mmaelle.github.io/tags/health/</link>
     </image>
     
     <item>
       <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
-      <link>http://localhost:1313/mediation/article_inria/</link>
+      <link>https://mmaelle.github.io/mediation/article_inria/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <guid>https://mmaelle.github.io/mediation/article_inria/</guid>
       <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par l&amp;rsquo;&lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
 Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIstroSight&lt;/strong&gt;, récemment installée à l’&lt;strong&gt;Hôpital Neurologique de Lyon Est&lt;/strong&gt; (HCL), ainsi que notre collaboration étroite avec les praticiennes et praticiens hospitaliers.&lt;/p&gt;
 &lt;h2 id=&#34;-lire-larticle-sur-le-site-dinria&#34;&gt;📌 Lire l’article sur le site d’Inria&lt;/h2&gt;

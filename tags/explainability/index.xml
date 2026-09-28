@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Explainability | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/explainability/</link>
-      <atom:link href="http://localhost:1313/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/explainability/</link>
+      <atom:link href="https://mmaelle.github.io/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
     <description>Explainability</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Explainability</title>
-      <link>http://localhost:1313/tags/explainability/</link>
+      <link>https://mmaelle.github.io/tags/explainability/</link>
     </image>
     
     <item>
       <title>Improving SHAP Interpretability via Subgroup Discovery</title>
-      <link>http://localhost:1313/project/xai/</link>
+      <link>https://mmaelle.github.io/project/xai/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xai/</guid>
+      <guid>https://mmaelle.github.io/project/xai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Thomas Guyet&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>AI for Stroke Outcome Prediction</title>
-      <link>http://localhost:1313/project/avc/</link>
+      <link>https://mmaelle.github.io/project/avc/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/avc/</guid>
+      <guid>https://mmaelle.github.io/project/avc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;

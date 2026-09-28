@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graph Theory | Maëlle Moranges</title>
-    <link>http://localhost:1313/tags/graph-theory/</link>
-      <atom:link href="http://localhost:1313/tags/graph-theory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/tags/graph-theory/</link>
+      <atom:link href="https://mmaelle.github.io/tags/graph-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Theory</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Graph Theory</title>
-      <link>http://localhost:1313/tags/graph-theory/</link>
+      <link>https://mmaelle.github.io/tags/graph-theory/</link>
     </image>
     
     <item>
       <title>Graph Data Mining</title>
-      <link>http://localhost:1313/teaching/gdm/</link>
+      <link>https://mmaelle.github.io/teaching/gdm/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/gdm/</guid>
+      <guid>https://mmaelle.github.io/teaching/gdm/</guid>
       <description>&lt;h2 id=&#34;graph-data-mining-gdm&#34;&gt;Graph Data Mining (GDM)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING2 SCIA (20 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023

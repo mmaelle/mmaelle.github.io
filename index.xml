@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maëlle Moranges</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mmaelle.github.io/</link>
+      <atom:link href="https://mmaelle.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maëlle Moranges</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7cf38c38523103e5.png</url>
+      <url>https://mmaelle.github.io/media/icon_hu_7cf38c38523103e5.png</url>
       <title>Maëlle Moranges</title>
-      <link>http://localhost:1313/</link>
+      <link>https://mmaelle.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://mmaelle.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://mmaelle.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,50 +35,50 @@
     
     <item>
       <title>Take a Break, Take Notes? The Relationship Between Pauses, Note-Taking, and Learning Performance in Instructional Videos</title>
-      <link>http://localhost:1313/publication/pinelli-2026-break-note/</link>
+      <link>https://mmaelle.github.io/publication/pinelli-2026-break-note/</link>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pinelli-2026-break-note/</guid>
+      <guid>https://mmaelle.github.io/publication/pinelli-2026-break-note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A study of gender-specific differences in online platform in medical education</title>
-      <link>http://localhost:1313/publication/moranges-2026-medical-education/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2026-medical-education/</link>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2026-medical-education/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2026-medical-education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing SHAP explanation interpretability using Subgroup Discovery</title>
-      <link>http://localhost:1313/publication/moranges-2026-poster/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2026-poster/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2026-poster/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2026-poster/</guid>
       <description>&lt;p&gt;Poster presented at EGC, Jan 28, 2026&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explain’AI Workshop - EGC 2026, Anglet</title>
-      <link>http://localhost:1313/responsibilities/egc2026/</link>
+      <link>https://mmaelle.github.io/responsibilities/egc2026/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/egc2026/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/egc2026/</guid>
       <description>&lt;p&gt;Co-organized the AI explainability workshop: planning, paper review and moderating the round table.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Amélioration de l’interprétabilité des explications de SHAP grâce à la découverte de sous-groupes</title>
-      <link>http://localhost:1313/publication/moranges-2026-xai/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2026-xai/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2026-xai/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2026-xai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving SHAP Interpretability via Subgroup Discovery</title>
-      <link>http://localhost:1313/project/xai/</link>
+      <link>https://mmaelle.github.io/project/xai/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xai/</guid>
+      <guid>https://mmaelle.github.io/project/xai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Thomas Guyet&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>🇫🇷 Création d’un jeu de société sur l’IA en santé présenté à la Fête de la Science</title>
-      <link>http://localhost:1313/mediation/jeu_ia_sante/</link>
+      <link>https://mmaelle.github.io/mediation/jeu_ia_sante/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/jeu_ia_sante/</guid>
+      <guid>https://mmaelle.github.io/mediation/jeu_ia_sante/</guid>
       <description>&lt;p&gt;Dans le cadre de la &lt;strong&gt;Fête de la Science&lt;/strong&gt;, j’ai participé à la création d’un jeu de société dédié à l’intelligence artificielle en santé, conçu pour sensibiliser le grand public et les publics scolaires aux principes, aux usages et aux enjeux de l’IA appliquée au domaine médical.&lt;/p&gt;
 &lt;p&gt;Ce projet a été développé en collaboration avec &lt;strong&gt;Thomas Guyet&lt;/strong&gt; et &lt;strong&gt;Manuel Jasse&lt;/strong&gt;.&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;&#34;&gt;
@@ -190,9 +190,9 @@ Plusieurs extensions et améliorations sont actuellement à l’étude afin d’
     
     <item>
       <title>🇫🇷 Interview sur mes travaux de recherche menés au sein d’AIStroSight</title>
-      <link>http://localhost:1313/mediation/article_inria/</link>
+      <link>https://mmaelle.github.io/mediation/article_inria/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/article_inria/</guid>
+      <guid>https://mmaelle.github.io/mediation/article_inria/</guid>
       <description>&lt;p&gt;J’ai été interviewée par la journaliste scientifique &lt;strong&gt;Catherine Decombe-Joulain&lt;/strong&gt; dans le cadre d’un article publié par l&amp;rsquo;&lt;strong&gt;Inria&lt;/strong&gt;.&lt;br&gt;
 Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &lt;strong&gt;AIstroSight&lt;/strong&gt;, récemment installée à l’&lt;strong&gt;Hôpital Neurologique de Lyon Est&lt;/strong&gt; (HCL), ainsi que notre collaboration étroite avec les praticiennes et praticiens hospitaliers.&lt;/p&gt;
 &lt;h2 id=&#34;-lire-larticle-sur-le-site-dinria&#34;&gt;📌 Lire l’article sur le site d’Inria&lt;/h2&gt;
@@ -202,9 +202,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>🇫🇷 Intervention dans une table ronde sur l&#39;utilisation des IA génératives en éducation</title>
-      <link>http://localhost:1313/mediation/education/</link>
+      <link>https://mmaelle.github.io/mediation/education/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/education/</guid>
+      <guid>https://mmaelle.github.io/mediation/education/</guid>
       <description>&lt;p&gt;Le 25 juin 2025, j’ai participé à la table ronde organisée par le &lt;strong&gt;Réseau Canopé&lt;/strong&gt; intitulée &lt;strong&gt;« Vers des critères de choix partagés et pérennes dans les usages des IA génératives en éducation »&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Mon intervention a consisté à offrir un éclairage technique et éthique sur les IA génératives, en expliquant leur fonctionnement, les risques associés, tels que les biais, les hallucinations ou l’impact environnemental, ainsi que leurs limites et les perspectives actuelles concernant leur usage en contexte scolaire.&lt;/p&gt;
 &lt;h2 id=&#34;-revoir-la-table-ronde&#34;&gt;🎥 Revoir la table ronde&lt;/h2&gt;
@@ -220,9 +220,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>AI for Stroke Outcome Prediction</title>
-      <link>http://localhost:1313/project/avc/</link>
+      <link>https://mmaelle.github.io/project/avc/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/avc/</guid>
+      <guid>https://mmaelle.github.io/project/avc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Postdoctoral Researcher at Inria in AIstroSight team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt; Dr. Metchouff – Physician at Hospices Civils de Lyon (HCL)&lt;/p&gt;
 &lt;h2 id=&#34;scientific-and-technological-objectives&#34;&gt;Scientific and Technological Objectives&lt;/h2&gt;
@@ -262,17 +262,17 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Scientific Game Jam 2025 – Jury Member</title>
-      <link>http://localhost:1313/responsibilities/sci_game_jam_jury/</link>
+      <link>https://mmaelle.github.io/responsibilities/sci_game_jam_jury/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/sci_game_jam_jury/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/sci_game_jam_jury/</guid>
       <description>&lt;p&gt;Evaluation of projects during this 48-hour video game development event and selection of winners.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Targeted discovery of pharmacological targets using language models</title>
-      <link>http://localhost:1313/project/theranexus/</link>
+      <link>https://mmaelle.github.io/project/theranexus/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theranexus/</guid>
+      <guid>https://mmaelle.github.io/project/theranexus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  Supervisor of research internship with William Peoc’h, in collaboration with Hugues Berry&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -317,9 +317,9 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Technology Watch</title>
-      <link>http://localhost:1313/teaching/vt/</link>
+      <link>https://mmaelle.github.io/teaching/vt/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/vt/</guid>
+      <guid>https://mmaelle.github.io/teaching/vt/</guid>
       <description>&lt;h2 id=&#34;veille-technologique-vt&#34;&gt;&amp;ldquo;Veille Technologique&amp;rdquo; (VT)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING3 SCIA &amp;amp; ING3 IF (30 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2023-2024&lt;br&gt;
@@ -342,20 +342,20 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Explain’AI Workshop - EGC 2025, Strasbourg</title>
-      <link>http://localhost:1313/responsibilities/egc2025/</link>
+      <link>https://mmaelle.github.io/responsibilities/egc2025/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/egc2025/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/egc2025/</guid>
       <description>&lt;p&gt;Co-organized the AI explainability workshop: planning, speaker selection, paper review and event facilitation in Strasbourg.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🇫🇷 Sensibilisation aux sciences du numérique au Lycée Simone Weil</title>
-      <link>http://localhost:1313/mediation/chiche/</link>
+      <link>https://mmaelle.github.io/mediation/chiche/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/chiche/</guid>
+      <guid>https://mmaelle.github.io/mediation/chiche/</guid>
       <description>&lt;p&gt;Le programme &lt;a href=&#34;https://chiche.inria.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« 1 scientifique, 1 classe : chiche ! »&lt;/a&gt; offre aux élèves l’opportunité de rencontrer, directement en classe, des scientifiques du numérique. L’objectif est double : leur permettre de mieux comprendre les sciences et les recherches menées dans ce domaine, tout en luttant contre les stéréotypes, notamment ceux liés aux métiers de la recherche et aux représentations genrées du numérique.&lt;/p&gt;
 &lt;p&gt;Ces échanges privilégiés, mêlant témoignages, discussions et partage d’expériences, contribuent à une meilleure compréhension d’un monde façonné par le numérique. Ils jouent également un rôle clé dans l’éveil des vocations scientifiques, en particulier chez les filles.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/chiche/lycee.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/chiche/lycee.jpg&#34;
     alt=&#34;Lycée Simone WEIL&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Lycée Simone WEIL&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -377,58 +377,58 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Design of the Educational Framework for the Bachelor&#39;s Program in AI, Biotech and Health</title>
-      <link>http://localhost:1313/responsibilities/bachelor_epita/</link>
+      <link>https://mmaelle.github.io/responsibilities/bachelor_epita/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/bachelor_epita/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/bachelor_epita/</guid>
       <description>&lt;p&gt;Curriculum defined through 4 ideation workshops, focusing on strategic directions and key competencies. Launch: Sept 2025.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ComSciCon 2024, Lyon – Organizing Team</title>
-      <link>http://localhost:1313/responsibilities/comscicon2024/</link>
+      <link>https://mmaelle.github.io/responsibilities/comscicon2024/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/comscicon2024/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/comscicon2024/</guid>
       <description>&lt;p&gt;Designed the program, selected activities and speakers, and secured funding for the science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://mmaelle.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://mmaelle.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explain’AI Workshop - EGC 2024, Dijon</title>
-      <link>http://localhost:1313/responsibilities/egc2024/</link>
+      <link>https://mmaelle.github.io/responsibilities/egc2024/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/egc2024/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/egc2024/</guid>
       <description>&lt;p&gt;Co-organized a one-day event on AI explainability: speaker selection, paper review, and session moderation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decoding student learning in medical education through UNESS platform interactions</title>
-      <link>http://localhost:1313/publication/moranges-2024-poster/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2024-poster/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2024-poster/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2024-poster/</guid>
       <description>&lt;p&gt;Poster presented at the Symposium of GDR MaDICS, May 29-30, 2024&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using Exceptional Attributed Subgraph Mining to Explore Interindividual Variability in Odor Pleasantness Processing in the Piriform Cortex and Amygdala</title>
-      <link>http://localhost:1313/publication/moranges-2024-using/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2024-using/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2024-using/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2024-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🇫🇷 Relecture du script d&#39;une vidéo de vulgarisation scientifique sur la mémoire avec Exaltia</title>
-      <link>http://localhost:1313/mediation/meandre/</link>
+      <link>https://mmaelle.github.io/mediation/meandre/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/meandre/</guid>
+      <guid>https://mmaelle.github.io/mediation/meandre/</guid>
       <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;opportunité de collaborer avec le &lt;a href=&#34;https://www.exaltia.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collectif &lt;strong&gt;Exaltia&lt;/strong&gt;&lt;/a&gt; en tant que relectrice scientifique pour le script de leur vidéo de vulgarisation sur la mémoire dans le cadre du projet &lt;a href=&#34;https://www.exaltia.info/meandres&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Méandre&lt;/a&gt;. Exaltia est un studio d&amp;rsquo;innovation culturelle dédié à la diffusion des sciences, utilisant des formats innovants mêlant musique, cinéma, art et exploration pour sensibiliser le public.&lt;/p&gt;
 &lt;h2 id=&#34;le-cerveau-face-à-la-mémoire-avec-lea_bello--méandres-1&#34;&gt;LE CERVEAU FACE À LA MÉMOIRE (avec ‪@Lea_Bello‬) | Méandres #1&lt;/h2&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -446,17 +446,17 @@ Cet entretien met en lumière mes travaux de recherche au sein de l’équipe &l
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://mmaelle.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://mmaelle.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis and Enhancement of a Medical E-Learning Database</title>
-      <link>http://localhost:1313/project/uness/</link>
+      <link>https://mmaelle.github.io/project/uness/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/uness/</guid>
+      <guid>https://mmaelle.github.io/project/uness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This research was conducted in partnership with &lt;strong&gt;UNESS (Université Numérique en Santé et Sport)&lt;/strong&gt;, which developed and maintains a French national platform for medical e-learning.&lt;/li&gt;
@@ -530,9 +530,9 @@ This project aimed to &lt;strong&gt;enhance the UNESS database using AI&lt;/stro
     
     <item>
       <title>Leveraging AI to Enhance Educational Practices</title>
-      <link>http://localhost:1313/project/tupaia/</link>
+      <link>https://mmaelle.github.io/project/tupaia/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tupaia/</guid>
+      <guid>https://mmaelle.github.io/project/tupaia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Postdoctoral researcher in artificial intelligence at LIG (Laboratoire Informatique de Grenoble)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -574,9 +574,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Illustration animée sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/illustration/</link>
+      <link>https://mmaelle.github.io/mediation/illustration/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/illustration/</guid>
+      <guid>https://mmaelle.github.io/mediation/illustration/</guid>
       <description>&lt;p&gt;Dans le cadre du dossier &lt;strong&gt;« Diagnostic 2.0 : Quand l’IA intervient »&lt;/strong&gt; de &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, une illustration animée présente, en parallèle, les différentes étapes du &lt;strong&gt;diagnostic médical réalisé par un médecin&lt;/strong&gt; et du &lt;strong&gt;développement d’un modèle d’intelligence artificielle appliqué à la santé&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Cette ressource de vulgarisation permet de mieux comprendre :&lt;/p&gt;
 &lt;ul&gt;
@@ -599,9 +599,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Animation de la gazette du festival Pop&#39;Sciences</title>
-      <link>http://localhost:1313/mediation/gazette/</link>
+      <link>https://mmaelle.github.io/mediation/gazette/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/gazette/</guid>
+      <guid>https://mmaelle.github.io/mediation/gazette/</guid>
       <description>&lt;p&gt;Dans le cadre du &lt;a href=&#34;https://popsciences.universite-lyon.fr/les-editions-precedentes-du-festival-popsciences/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Festival Pop&amp;rsquo;Sciences 2023&lt;/strong&gt;&lt;/a&gt;, qui s&amp;rsquo;est tenu du 12 au 14 mai à Villeurbanne autour du thème « Un monde en transition », j&amp;rsquo;ai eu le plaisir de participer à l&amp;rsquo;animation de la &lt;a href=&#34;https://lysieres.univ-lyon2.fr/des-rencontres-entre-mondes-mediatiques-et-mondes-scientifiques/retour-sur-la-gazette-du-festival&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gazette du Festival&lt;/strong&gt;&lt;/a&gt; en tant que relectrice scientifique. Cet atelier immersif a offert au grand public l&amp;rsquo;opportunité de s&amp;rsquo;initier au journalisme scientifique en couvrant les diverses activités du festival.&lt;/p&gt;
 &lt;h2 id=&#34;la-gazette-du-festival&#34;&gt;La Gazette du Festival&lt;/h2&gt;
 &lt;p&gt;Proposée par Pop&amp;rsquo;Sciences en partenariat avec des journalistes professionnelles, la Gazette a permis aux participants de se glisser dans la peau de journalistes scientifiques. Après une présentation des bases du journalisme et de l&amp;rsquo;écriture d&amp;rsquo;articles, les participants ont enquêté sur le terrain du festival, réalisant interviews, portraits et reportages photos. Leurs productions ont été compilées dans une version papier et numérique de la Gazette, disponible ci-dessous.&lt;/p&gt;
@@ -612,9 +612,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Rédaction d&#39;articles par mes étudiants sur l&#39;Intelligence Artificielle</title>
-      <link>http://localhost:1313/mediation/students_articles/</link>
+      <link>https://mmaelle.github.io/mediation/students_articles/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/students_articles/</guid>
+      <guid>https://mmaelle.github.io/mediation/students_articles/</guid>
       <description>&lt;p&gt;Dans le cadre du cours d&amp;rsquo;&lt;a href=&#34;https://mmaelle.github.io/teaching/iaa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction à l&amp;rsquo;apprentissage automatique&lt;/strong&gt;&lt;/a&gt; que j&amp;rsquo;ai dispensé aux étudiants de deuxième année du cycle d&amp;rsquo;ingénieur à l&amp;rsquo;&lt;a href=&#34;https://www.epita.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EPITA&lt;/strong&gt;&lt;/a&gt;, ces derniers ont rédigé une série d&amp;rsquo;articles abordant diverses questions liées à l&amp;rsquo;Intelligence Artificielle (IA). J&amp;rsquo;ai eu le plaisir de relire et de corriger leurs travaux, qui ont été publiés dans le dossier Pop&amp;rsquo;Sciences intitulé &lt;a href=&#34;https://popsciences.universite-lyon.fr/ressources/lia-en-faq-les-etudiants-nous-repondent-6-dossier-popsciences-diagnostic-2-0-quand-lia-intervient/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;« Diagnostic 2.0 : Quand l&amp;rsquo;IA intervient »&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;lia-en-faq--les-étudiants-répondent&#34;&gt;L&amp;rsquo;IA en FAQ : Les étudiants répondent&lt;/h2&gt;
 &lt;p&gt;Les articles rédigés par les étudiants prennent la forme de questions-réponses, abordant des thématiques variées autour de l&amp;rsquo;IA. Voici les questions traitées :&lt;/p&gt;
@@ -635,17 +635,17 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>ComSciCon 2023, Nancy – Organizing Team</title>
-      <link>http://localhost:1313/responsibilities/comscicon2023/</link>
+      <link>https://mmaelle.github.io/responsibilities/comscicon2023/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/comscicon2023/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/comscicon2023/</guid>
       <description>&lt;p&gt;Led program design, selected speakers and coordinated logistics for the 2.5-day science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Introduction to Machine Learning</title>
-      <link>http://localhost:1313/teaching/iaa/</link>
+      <link>https://mmaelle.github.io/teaching/iaa/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/iaa/</guid>
+      <guid>https://mmaelle.github.io/teaching/iaa/</guid>
       <description>&lt;h2 id=&#34;introduction-à-lapprentissage-automatique-iaa&#34;&gt;&amp;ldquo;Introduction à l’Apprentissage Automatique&amp;rdquo; (IAA)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; 1st year of engineering (ING1) (35 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023&lt;br&gt;
@@ -658,9 +658,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Rendez-vous LYSiERES² sur l’Intelligence Artificielle en santé</title>
-      <link>http://localhost:1313/mediation/table_ronde/</link>
+      <link>https://mmaelle.github.io/mediation/table_ronde/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/table_ronde/</guid>
+      <guid>https://mmaelle.github.io/mediation/table_ronde/</guid>
       <description>&lt;p&gt;Dans le cadre de ma mission doctorale chez &lt;strong&gt;Pop’Sciences&lt;/strong&gt;, j&amp;rsquo;ai animé une &lt;strong&gt;table ronde&lt;/strong&gt; sur le rôle de l’Intelligence Artificielle (IA) dans le domaine médical.&lt;/p&gt;
 &lt;p&gt;Lors de cette table ronde, deux chercheurs ont partagé leurs connaissances et perspectives sur les applications actuelles et futures de l’IA en médecine :&lt;/p&gt;
 &lt;ul&gt;
@@ -690,9 +690,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Graph Data Mining</title>
-      <link>http://localhost:1313/teaching/gdm/</link>
+      <link>https://mmaelle.github.io/teaching/gdm/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/gdm/</guid>
+      <guid>https://mmaelle.github.io/teaching/gdm/</guid>
       <description>&lt;h2 id=&#34;graph-data-mining-gdm&#34;&gt;Graph Data Mining (GDM)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING2 SCIA (20 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
@@ -705,9 +705,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Language Typology</title>
-      <link>http://localhost:1313/teaching/tyla/</link>
+      <link>https://mmaelle.github.io/teaching/tyla/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/tyla/</guid>
+      <guid>https://mmaelle.github.io/teaching/tyla/</guid>
       <description>&lt;h2 id=&#34;typologie-des-langages-tyla&#34;&gt;&amp;ldquo;Typologie des langages&amp;rdquo; (TYLA)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; ING1 (110 students)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2022-2023
@@ -720,33 +720,33 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>Scientific Game Jam 2023 – Scientific Mentor</title>
-      <link>http://localhost:1313/responsibilities/sci_game_jam/</link>
+      <link>https://mmaelle.github.io/responsibilities/sci_game_jam/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/sci_game_jam/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/sci_game_jam/</guid>
       <description>&lt;p&gt;Coached team scientists to effectively pitch their projects to the jury at the 48-hour game development event.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Peripheral Nervous System Responses to Food Stimuli: Analysis Using Data Science Approaches</title>
-      <link>http://localhost:1313/publication/moranges-2023-peripheral/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2023-peripheral/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2023-peripheral/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2023-peripheral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variabilités émotionnelle et neurophysiologique dans la perception olfactive: étude par l’intelligence artificielle</title>
-      <link>http://localhost:1313/publication/moranges-2023-variabilites/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2023-variabilites/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2023-variabilites/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2023-variabilites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🇫🇷 Mini-série animée de Mediasens sur l&#39;olfaction</title>
-      <link>http://localhost:1313/mediation/mediasens/</link>
+      <link>https://mmaelle.github.io/mediation/mediasens/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/mediasens/</guid>
+      <guid>https://mmaelle.github.io/mediation/mediasens/</guid>
       <description>&lt;p&gt;Mediasens, lauréat de l&amp;rsquo;appel à projets 2021 du &lt;a href=&#34;https://www.gdr-o3.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDRO3&lt;/a&gt;, a pour objectif de diffuser les connaissances scientifiques sur l&amp;rsquo;olfaction à travers une mini-série d&amp;rsquo;animation. Cette initiative vise à rendre accessibles les avancées de la recherche dans ce domaine au grand public.&lt;/p&gt;
 &lt;h2 id=&#34;épisodes-de-la-mini-série&#34;&gt;Épisodes de la mini-série&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Episode 1 – Le voyage d’Ester&lt;/strong&gt;:&lt;/p&gt;
@@ -772,17 +772,17 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>ComSciCon 2022, Marseille – Organizing Team</title>
-      <link>http://localhost:1313/responsibilities/comscicon2022/</link>
+      <link>https://mmaelle.github.io/responsibilities/comscicon2022/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/responsibilities/comscicon2022/</guid>
+      <guid>https://mmaelle.github.io/responsibilities/comscicon2022/</guid>
       <description>&lt;p&gt;Supported logistics, candidate selection, and event coordination for this science communication workshop.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Biostatistics and Bioinformatics</title>
-      <link>http://localhost:1313/teaching/bioinfo/</link>
+      <link>https://mmaelle.github.io/teaching/bioinfo/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/bioinfo/</guid>
+      <guid>https://mmaelle.github.io/teaching/bioinfo/</guid>
       <description>&lt;h2 id=&#34;biostatistiques-et-bioinformatique-bio2006l&#34;&gt;&amp;ldquo;Biostatistiques et bioinformatique&amp;rdquo; (BIO2006L)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; L3 Life Sciences, Bioinformatics track (20 students)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
@@ -795,9 +795,9 @@ One key finding was that pauses mediate the effect of note-taking on learning pe
     
     <item>
       <title>🇫🇷 Participation à un Cinéma-Débat sur l&#39;Intelligence Artificielle à Belleville-en-Beaujolais</title>
-      <link>http://localhost:1313/mediation/cine-debat/</link>
+      <link>https://mmaelle.github.io/mediation/cine-debat/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/cine-debat/</guid>
+      <guid>https://mmaelle.github.io/mediation/cine-debat/</guid>
       <description>&lt;p&gt;Le &lt;strong&gt;13 mai 2022&lt;/strong&gt;, j&amp;rsquo;ai eu l&amp;rsquo;opportunité de participer à un &lt;strong&gt;cinéma-débat&lt;/strong&gt; organisé par le &lt;strong&gt;cinéma Le Singulier(s)&lt;/strong&gt; à Belleville-en-Beaujolais.&lt;br&gt;
 Cet événement portait sur le thème :&lt;br&gt;
 &lt;strong&gt;&amp;ldquo;Du cerveau humain à l&amp;rsquo;intelligence artificielle, entre progrès et dangers. Quels enjeux et quelles limites ?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
@@ -833,9 +833,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Ma thèse en 180 secondes ⏱️</title>
-      <link>http://localhost:1313/mediation/m180/</link>
+      <link>https://mmaelle.github.io/mediation/m180/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/m180/</guid>
+      <guid>https://mmaelle.github.io/mediation/m180/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mt180.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Ma thèse en 180 secondes&amp;rdquo;&lt;/a&gt; permet aux doctorants de présenter leur sujet de recherche, en français et en termes simples, à un auditoire diversifié. Chaque étudiant ou étudiante doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche.&lt;/p&gt;
 &lt;h2 id=&#34;finale-lyonnaise-de-mt180&#34;&gt;Finale lyonnaise de MT180&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ma présentation&lt;/strong&gt;:&lt;/p&gt;
@@ -843,7 +843,7 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uEzYulfrQ5g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/mediation/m180/photo.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;https://mmaelle.github.io/mediation/m180/photo.jpg&#34;
     alt=&#34;©Vincent Noclin&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;©Vincent Noclin&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -854,9 +854,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Vidéo de vulgarisation réalisée avec L’Exploratoire 📽️</title>
-      <link>http://localhost:1313/mediation/99sec/</link>
+      <link>https://mmaelle.github.io/mediation/99sec/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/99sec/</guid>
+      <guid>https://mmaelle.github.io/mediation/99sec/</guid>
       <description>&lt;p&gt;Avec son initiative 99SEC, l’association L’Exploratoire veut briser les barrières entre producteurs et consommateurs de savoir. Son concept : un format novateur qui mise sur la concision et l’efficacité du message. En 99 secondes, les sciences – du vivant, humaines ou de l’ingénierie – se dévoilent et se démystifient.&lt;/p&gt;
 &lt;p&gt;Une dose de science plus rapide qu’une pause café. ☕&lt;/p&gt;
 &lt;h2 id=&#34;quel-est-le-lien-entre-olfaction-et-émotion-&#34;&gt;Quel est le lien entre OLFACTION et ÉMOTION ?&lt;/h2&gt;
@@ -869,9 +869,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Data Mining</title>
-      <link>http://localhost:1313/teaching/data_mining/</link>
+      <link>https://mmaelle.github.io/teaching/data_mining/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/data_mining/</guid>
+      <guid>https://mmaelle.github.io/teaching/data_mining/</guid>
       <description>&lt;h2 id=&#34;data-mining-inf2355m&#34;&gt;&amp;ldquo;Data Mining&amp;rdquo; (INF2355M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Data Science (60 students in TD &amp;amp; TP)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
@@ -884,9 +884,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Knowledge Discovery in Data</title>
-      <link>http://localhost:1313/teaching/dcd/</link>
+      <link>https://mmaelle.github.io/teaching/dcd/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/dcd/</guid>
+      <guid>https://mmaelle.github.io/teaching/dcd/</guid>
       <description>&lt;h2 id=&#34;découverte-de-connaissances-dans-les-données-inf2418m&#34;&gt;&amp;ldquo;Découverte de connaissances dans les données&amp;rdquo; (INF2418M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Information Technologies and Web (TIW) &amp;amp; M2 Bioinformatics (50 students)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2021-2022
@@ -899,17 +899,17 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Using subgroup discovery to relate odor pleasantness and intensity to peripheral nervous system reactions</title>
-      <link>http://localhost:1313/publication/moranges-2022-using/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2022-using/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Databases</title>
-      <link>http://localhost:1313/teaching/database/</link>
+      <link>https://mmaelle.github.io/teaching/database/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/database/</guid>
+      <guid>https://mmaelle.github.io/teaching/database/</guid>
       <description>&lt;h2 id=&#34;bases-de-données-avancées-inf3048l&#34;&gt;&amp;ldquo;Bases de données avancées&amp;rdquo; (INF3048L)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; L3 Computer Science (30 students in TD, 15 in TP)&lt;br&gt;
 &lt;strong&gt;Year:&lt;/strong&gt; 2020-2021
@@ -922,9 +922,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>🇫🇷 Création d&#39;un jeu vidéo lors de la Scientific Game Jam</title>
-      <link>http://localhost:1313/mediation/game_jam/</link>
+      <link>https://mmaelle.github.io/mediation/game_jam/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mediation/game_jam/</guid>
+      <guid>https://mmaelle.github.io/mediation/game_jam/</guid>
       <description>&lt;p&gt;La &lt;a href=&#34;https://itch.io/jam/scientific-game-jam-lyon-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scientific Game Jam&lt;/strong&gt;&lt;/a&gt; est un événement dédié à la création de jeux vidéo scientifiques. Contrairement aux game jams traditionnelles, celle-ci propose aux participants de développer un jeu vidéo autour du thème de recherche d&amp;rsquo;un·e jeune chercheur·se — doctorant·e ou jeune docteur·e.&lt;/p&gt;
 &lt;h2 id=&#34;le-lac-des-cil&#34;&gt;Le Lac Des Cil&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Le Lac des Cils&lt;/strong&gt; est un jeu vidéo éducatif basé sur ma thèse, développé lors de la Scientific Game Jam de Lyon en 2021. Ce projet a été réalisé en collaboration avec :&lt;/p&gt;
@@ -948,43 +948,43 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Contribution de l’anthropologie sensorielle à l’étude du COVID-19</title>
-      <link>http://localhost:1313/publication/pereda-2021-contribution/</link>
+      <link>https://mmaelle.github.io/publication/pereda-2021-contribution/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pereda-2021-contribution/</guid>
+      <guid>https://mmaelle.github.io/publication/pereda-2021-contribution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Explicit and implicit measures of emotions: Data-science might help to account for data complexity and heterogeneity</title>
-      <link>http://localhost:1313/publication/moranges-2021-explicit/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2021-explicit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2021-explicit/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2021-explicit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the subjectivity of human olfaction and its variability</title>
-      <link>http://localhost:1313/publication/mantel-2021-poster/</link>
+      <link>https://mmaelle.github.io/publication/mantel-2021-poster/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mantel-2021-poster/</guid>
+      <guid>https://mmaelle.github.io/publication/mantel-2021-poster/</guid>
       <description>&lt;p&gt;Poster presented at the Association for Psychological Science Virtual Convention, May 26-27, 2021&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recovery from COVID-19-related olfactory disorders and quality of life: insights from an observational online study</title>
-      <link>http://localhost:1313/publication/ferdenzi-2021-recovery/</link>
+      <link>https://mmaelle.github.io/publication/ferdenzi-2021-recovery/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ferdenzi-2021-recovery/</guid>
+      <guid>https://mmaelle.github.io/publication/ferdenzi-2021-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psychophysiology of Perception</title>
-      <link>http://localhost:1313/teaching/psy/</link>
+      <link>https://mmaelle.github.io/teaching/psy/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/psy/</guid>
+      <guid>https://mmaelle.github.io/teaching/psy/</guid>
       <description>&lt;h2 id=&#34;psychophysiologie-de-la-perception-bio2363m&#34;&gt;&amp;ldquo;Psychophysiologie de la perception&amp;rdquo; (BIO2363M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Neurophysiology of Perception and Sensory Evaluation (20 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2020-2021&lt;br&gt;
@@ -997,9 +997,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title> Exploring the Impact of COVID-19-Related Smell Disorders</title>
-      <link>http://localhost:1313/project/covid-neuropop/</link>
+      <link>https://mmaelle.github.io/project/covid-neuropop/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-neuropop/</guid>
+      <guid>https://mmaelle.github.io/project/covid-neuropop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis and science communication&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This project was conducted within the &lt;a href=&#34;https://www.crnl.fr/fr/equipe/neuropop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEUROPOP team&lt;/a&gt; at CRNL.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
@@ -1032,9 +1032,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>NeuroConferences</title>
-      <link>http://localhost:1313/teaching/neuroconferences/</link>
+      <link>https://mmaelle.github.io/teaching/neuroconferences/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/neuroconferences/</guid>
+      <guid>https://mmaelle.github.io/teaching/neuroconferences/</guid>
       <description>&lt;h2 id=&#34;neuroconférences-bio2357m&#34;&gt;&amp;ldquo;NeuroConférences&amp;rdquo; (BIO2357M)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; M2 Fundamental and Clinical Neurosciences (100 students)
 &lt;strong&gt;Year:&lt;/strong&gt; 2020-2021&lt;br&gt;
@@ -1047,9 +1047,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Tracking Olfactory Disorders as Early COVID-19 Indicators</title>
-      <link>http://localhost:1313/project/covid-gccr/</link>
+      <link>https://mmaelle.github.io/project/covid-gccr/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/covid-gccr/</guid>
+      <guid>https://mmaelle.github.io/project/covid-gccr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  data analysis&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; This study was conducted under the international collaboration of the &lt;a href=&#34;https://gcchemosensr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Global Consortium for Chemosensory Research&lt;/strong&gt; (GCCR)&lt;/a&gt;, which includes researchers from multiple institutions such as Université Côte d’Azur, University of Florence, Yale University, University of California Irvine and The Pennsylvania State University.&lt;/p&gt;
 &lt;h2 id=&#34;scientific-objectives&#34;&gt;Scientific Objectives&lt;/h2&gt;
@@ -1081,9 +1081,9 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Understanding the Neurophysiological Mechanisms of Olfactory Perception and Emotion Using AI</title>
-      <link>http://localhost:1313/project/chemosim/</link>
+      <link>https://mmaelle.github.io/project/chemosim/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/chemosim/</guid>
+      <guid>https://mmaelle.github.io/project/chemosim/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;  PhD Student&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funding:&lt;/strong&gt;  This research was conducted under the &lt;a href=&#34;https://anr.fr/Projet-ANR-19-CE07-0044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ANR ChEmoSim&lt;/strong&gt;&lt;/a&gt;, , which focuses on the rational design of compounds targeting taste, odors, and their emotional impact. The project supported investigations into the neurophysiological mechanisms of olfactory perception and its link to emotions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators :&lt;/strong&gt;&lt;/p&gt;
@@ -1126,26 +1126,26 @@ Ce débat a offert un cadre propice aux échanges entre experts et grand public,
     
     <item>
       <title>Exploring the relation between olfaction and affective states using artificial intelligence algorithms</title>
-      <link>http://localhost:1313/publication/moranges-2020-poster/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2020-poster/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2020-poster/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2020-poster/</guid>
       <description>&lt;p&gt;Poster presented at the European Chemoreception Research Organization, September 16-18, 2020, Dresden, Germany&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smell and taste changes are early indicators of the COVID-19 pandemic and political decision effectiveness</title>
-      <link>http://localhost:1313/publication/pierron-2020-smell/</link>
+      <link>https://mmaelle.github.io/publication/pierron-2020-smell/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pierron-2020-smell/</guid>
+      <guid>https://mmaelle.github.io/publication/pierron-2020-smell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceptional attributed subgraph mining to understand the olfactory percept</title>
-      <link>http://localhost:1313/publication/moranges-2018-exceptional/</link>
+      <link>https://mmaelle.github.io/publication/moranges-2018-exceptional/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moranges-2018-exceptional/</guid>
+      <guid>https://mmaelle.github.io/publication/moranges-2018-exceptional/</guid>
       <description></description>
     </item>
     
